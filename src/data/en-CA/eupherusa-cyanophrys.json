@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-capped Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eupherusa cyanophrys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCAH",
+        "spec6": "EUPCYP",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

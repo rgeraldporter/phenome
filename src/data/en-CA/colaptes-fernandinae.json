@@ -1,0 +1,19 @@
+{
+    "commonName": "Fernandina's Flicker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colaptes fernandinae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FEFL",
+        "spec6": "COLFER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-capped Pygmy-Tyrant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiornis atricapillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BPYT",
+        "spec6": "MYIATP",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

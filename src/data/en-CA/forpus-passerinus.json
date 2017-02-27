@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-rumped Parrotlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Forpus passerinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRUP",
+        "spec6": "FORPAS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

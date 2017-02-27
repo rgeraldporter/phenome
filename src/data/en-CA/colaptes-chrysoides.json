@@ -1,0 +1,19 @@
+{
+    "commonName": "Gilded Flicker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colaptes chrysoides",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GIFL",
+        "spec6": "COLCHR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

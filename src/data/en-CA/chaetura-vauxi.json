@@ -1,0 +1,19 @@
+{
+    "commonName": "Vaux's Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetura vauxi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VASW",
+        "spec6": "CHAVAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

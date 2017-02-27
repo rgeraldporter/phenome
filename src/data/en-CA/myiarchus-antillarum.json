@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus antillarum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRFL",
+        "spec6": "MYIANT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

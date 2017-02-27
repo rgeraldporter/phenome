@@ -1,0 +1,19 @@
+{
+    "commonName": "Short-billed Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas nigrirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBPI",
+        "spec6": "PATNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

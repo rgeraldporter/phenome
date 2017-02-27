@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo gundlachii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUVI",
+        "spec6": "VIRGUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

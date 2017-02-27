@@ -1,0 +1,19 @@
+{
+    "commonName": "Collared Redstart",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myioborus torquatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COLR",
+        "spec6": "MYITOR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

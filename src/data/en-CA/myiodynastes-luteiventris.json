@@ -1,0 +1,19 @@
+{
+    "commonName": "Sulphur-bellied Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiodynastes luteiventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBFL",
+        "spec6": "MYILUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Pirre Chlorospingus",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorospingus inornatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PICH",
+        "spec6": "CHLINO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

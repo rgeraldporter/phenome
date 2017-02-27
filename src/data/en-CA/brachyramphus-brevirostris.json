@@ -1,0 +1,19 @@
+{
+    "commonName": "Kittlitz's Murrelet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Brachyramphus brevirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KIMU",
+        "spec6": "BRABRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

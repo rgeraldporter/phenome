@@ -1,0 +1,19 @@
+{
+    "commonName": "Cozumel Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo bairdi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COVI",
+        "spec6": "VIRBAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

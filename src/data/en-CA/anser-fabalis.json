@@ -1,0 +1,19 @@
+{
+    "commonName": "Taiga Bean-Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anser fabalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TABG",
+        "spec6": "ANSFAB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-green Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Caryothraustes canadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YGGR",
+        "spec6": "CATCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

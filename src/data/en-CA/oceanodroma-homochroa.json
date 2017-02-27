@@ -1,0 +1,19 @@
+{
+    "commonName": "Ashy Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma homochroa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ASSP",
+        "spec6": "OCEHOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

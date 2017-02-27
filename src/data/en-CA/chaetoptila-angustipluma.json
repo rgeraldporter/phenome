@@ -1,0 +1,19 @@
+{
+    "commonName": "Kioea",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetoptila angustipluma",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KIOE",
+        "spec6": "CHAANG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

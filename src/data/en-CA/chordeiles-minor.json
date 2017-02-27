@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Nighthawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chordeiles minor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CONI",
+        "spec6": "CHOMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

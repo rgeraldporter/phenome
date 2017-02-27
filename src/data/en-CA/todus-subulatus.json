@@ -1,0 +1,19 @@
+{
+    "commonName": "Broad-billed Tody",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Todus subulatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBTO",
+        "spec6": "TODSUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

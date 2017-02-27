@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-faced Cormorant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalacrocorax urile",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RFCO",
+        "spec6": "PHAURI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

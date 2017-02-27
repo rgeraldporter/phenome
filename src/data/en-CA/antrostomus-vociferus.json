@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Whip-poor-will",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Antrostomus vociferus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EWPW",
+        "spec6": "ANTVOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

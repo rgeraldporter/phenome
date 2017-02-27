@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous Sabrewing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylopterus rufus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUSA",
+        "spec6": "CAMRUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Myna",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Acridotheres tristis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COMY",
+        "spec6": "ACRTRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

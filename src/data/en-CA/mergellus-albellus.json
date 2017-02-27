@@ -1,0 +1,19 @@
+{
+    "commonName": "Smew",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mergellus albellus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SMEW",
+        "spec6": "MERALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Mottled Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas fulvigula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MODU",
+        "spec6": "ANAFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

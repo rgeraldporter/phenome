@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Antillean Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara cucullata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LATA",
+        "spec6": "TANCUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

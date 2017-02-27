@@ -1,0 +1,19 @@
+{
+    "commonName": "Short-tailed Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetura brachyura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STSW",
+        "spec6": "CHABRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

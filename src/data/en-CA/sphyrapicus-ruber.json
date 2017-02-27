@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-breasted Sapsucker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sphyrapicus ruber",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBSA",
+        "spec6": "SPHRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

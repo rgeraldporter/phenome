@@ -1,0 +1,19 @@
+{
+    "commonName": "Kauai Oo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Moho braccatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KAOO",
+        "spec6": "MOHBRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

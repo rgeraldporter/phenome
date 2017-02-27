@@ -1,0 +1,19 @@
+{
+    "commonName": "White-whiskered Puffbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Malacoptila panamensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WWPU",
+        "spec6": "MALPAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

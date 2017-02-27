@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Antshrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thamnophilus nigriceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLAN",
+        "spec6": "THANIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

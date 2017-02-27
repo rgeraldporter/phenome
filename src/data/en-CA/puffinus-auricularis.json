@@ -1,0 +1,19 @@
+{
+    "commonName": "Townsend's Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus auricularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TOSH",
+        "spec6": "PUFAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

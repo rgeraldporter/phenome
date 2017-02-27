@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive-striped Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mionectes olivaceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OSTF",
+        "spec6": "MIOOLI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

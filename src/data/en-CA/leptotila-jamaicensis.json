@@ -1,0 +1,19 @@
+{
+    "commonName": "Caribbean Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leptotila jamaicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CADO",
+        "spec6": "LEPJAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

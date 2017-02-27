@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Potoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nyctibius jamaicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NORP",
+        "spec6": "NYCJAM",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

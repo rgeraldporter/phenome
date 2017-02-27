@@ -1,0 +1,19 @@
+{
+    "commonName": "Oahu Amakihi",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hemignathus flavus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OAAM",
+        "spec6": "HEMFLS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

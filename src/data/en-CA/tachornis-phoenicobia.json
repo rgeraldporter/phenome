@@ -1,0 +1,19 @@
+{
+    "commonName": "Antillean Palm-Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachornis phoenicobia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANPS",
+        "spec6": "TACPHO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

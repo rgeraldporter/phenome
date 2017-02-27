@@ -1,0 +1,19 @@
+{
+    "commonName": "Curlew Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris ferruginea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUSA",
+        "spec6": "CALFER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

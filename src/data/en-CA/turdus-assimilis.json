@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus assimilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTTH",
+        "spec6": "TURASS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

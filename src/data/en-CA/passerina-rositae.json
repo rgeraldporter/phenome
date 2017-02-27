@@ -1,0 +1,19 @@
+{
+    "commonName": "Rose-bellied Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerina rositae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBBU",
+        "spec6": "PASROS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

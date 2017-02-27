@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ardea cinerea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAH",
+        "spec6": "ARDCIN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

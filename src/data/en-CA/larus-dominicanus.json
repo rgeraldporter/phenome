@@ -1,0 +1,19 @@
+{
+    "commonName": "Kelp Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus dominicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KEGU",
+        "spec6": "LARDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

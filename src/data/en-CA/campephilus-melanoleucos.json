@@ -1,0 +1,19 @@
+{
+    "commonName": "Crimson-crested Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campephilus melanoleucos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCRW",
+        "spec6": "CAMMEL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

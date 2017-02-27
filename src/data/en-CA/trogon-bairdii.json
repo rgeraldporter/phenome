@@ -1,0 +1,19 @@
+{
+    "commonName": "Baird's Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon bairdii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BATR",
+        "spec6": "TROBAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

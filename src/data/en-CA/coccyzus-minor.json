@@ -1,0 +1,19 @@
+{
+    "commonName": "Mangrove Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus minor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MACU",
+        "spec6": "COCMIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

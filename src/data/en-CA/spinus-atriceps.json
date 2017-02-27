@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-capped Siskin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus atriceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCSI",
+        "spec6": "SPIATC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

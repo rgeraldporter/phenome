@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haplospiza rustica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLFI",
+        "spec6": "HAPRUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

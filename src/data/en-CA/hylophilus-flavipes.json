@@ -1,0 +1,19 @@
+{
+    "commonName": "Scrub Greenlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylophilus flavipes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCRG",
+        "spec6": "HYLFLA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

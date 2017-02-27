@@ -1,0 +1,19 @@
+{
+    "commonName": "Swallow-tailed Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elanoides forficatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STKI",
+        "spec6": "ELAFOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-billed Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus americanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBCU",
+        "spec6": "COCAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

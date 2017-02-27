@@ -1,0 +1,19 @@
+{
+    "commonName": "Oahu Oo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Moho apicalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OAOO",
+        "spec6": "MOHAPI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

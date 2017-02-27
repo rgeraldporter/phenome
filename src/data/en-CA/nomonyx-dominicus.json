@@ -1,0 +1,19 @@
+{
+    "commonName": "Masked Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nomonyx dominicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MADU",
+        "spec6": "NOMDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

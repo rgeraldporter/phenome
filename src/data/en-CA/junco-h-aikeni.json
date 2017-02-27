@@ -1,0 +1,19 @@
+{
+    "commonName": "White-winged Junco",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Junco h. aikeni",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "WWJU",
+        "spec6": "JUNHAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

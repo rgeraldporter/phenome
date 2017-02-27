@@ -1,0 +1,19 @@
+{
+    "commonName": "Sharp-tailed Streamcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lochmias nematura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STST",
+        "spec6": "LOCNEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

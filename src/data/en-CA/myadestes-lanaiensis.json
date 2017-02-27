@@ -1,0 +1,19 @@
+{
+    "commonName": "Olomao",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes lanaiensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OLOM",
+        "spec6": "MYALAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

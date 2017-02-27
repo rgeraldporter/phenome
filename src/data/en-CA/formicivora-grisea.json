@@ -1,0 +1,19 @@
+{
+    "commonName": "White-fringed Antwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Formicivora grisea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WFRA",
+        "spec6": "FORGRI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

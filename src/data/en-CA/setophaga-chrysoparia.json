@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-cheeked Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga chrysoparia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCWA",
+        "spec6": "SETCHR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

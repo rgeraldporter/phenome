@@ -1,0 +1,19 @@
+{
+    "commonName": "Pine Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax affinis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PINF",
+        "spec6": "EMPAFF",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

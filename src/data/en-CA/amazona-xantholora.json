@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-lored Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona xantholora",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YLPA",
+        "spec6": "AMAXAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

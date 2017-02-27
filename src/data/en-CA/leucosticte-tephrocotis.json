@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-crowned Rosy-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leucosticte tephrocotis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCRF",
+        "spec6": "LEUTEP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geotrygon montana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUQD",
+        "spec6": "GEOMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

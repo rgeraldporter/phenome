@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Goldfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus psaltria",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEGO",
+        "spec6": "SPIPSA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

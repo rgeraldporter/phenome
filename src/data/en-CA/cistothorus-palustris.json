@@ -1,0 +1,19 @@
+{
+    "commonName": "Marsh Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cistothorus palustris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAWR",
+        "spec6": "CISPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

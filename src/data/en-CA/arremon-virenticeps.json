@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-striped Brush-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arremon virenticeps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GSBF",
+        "spec6": "ARRVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

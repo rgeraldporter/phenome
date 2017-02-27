@@ -1,0 +1,19 @@
+{
+    "commonName": "Thicket Antpitta",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylopezus dives",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "THAN",
+        "spec6": "HYLDIV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

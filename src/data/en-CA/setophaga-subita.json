@@ -1,0 +1,19 @@
+{
+    "commonName": "Barbuda Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga subita",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BARW",
+        "spec6": "SETSUB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

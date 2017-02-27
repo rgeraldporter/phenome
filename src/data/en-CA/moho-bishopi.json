@@ -1,0 +1,19 @@
+{
+    "commonName": "Bishop's Oo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Moho bishopi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BIOO",
+        "spec6": "MOHBIS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

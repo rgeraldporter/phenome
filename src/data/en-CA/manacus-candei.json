@@ -1,0 +1,19 @@
+{
+    "commonName": "White-collared Manakin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Manacus candei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCOM",
+        "spec6": "MANCAN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

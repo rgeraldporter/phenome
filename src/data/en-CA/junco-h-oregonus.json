@@ -1,0 +1,19 @@
+{
+    "commonName": "Oregon Junco",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Junco h. oregonus",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "ORJU",
+        "spec6": "JUNHOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

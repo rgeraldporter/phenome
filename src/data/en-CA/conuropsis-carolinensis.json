@@ -1,0 +1,19 @@
+{
+    "commonName": "Carolina Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Conuropsis carolinensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAPA",
+        "spec6": "CONCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

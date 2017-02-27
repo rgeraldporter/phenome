@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Amakihi",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hemignathus sagittirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAM",
+        "spec6": "HEMSAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

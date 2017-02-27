@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Loon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gavia immer",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COLO",
+        "spec6": "GAVIMM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

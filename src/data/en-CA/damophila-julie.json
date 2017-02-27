@@ -1,0 +1,19 @@
+{
+    "commonName": "Violet-bellied Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Damophila julie",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VBHU",
+        "spec6": "DAMJUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

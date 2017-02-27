@@ -1,0 +1,19 @@
+{
+    "commonName": "Rosy-faced Lovebird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Agapornis roseicollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RFLO",
+        "spec6": "AGAROS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

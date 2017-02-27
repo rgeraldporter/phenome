@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-breasted Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris subruficollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBSA",
+        "spec6": "CALSUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

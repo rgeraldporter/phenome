@@ -1,0 +1,19 @@
+{
+    "commonName": "White-chinned Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus aurantius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCTH",
+        "spec6": "TURAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

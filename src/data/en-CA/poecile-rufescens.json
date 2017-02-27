@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-backed Chickadee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Poecile rufescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CBCH",
+        "spec6": "POERUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

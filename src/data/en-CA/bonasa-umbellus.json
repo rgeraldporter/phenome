@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruffed Grouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bonasa umbellus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUGR",
+        "spec6": "BONUMB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

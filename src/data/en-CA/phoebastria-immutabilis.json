@@ -1,0 +1,19 @@
+{
+    "commonName": "Laysan Albatross",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phoebastria immutabilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAAL",
+        "spec6": "PHOIMM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

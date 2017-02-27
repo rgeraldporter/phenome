@@ -1,0 +1,19 @@
+{
+    "commonName": "Plumbeous Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo plumbeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLVI",
+        "spec6": "VIRPLU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

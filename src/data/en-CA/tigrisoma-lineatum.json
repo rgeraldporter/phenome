@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufescent Tiger-Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tigrisoma lineatum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTHE",
+        "spec6": "TIGLIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

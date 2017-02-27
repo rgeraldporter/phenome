@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Chlorospingus",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorospingus flavopectus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COCL",
+        "spec6": "CHLFLP",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

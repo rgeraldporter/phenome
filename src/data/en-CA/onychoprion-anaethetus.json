@@ -1,0 +1,19 @@
+{
+    "commonName": "Bridled Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Onychoprion anaethetus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRTE",
+        "spec6": "ONYANA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

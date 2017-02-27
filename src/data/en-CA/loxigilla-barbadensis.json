@@ -1,0 +1,19 @@
+{
+    "commonName": "Barbados Bullfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxigilla barbadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BABU",
+        "spec6": "LOXBAD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

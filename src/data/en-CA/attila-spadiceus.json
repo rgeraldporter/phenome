@@ -1,0 +1,19 @@
+{
+    "commonName": "Bright-rumped Attila",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Attila spadiceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRAT",
+        "spec6": "ATTSPA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

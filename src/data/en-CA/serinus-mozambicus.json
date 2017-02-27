@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-fronted Canary",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Serinus mozambicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YFCA",
+        "spec6": "SERMOZ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

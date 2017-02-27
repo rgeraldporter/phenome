@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive-throated Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eupsittula nana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OTPA",
+        "spec6": "EUPNAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

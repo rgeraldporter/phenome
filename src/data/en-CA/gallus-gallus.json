@@ -1,0 +1,19 @@
+{
+    "commonName": "Red Junglefowl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gallus gallus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REJU",
+        "spec6": "GALGAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Rock Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Columba livia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROPI",
+        "spec6": "COLLIV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

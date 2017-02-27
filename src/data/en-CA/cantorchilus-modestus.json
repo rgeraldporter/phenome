@@ -1,0 +1,19 @@
+{
+    "commonName": "Plain Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cantorchilus modestus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLWR",
+        "spec6": "CANMOD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

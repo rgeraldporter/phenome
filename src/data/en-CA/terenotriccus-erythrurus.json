@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy-tailed Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Terenotriccus erythrurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RDTF",
+        "spec6": "TERERY",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

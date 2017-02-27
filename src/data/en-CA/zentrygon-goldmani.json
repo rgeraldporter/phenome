@@ -1,0 +1,19 @@
+{
+    "commonName": "Russet-crowned Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zentrygon goldmani",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCQD",
+        "spec6": "ZENGOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

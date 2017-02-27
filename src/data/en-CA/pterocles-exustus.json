@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-bellied Sandgrouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterocles exustus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CBSA",
+        "spec6": "PTEEXU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

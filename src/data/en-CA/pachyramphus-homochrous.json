@@ -1,0 +1,19 @@
+{
+    "commonName": "One-colored Becard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pachyramphus homochrous",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCBE",
+        "spec6": "PACHOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

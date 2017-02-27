@@ -1,0 +1,19 @@
+{
+    "commonName": "Pacific Antwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myrmotherula pacifica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAAN",
+        "spec6": "MYRPAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

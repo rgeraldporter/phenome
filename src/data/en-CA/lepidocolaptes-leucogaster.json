@@ -1,0 +1,19 @@
+{
+    "commonName": "White-striped Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lepidocolaptes leucogaster",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WSWO",
+        "spec6": "LEPLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

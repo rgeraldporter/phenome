@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Dotterel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius morinellus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUDO",
+        "spec6": "CHAMOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

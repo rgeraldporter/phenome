@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Spot-billed Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas zonorhyncha",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ESBD",
+        "spec6": "ANAZON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

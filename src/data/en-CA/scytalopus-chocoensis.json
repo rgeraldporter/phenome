@@ -1,0 +1,19 @@
+{
+    "commonName": "Choco Tapaculo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Scytalopus chocoensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHOT",
+        "spec6": "SCYCHO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

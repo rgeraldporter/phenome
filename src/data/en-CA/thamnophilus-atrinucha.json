@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-crowned Antshrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thamnophilus atrinucha",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCAS",
+        "spec6": "THAATR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

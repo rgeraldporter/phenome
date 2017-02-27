@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Parulidae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNWA",
+        "spec6": "PARGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

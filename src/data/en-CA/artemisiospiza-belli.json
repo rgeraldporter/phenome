@@ -1,0 +1,19 @@
+{
+    "commonName": "Bell's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Artemisiospiza belli",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BESP",
+        "spec6": "ARTBEL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Kestrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco tinnunculus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUKE",
+        "spec6": "FALTIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-billed Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sternula superciliaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBTE",
+        "spec6": "STESUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

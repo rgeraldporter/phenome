@@ -1,0 +1,19 @@
+{
+    "commonName": "Pale-bellied Hermit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaethornis anthophilus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBHE",
+        "spec6": "PHAANT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

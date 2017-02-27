@@ -1,0 +1,19 @@
+{
+    "commonName": "Maui Parrotbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pseudonestor xanthophrys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAPA",
+        "spec6": "PSEXAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

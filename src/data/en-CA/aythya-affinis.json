@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Scaup",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aythya affinis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LESC",
+        "spec6": "AYTAFF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

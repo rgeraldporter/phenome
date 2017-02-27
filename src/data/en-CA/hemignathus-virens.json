@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaii Amakihi",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hemignathus virens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAAM",
+        "spec6": "HEMVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

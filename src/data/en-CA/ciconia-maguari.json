@@ -1,0 +1,19 @@
+{
+    "commonName": "Maguari Stork",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ciconia maguari",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAST",
+        "spec6": "JCICMA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

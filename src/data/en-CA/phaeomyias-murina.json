@@ -1,0 +1,19 @@
+{
+    "commonName": "Mouse-colored Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaeomyias murina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MCTY",
+        "spec6": "PHAMUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

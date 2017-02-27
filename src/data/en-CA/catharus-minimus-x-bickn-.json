@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-cheeked/Bicknell's Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus minimus x bickn.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "GCBT",
+        "spec6": "CATMIB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

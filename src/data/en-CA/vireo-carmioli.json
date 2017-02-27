@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-winged Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo carmioli",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YWVI",
+        "spec6": "VIRCAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

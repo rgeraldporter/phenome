@@ -1,0 +1,19 @@
+{
+    "commonName": "Carolina Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thryothorus ludovicianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CARW",
+        "spec6": "THRLUD",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

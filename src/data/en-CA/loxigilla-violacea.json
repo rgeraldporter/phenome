@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Antillean Bullfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxigilla violacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GABU",
+        "spec6": "LOXVIO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Dwarf Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanolyca nana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DWJA",
+        "spec6": "CYANAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Black Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteogallus gundlachii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUBH",
+        "spec6": "BUTGUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Whiskered Screech-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megascops trichopsis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHSO",
+        "spec6": "MEGTRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

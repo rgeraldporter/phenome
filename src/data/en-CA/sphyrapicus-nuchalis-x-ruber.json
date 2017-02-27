@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-naped X Red-breasted Saps. Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sphyrapicus nuchalis x ruber",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "RRSH",
+        "spec6": "SPHNUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

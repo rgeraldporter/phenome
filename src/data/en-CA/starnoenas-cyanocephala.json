@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-headed Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Starnoenas cyanocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHQD",
+        "spec6": "STACYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

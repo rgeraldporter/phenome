@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Jacana",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Jacana spinosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOJA",
+        "spec6": "JACSPI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Colima Pygmy-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glaucidium palmarum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CPYO",
+        "spec6": "GLAPAL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

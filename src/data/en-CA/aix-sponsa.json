@@ -1,0 +1,19 @@
+{
+    "commonName": "Wood Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aix sponsa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WODU",
+        "spec6": "AIXSPO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

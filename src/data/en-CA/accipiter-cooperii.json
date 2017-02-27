@@ -1,0 +1,19 @@
+{
+    "commonName": "Cooper's Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipiter cooperii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COHA",
+        "spec6": "ACCCOO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

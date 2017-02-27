@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Bird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aves (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNBI",
+        "spec6": "AVEGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

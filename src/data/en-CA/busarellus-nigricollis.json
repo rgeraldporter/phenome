@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-collared Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Busarellus nigricollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCHA",
+        "spec6": "BUSNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Manx Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus puffinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MASH",
+        "spec6": "PUFPUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

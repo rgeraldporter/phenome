@@ -1,0 +1,19 @@
+{
+    "commonName": "MacGillivray's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis tolmiei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MGWA",
+        "spec6": "GEOTOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

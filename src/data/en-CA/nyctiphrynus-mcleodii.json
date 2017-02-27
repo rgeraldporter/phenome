@@ -1,0 +1,19 @@
+{
+    "commonName": "Eared Poorwill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nyctiphrynus mcleodii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EAPO",
+        "spec6": "NYCMCL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

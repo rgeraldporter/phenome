@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-capped Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo leucophrys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCAV",
+        "spec6": "VIRLEU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-fronted Foliage-gleaner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Philydor rufum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BFFG",
+        "spec6": "PHIRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

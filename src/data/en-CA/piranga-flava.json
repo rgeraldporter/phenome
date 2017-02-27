@@ -1,0 +1,19 @@
+{
+    "commonName": "Hepatic Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piranga flava",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HETA",
+        "spec6": "PIRFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

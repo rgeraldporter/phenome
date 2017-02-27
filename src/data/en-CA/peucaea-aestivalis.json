@@ -1,0 +1,19 @@
+{
+    "commonName": "Bachman's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Peucaea aestivalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BACS",
+        "spec6": "PEUAES",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

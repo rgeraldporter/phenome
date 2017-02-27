@@ -1,0 +1,19 @@
+{
+    "commonName": "Ivory Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pagophila eburnea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "IVGU",
+        "spec6": "PAGEBU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

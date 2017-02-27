@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-banded Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocolaptes picumnus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBNW",
+        "spec6": "DENPIM",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

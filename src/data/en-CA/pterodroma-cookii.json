@@ -1,0 +1,19 @@
+{
+    "commonName": "Cook's Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma cookii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COPE",
+        "spec6": "PTECOO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

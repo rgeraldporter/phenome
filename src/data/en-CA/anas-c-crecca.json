@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Green-winged Teal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas c. crecca",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "EGWT",
+        "spec6": "ANACCR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

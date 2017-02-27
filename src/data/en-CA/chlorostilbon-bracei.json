@@ -1,0 +1,19 @@
+{
+    "commonName": "Brace's Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorostilbon bracei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BREM",
+        "spec6": "CHLBRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

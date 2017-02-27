@@ -1,0 +1,19 @@
+{
+    "commonName": "St. Vincent Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona guildingii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SVPA",
+        "spec6": "AMAGUI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

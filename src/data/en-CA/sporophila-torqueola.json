@@ -1,0 +1,19 @@
+{
+    "commonName": "White-collared Seedeater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sporophila torqueola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCSE",
+        "spec6": "SPOTOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

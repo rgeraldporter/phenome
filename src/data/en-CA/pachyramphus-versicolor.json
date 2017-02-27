@@ -1,0 +1,19 @@
+{
+    "commonName": "Barred Becard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pachyramphus versicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BABE",
+        "spec6": "PACVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

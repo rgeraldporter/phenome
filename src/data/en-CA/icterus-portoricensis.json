@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus portoricensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PROR",
+        "spec6": "ICTPOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

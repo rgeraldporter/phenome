@@ -1,0 +1,19 @@
+{
+    "commonName": "Monk Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiopsitta monachus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOPA",
+        "spec6": "MYIMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

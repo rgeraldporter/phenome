@@ -1,0 +1,19 @@
+{
+    "commonName": "White-crowned Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas leucocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCPI",
+        "spec6": "PATLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

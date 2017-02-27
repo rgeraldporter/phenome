@@ -1,0 +1,19 @@
+{
+    "commonName": "Elegant Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon elegans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ELTR",
+        "spec6": "TROELE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

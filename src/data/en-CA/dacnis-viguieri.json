@@ -1,0 +1,19 @@
+{
+    "commonName": "Viridian Dacnis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dacnis viguieri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VIDA",
+        "spec6": "DACVIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

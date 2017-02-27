@@ -1,0 +1,19 @@
+{
+    "commonName": "Montezuma Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyrtonyx montezumae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MONQ",
+        "spec6": "CYRMON",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

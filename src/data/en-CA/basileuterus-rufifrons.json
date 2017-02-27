@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-capped Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Basileuterus rufifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCWA",
+        "spec6": "BASRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

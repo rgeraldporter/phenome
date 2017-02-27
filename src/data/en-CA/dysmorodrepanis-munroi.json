@@ -1,0 +1,19 @@
+{
+    "commonName": "Lanai Hookbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dysmorodrepanis munroi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAHO",
+        "spec6": "DYSMUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

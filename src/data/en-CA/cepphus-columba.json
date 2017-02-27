@@ -1,0 +1,19 @@
+{
+    "commonName": "Pigeon Guillemot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cepphus columba",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIGU",
+        "spec6": "CEPCOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

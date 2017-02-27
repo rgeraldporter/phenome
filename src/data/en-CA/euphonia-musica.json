@@ -1,0 +1,19 @@
+{
+    "commonName": "Antillean Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia musica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANEU",
+        "spec6": "EUPMUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

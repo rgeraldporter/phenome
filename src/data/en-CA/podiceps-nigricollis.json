@@ -1,0 +1,19 @@
+{
+    "commonName": "Eared Grebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Podiceps nigricollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EAGR",
+        "spec6": "PODNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

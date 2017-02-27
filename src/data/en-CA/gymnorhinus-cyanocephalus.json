@@ -1,0 +1,19 @@
+{
+    "commonName": "Pinyon Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gymnorhinus cyanocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIJA",
+        "spec6": "GYMCYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

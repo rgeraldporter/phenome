@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-tailed Jacamar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Galbula ruficauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTJA",
+        "spec6": "GALRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

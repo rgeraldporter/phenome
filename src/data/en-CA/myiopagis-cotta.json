@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiopagis cotta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAEL",
+        "spec6": "MYICOT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

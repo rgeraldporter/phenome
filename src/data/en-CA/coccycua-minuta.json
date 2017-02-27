@@ -1,0 +1,19 @@
+{
+    "commonName": "Little Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccycua minuta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LITC",
+        "spec6": "COCMIT",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

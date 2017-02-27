@@ -1,0 +1,19 @@
+{
+    "commonName": "Palm Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thraupis palmarum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PALT",
+        "spec6": "THRPAL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

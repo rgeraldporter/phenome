@@ -1,0 +1,19 @@
+{
+    "commonName": "Flammulated Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psiloscops flammeolus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FLOW",
+        "spec6": "PSIFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

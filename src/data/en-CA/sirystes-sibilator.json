@@ -1,0 +1,19 @@
+{
+    "commonName": "Sirystes",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sirystes sibilator",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SIRY",
+        "spec6": "SIRSIB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

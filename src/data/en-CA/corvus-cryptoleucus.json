@@ -1,0 +1,19 @@
+{
+    "commonName": "Chihuahuan Raven",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus cryptoleucus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHRA",
+        "spec6": "CORCRY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

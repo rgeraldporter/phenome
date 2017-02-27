@@ -1,0 +1,19 @@
+{
+    "commonName": "Dusky Seaside-Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ammodramus m. nigrescens",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "DUSS",
+        "spec6": "AMMMNI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

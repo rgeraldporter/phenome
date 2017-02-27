@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa ochropus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRSA",
+        "spec6": "TRIOCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

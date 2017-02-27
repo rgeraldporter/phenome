@@ -1,0 +1,19 @@
+{
+    "commonName": "Baird's Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris bairdii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BASA",
+        "spec6": "CALBAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Guadalupe Junco",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Junco insularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GUJU",
+        "spec6": "JUNINS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

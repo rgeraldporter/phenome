@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-margined Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tolmomyias assimilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YMFL",
+        "spec6": "TOLASS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-fronted Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia viridifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GFHU",
+        "spec6": "AMAVIF",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

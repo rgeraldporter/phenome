@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-crowned Yellowthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis poliocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCYE",
+        "spec6": "GEOPOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

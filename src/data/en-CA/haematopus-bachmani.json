@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Oystercatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haematopus bachmani",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLOY",
+        "spec6": "HAEBAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

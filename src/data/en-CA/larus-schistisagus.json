@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty-backed Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus schistisagus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBGU",
+        "spec6": "LARSCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

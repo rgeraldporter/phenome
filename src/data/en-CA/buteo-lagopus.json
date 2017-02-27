@@ -1,0 +1,19 @@
+{
+    "commonName": "Rough-legged Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo lagopus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RLHA",
+        "spec6": "BUTLAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

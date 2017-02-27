@@ -1,0 +1,19 @@
+{
+    "commonName": "Speckled Mourner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Laniocera rufescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPMO",
+        "spec6": "LANRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

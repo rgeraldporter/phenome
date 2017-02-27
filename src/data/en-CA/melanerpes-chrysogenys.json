@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-cheeked Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes chrysogenys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCHW",
+        "spec6": "MELCHG",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

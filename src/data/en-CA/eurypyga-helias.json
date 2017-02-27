@@ -1,0 +1,19 @@
+{
+    "commonName": "Sunbittern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eurypyga helias",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SUNB",
+        "spec6": "EURHEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

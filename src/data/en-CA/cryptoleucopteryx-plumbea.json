@@ -1,0 +1,19 @@
+{
+    "commonName": "Plumbeous Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cryptoleucopteryx plumbea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLHA",
+        "spec6": "CRYPLU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

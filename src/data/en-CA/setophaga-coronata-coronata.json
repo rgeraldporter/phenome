@@ -1,0 +1,19 @@
+{
+    "commonName": "Myrtle Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga coronata coronata",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "MYWA",
+        "spec6": "SETCCO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

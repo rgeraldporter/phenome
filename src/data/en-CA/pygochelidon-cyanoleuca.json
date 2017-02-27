@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-and-white Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pygochelidon cyanoleuca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAWS",
+        "spec6": "PYGCYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

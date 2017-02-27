@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-naped Sapsucker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sphyrapicus nuchalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RNSA",
+        "spec6": "SPHNUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

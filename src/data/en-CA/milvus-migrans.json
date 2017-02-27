@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Milvus migrans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLAK",
+        "spec6": "MILMIG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

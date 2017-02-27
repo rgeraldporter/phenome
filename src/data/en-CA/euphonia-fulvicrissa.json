@@ -1,0 +1,19 @@
+{
+    "commonName": "Fulvous-vented Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia fulvicrissa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FVEU",
+        "spec6": "EUPFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

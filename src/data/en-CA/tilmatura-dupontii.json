@@ -1,0 +1,19 @@
+{
+    "commonName": "Sparkling-tailed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tilmatura dupontii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SKTH",
+        "spec6": "TILDUP",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

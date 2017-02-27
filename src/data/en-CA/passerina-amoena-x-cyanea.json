@@ -1,0 +1,19 @@
+{
+    "commonName": "Lazuli x Indigo Bunting Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerina amoena x cyanea",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "LIBH",
+        "spec6": "PASAMC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

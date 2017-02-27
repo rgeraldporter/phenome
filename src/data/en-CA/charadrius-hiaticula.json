@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Ringed Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius hiaticula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRPL",
+        "spec6": "CHAHIA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

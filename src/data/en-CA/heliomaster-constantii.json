@@ -1,0 +1,19 @@
+{
+    "commonName": "Plain-capped Starthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Heliomaster constantii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PCST",
+        "spec6": "HELCON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

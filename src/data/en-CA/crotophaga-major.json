@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Ani",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Crotophaga major",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRTA",
+        "spec6": "CROMAJ",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

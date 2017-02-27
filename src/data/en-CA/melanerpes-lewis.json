@@ -1,0 +1,19 @@
+{
+    "commonName": "Lewis's Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes lewis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEWO",
+        "spec6": "MELLEW",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Yellow Wagtail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Motacilla tschutschensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EYWA",
+        "spec6": "MOTTSC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Snow Goose Intermediate-morph",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chen c. atlantica",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "GSGI",
+        "spec6": "CHECAT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

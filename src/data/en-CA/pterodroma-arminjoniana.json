@@ -1,0 +1,19 @@
+{
+    "commonName": "Herald Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma arminjoniana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HEPE",
+        "spec6": "PTEARM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

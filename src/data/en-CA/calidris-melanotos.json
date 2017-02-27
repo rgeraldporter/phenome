@@ -1,0 +1,19 @@
+{
+    "commonName": "Pectoral Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris melanotos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PESA",
+        "spec6": "CALMET",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

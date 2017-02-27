@@ -1,0 +1,19 @@
+{
+    "commonName": "Whiskered Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlidonias hybrida",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHST",
+        "spec6": "CHLHYB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

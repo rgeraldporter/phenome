@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Bullfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pyrrhula pyrrhula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUBU",
+        "spec6": "PYRPYH",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

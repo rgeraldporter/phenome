@@ -1,0 +1,19 @@
+{
+    "commonName": "Audubon's Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus lherminieri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AUSH",
+        "spec6": "PUFLHE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

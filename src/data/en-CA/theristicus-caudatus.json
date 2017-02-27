@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-necked Ibis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Theristicus caudatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BNIB",
+        "spec6": "THECAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

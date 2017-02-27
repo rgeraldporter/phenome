@@ -1,0 +1,19 @@
+{
+    "commonName": "Cattle Egret",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bubulcus ibis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAEG",
+        "spec6": "BUBIBI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

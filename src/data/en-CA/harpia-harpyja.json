@@ -1,0 +1,19 @@
+{
+    "commonName": "Harpy Eagle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Harpia harpyja",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAEA",
+        "spec6": "HARHAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

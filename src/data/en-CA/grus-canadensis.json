@@ -1,0 +1,19 @@
+{
+    "commonName": "Sandhill Crane",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Grus canadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SACR",
+        "spec6": "GRUCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

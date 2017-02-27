@@ -1,0 +1,19 @@
+{
+    "commonName": "Pale-vented Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus obsoletus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PVTH",
+        "spec6": "TUROBL",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

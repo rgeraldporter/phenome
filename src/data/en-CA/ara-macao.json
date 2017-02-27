@@ -1,0 +1,19 @@
+{
+    "commonName": "Scarlet Macaw",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ara macao",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCMA",
+        "spec6": "ARAMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

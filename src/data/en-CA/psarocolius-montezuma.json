@@ -1,0 +1,19 @@
+{
+    "commonName": "Montezuma Oropendola",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psarocolius montezuma",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MORO",
+        "spec6": "PSAMON",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

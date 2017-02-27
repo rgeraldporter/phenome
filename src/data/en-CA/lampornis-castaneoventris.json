@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Mountain-gem",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lampornis castaneoventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTMG",
+        "spec6": "LAMCAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

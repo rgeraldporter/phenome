@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Bentbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oncostoma cinereigulare",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOBE",
+        "spec6": "ONCCIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

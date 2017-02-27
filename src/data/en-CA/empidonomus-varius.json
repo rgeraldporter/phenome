@@ -1,0 +1,19 @@
+{
+    "commonName": "Variegated Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonomus varius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VAFL",
+        "spec6": "EMPVAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Fieldfare",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus pilaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FIEL",
+        "spec6": "TURPIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

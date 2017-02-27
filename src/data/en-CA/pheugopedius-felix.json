@@ -1,0 +1,19 @@
+{
+    "commonName": "Happy Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pheugopedius felix",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAWR",
+        "spec6": "PHEFEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

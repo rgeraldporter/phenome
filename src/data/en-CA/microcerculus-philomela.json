@@ -1,0 +1,19 @@
+{
+    "commonName": "Nightingale Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Microcerculus philomela",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NIWR",
+        "spec6": "MICPHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

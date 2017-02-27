@@ -1,0 +1,19 @@
+{
+    "commonName": "Spot-breasted Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus pectoralis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBOR",
+        "spec6": "ICTPEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

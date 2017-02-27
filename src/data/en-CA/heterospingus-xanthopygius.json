@@ -1,0 +1,19 @@
+{
+    "commonName": "Scarlet-browed Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Heterospingus xanthopygius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBTA",
+        "spec6": "HETXAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

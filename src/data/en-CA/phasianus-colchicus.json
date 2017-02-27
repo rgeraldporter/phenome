@@ -1,0 +1,19 @@
+{
+    "commonName": "Ring-necked Pheasant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phasianus colchicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RNEP",
+        "spec6": "PHACOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

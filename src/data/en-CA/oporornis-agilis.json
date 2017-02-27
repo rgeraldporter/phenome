@@ -1,0 +1,19 @@
+{
+    "commonName": "Connecticut Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oporornis agilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CONW",
+        "spec6": "OPOAGI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

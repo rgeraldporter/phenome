@@ -1,0 +1,19 @@
+{
+    "commonName": "Galapagos Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma phaeopygia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GAPE",
+        "spec6": "PTEPHA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

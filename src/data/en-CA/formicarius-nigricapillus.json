@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-headed Antthrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Formicarius nigricapillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHEA",
+        "spec6": "FORNIG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

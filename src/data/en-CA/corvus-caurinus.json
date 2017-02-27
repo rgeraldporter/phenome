@@ -1,0 +1,19 @@
+{
+    "commonName": "Northwestern Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus caurinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOCR",
+        "spec6": "CORCAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

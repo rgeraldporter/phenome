@@ -1,0 +1,19 @@
+{
+    "commonName": "Cherrie's Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ramphocelus costaricensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHET",
+        "spec6": "RAMCOS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

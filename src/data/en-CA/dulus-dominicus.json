@@ -1,0 +1,19 @@
+{
+    "commonName": "Palmchat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dulus dominicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PALM",
+        "spec6": "DULDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhynchus gularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPWR",
+        "spec6": "CAMGUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

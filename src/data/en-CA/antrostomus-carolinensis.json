@@ -1,0 +1,19 @@
+{
+    "commonName": "Chuck-will's-widow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Antrostomus carolinensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CWWI",
+        "spec6": "ANTCAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

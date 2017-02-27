@@ -1,0 +1,19 @@
+{
+    "commonName": "Nihoa Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Telespiza ultima",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NIFI",
+        "spec6": "TELULT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

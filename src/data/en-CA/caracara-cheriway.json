@@ -1,0 +1,19 @@
+{
+    "commonName": "Crested Caracara",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Caracara cheriway",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRCA",
+        "spec6": "CARCHE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

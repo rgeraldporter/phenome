@@ -1,0 +1,19 @@
+{
+    "commonName": "Corn Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Crex crex",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CORC",
+        "spec6": "CRECRE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

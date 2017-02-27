@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-headed Nightingale-Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHNT",
+        "spec6": "CASMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

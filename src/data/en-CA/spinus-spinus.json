@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Siskin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus spinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUSI",
+        "spec6": "SPISPI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Mew Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus canus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MEGU",
+        "spec6": "LARCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tailed Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo albicaudatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTHA",
+        "spec6": "BUTALC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

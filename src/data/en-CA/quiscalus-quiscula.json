@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Grackle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Quiscalus quiscula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COGR",
+        "spec6": "QUIQUI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

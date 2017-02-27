@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tailed Ptarmigan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lagopus leucura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTPT",
+        "spec6": "LAGLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple-crowned Fairy",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Heliothryx barroti",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PCFA",
+        "spec6": "HELBAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Western X Glaucous-winged Gull Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus occid. x gluaces.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "WGWH",
+        "spec6": "LAROCG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

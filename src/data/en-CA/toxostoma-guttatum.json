@@ -1,0 +1,19 @@
+{
+    "commonName": "Cozumel Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma guttatum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COZT",
+        "spec6": "TOXGUT",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

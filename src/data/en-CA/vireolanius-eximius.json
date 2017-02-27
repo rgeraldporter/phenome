@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-browed Shrike-Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireolanius eximius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBSV",
+        "spec6": "VIREXI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

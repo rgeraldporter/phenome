@@ -1,0 +1,19 @@
+{
+    "commonName": "American Wigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMWI",
+        "spec6": "ANAAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

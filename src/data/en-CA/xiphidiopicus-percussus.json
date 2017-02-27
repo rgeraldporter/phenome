@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Green Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xiphidiopicus percussus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CGWO",
+        "spec6": "XIPPER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

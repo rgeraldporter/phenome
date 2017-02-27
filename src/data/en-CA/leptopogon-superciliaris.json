@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty-capped Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leptopogon superciliaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLCF",
+        "spec6": "LEPSUP",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

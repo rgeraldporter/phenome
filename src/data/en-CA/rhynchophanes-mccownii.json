@@ -1,0 +1,19 @@
+{
+    "commonName": "McCown's Longspur",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhynchophanes mccownii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MCLO",
+        "spec6": "RHYMCC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

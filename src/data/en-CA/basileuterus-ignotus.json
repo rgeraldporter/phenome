@@ -1,0 +1,19 @@
+{
+    "commonName": "Pirre Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Basileuterus ignotus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIRW",
+        "spec6": "BASIGN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

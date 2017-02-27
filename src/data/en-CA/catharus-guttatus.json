@@ -1,0 +1,19 @@
+{
+    "commonName": "Hermit Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus guttatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HETH",
+        "spec6": "CATGUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

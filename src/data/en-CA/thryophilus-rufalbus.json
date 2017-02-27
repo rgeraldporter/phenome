@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-and-white Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thryophilus rufalbus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RAWW",
+        "spec6": "THRRUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Kona Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chloridops kona",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KOGR",
+        "spec6": "CHLKON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

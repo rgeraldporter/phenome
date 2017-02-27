@@ -1,0 +1,19 @@
+{
+    "commonName": "Short-tailed Nighthawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lurocalis semitorquatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHTN",
+        "spec6": "LURSEM",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

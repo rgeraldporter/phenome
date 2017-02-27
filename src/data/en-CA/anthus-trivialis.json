@@ -1,0 +1,19 @@
+{
+    "commonName": "Tree Pipit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthus trivialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRPI",
+        "spec6": "ANTTRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

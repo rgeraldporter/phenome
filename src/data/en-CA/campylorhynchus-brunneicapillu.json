@@ -1,0 +1,19 @@
+{
+    "commonName": "Cactus Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhynchus brunneicapillu",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CACW",
+        "spec6": "CAMBRU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

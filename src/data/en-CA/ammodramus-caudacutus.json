@@ -1,0 +1,19 @@
+{
+    "commonName": "Saltmarsh Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ammodramus caudacutus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SALS",
+        "spec6": "AMMCAU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

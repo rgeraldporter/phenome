@@ -1,0 +1,19 @@
+{
+    "commonName": "White-necked Puffbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Notharchus hyperrhynchus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WNPU",
+        "spec6": "NOTHYP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

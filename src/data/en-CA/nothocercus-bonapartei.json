@@ -1,0 +1,19 @@
+{
+    "commonName": "Highland Tinamou",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nothocercus bonapartei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HITI",
+        "spec6": "NOTBON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Catbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dumetella carolinensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRCA",
+        "spec6": "DUMCAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

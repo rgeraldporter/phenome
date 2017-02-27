@@ -1,0 +1,19 @@
+{
+    "commonName": "Spruce Grouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falcipennis canadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPGR",
+        "spec6": "FALCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

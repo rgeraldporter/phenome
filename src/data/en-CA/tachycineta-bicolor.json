@@ -1,0 +1,19 @@
+{
+    "commonName": "Tree Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachycineta bicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRES",
+        "spec6": "TACBIC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

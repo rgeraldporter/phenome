@@ -1,0 +1,19 @@
+{
+    "commonName": "Tacarcuna Wood-Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Odontophorus dialeucos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TAWQ",
+        "spec6": "ODODIA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

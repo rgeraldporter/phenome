@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-headed Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes erythrocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RHWO",
+        "spec6": "MELERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

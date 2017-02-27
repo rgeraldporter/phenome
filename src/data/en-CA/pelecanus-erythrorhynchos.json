@@ -1,0 +1,19 @@
+{
+    "commonName": "American White Pelican",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pelecanus erythrorhynchos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AWPE",
+        "spec6": "PELERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

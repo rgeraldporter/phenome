@@ -1,0 +1,19 @@
+{
+    "commonName": "Rock Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Salpinctes obsoletus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROWR",
+        "spec6": "SALOBS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

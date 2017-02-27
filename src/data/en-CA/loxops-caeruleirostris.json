@@ -1,0 +1,19 @@
+{
+    "commonName": "Akekee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxops caeruleirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AKEK",
+        "spec6": "LOXCAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

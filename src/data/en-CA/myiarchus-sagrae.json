@@ -1,0 +1,19 @@
+{
+    "commonName": "La Sagra's Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus sagrae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LSFL",
+        "spec6": "MYISAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

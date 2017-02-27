@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Pewee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Contopus caribaeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUPE",
+        "spec6": "CONCAB",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-rumped Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetura cinereiventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRSW",
+        "spec6": "CHACIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

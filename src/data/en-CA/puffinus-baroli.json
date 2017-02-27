@@ -1,0 +1,19 @@
+{
+    "commonName": "Barolo Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus baroli",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BASH",
+        "spec6": "PUFBAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-thighed Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pselliophorus tibialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YTFI",
+        "spec6": "PSETIB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Gray Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Strix nebulosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GGOW",
+        "spec6": "STRNEB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Redshank",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa erythropus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPRE",
+        "spec6": "TRIERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

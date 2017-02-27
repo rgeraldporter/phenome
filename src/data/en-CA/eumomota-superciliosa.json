@@ -1,0 +1,19 @@
+{
+    "commonName": "Turquoise-browed Motmot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eumomota superciliosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TBMO",
+        "spec6": "EUMSUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

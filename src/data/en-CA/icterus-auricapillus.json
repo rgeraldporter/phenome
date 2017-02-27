@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-crowned Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus auricapillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCOR",
+        "spec6": "ICTAUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-crested Titmouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Baeolophus atricristatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCTI",
+        "spec6": "BAEATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

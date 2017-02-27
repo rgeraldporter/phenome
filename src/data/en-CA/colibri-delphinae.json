@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown Violetear",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colibri delphinae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRVI",
+        "spec6": "COLDEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

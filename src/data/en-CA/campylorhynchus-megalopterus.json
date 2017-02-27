@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-barred Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhynchus megalopterus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBWR",
+        "spec6": "CAMMEG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

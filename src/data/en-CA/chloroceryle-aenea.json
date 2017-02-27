@@ -1,0 +1,19 @@
+{
+    "commonName": "American Pygmy Kingfisher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chloroceryle aenea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "APKI",
+        "spec6": "CHLAEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

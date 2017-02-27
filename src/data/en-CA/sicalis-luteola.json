@@ -1,0 +1,19 @@
+{
+    "commonName": "Grassland Yellow-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sicalis luteola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRYF",
+        "spec6": "SICLUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

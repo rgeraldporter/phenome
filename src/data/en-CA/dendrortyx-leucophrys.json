@@ -1,0 +1,19 @@
+{
+    "commonName": "Buffy-crowned Wood-Partridge",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrortyx leucophrys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCWP",
+        "spec6": "DENLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

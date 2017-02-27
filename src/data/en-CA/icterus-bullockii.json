@@ -1,0 +1,19 @@
+{
+    "commonName": "Bullock's Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus bullockii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BUOR",
+        "spec6": "ICTBUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

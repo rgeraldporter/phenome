@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-faced Gnatwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Microbates cinereiventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TFGN",
+        "spec6": "MICCIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

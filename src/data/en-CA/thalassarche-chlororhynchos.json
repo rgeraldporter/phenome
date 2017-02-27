@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-nosed Albatross",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalassarche chlororhynchos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YNAL",
+        "spec6": "THACHL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

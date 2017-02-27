@@ -1,0 +1,19 @@
+{
+    "commonName": "Barred Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Morphnarchus princeps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAHA",
+        "spec6": "MORPRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

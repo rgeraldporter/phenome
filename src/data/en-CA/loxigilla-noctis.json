@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Antillean Bullfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxigilla noctis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LANB",
+        "spec6": "LOXNOC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

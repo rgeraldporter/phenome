@@ -1,0 +1,19 @@
+{
+    "commonName": "Ovenbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Seiurus aurocapilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OVEN",
+        "spec6": "SEIAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

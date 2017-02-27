@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Schiffornis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Schiffornis veraepacis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOSC",
+        "spec6": "SCHVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

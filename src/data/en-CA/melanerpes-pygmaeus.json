@@ -1,0 +1,19 @@
+{
+    "commonName": "Yucatan Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes pygmaeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YUWO",
+        "spec6": "MELPYG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

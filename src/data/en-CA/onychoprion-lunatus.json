@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-backed Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Onychoprion lunatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBAT",
+        "spec6": "ONYLUN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

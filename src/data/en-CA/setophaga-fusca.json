@@ -1,0 +1,19 @@
+{
+    "commonName": "Blackburnian Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga fusca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLBW",
+        "spec6": "SETFUS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

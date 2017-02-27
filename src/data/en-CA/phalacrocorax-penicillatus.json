@@ -1,0 +1,19 @@
+{
+    "commonName": "Brandt's Cormorant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalacrocorax penicillatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRAC",
+        "spec6": "PHAPEN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

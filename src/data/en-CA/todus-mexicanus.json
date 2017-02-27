@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Tody",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Todus mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRTO",
+        "spec6": "TODMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

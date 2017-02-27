@@ -1,0 +1,19 @@
+{
+    "commonName": "Reddish Egret",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Egretta rufescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REEG",
+        "spec6": "EGRRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

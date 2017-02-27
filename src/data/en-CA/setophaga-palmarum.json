@@ -1,0 +1,19 @@
+{
+    "commonName": "Palm Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga palmarum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAWA",
+        "spec6": "SETPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

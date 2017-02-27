@@ -1,0 +1,19 @@
+{
+    "commonName": "Cedar Waxwing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bombycilla cedrorum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CEDW",
+        "spec6": "BOMCED",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

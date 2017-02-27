@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Actitis macularius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPSA",
+        "spec6": "ACTMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

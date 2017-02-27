@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-collared Robin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus rufitorques",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCRO",
+        "spec6": "TURRUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

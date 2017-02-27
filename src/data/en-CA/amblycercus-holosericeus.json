@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-billed Cacique",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amblycercus holosericeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBIC",
+        "spec6": "AMBHOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Nighthawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chordeiles acutipennis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LENI",
+        "spec6": "CHOACU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

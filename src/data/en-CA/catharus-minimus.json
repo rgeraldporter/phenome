@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-cheeked Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus minimus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCTH",
+        "spec6": "CATMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

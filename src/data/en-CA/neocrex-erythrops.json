@@ -1,0 +1,19 @@
+{
+    "commonName": "Paint-billed Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Neocrex erythrops",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBCR",
+        "spec6": "NEOERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

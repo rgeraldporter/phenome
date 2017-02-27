@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellowish Pipit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthus lutescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YEPI",
+        "spec6": "ANTLUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

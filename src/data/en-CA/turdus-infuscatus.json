@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus infuscatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLTH",
+        "spec6": "TURINF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

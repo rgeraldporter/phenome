@@ -1,0 +1,19 @@
+{
+    "commonName": "Rose-breasted Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pheucticus ludovicianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBGR",
+        "spec6": "PHELUD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

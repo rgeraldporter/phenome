@@ -1,0 +1,19 @@
+{
+    "commonName": "Elegant Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Callipepla douglasii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ELQU",
+        "spec6": "CALDOU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

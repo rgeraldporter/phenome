@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Antillean Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetura martinica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LASW",
+        "spec6": "CHAMAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Venezuelan Troupial",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus icterus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VETR",
+        "spec6": "ICTICT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

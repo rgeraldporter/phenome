@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-cheeked Cordonbleu",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Uraeginthus bengalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCCO",
+        "spec6": "URABEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

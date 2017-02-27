@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hirundidae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNSW",
+        "spec6": "HIRGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

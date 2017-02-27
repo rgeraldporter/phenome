@@ -1,0 +1,19 @@
+{
+    "commonName": "St. Lucia Black Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanospiza richardsoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLBF",
+        "spec6": "MELRIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

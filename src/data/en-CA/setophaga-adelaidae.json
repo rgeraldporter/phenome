@@ -1,0 +1,19 @@
+{
+    "commonName": "Adelaide's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga adelaidae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ADWA",
+        "spec6": "SETADE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

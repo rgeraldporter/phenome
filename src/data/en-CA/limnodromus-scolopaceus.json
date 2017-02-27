@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-billed Dowitcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Limnodromus scolopaceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBDO",
+        "spec6": "LIMSCO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

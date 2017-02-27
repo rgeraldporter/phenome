@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Brant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta b. nigricans",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "BLBR",
+        "spec6": "BRABNI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

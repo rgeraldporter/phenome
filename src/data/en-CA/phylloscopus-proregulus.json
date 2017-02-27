@@ -1,0 +1,19 @@
+{
+    "commonName": "Pallas's Leaf Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscopus proregulus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLEW",
+        "spec6": "PHYPRO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Cinereous Becard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pachyramphus rufus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CIRB",
+        "spec6": "PACRUF",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

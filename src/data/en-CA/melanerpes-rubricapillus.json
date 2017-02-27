@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-crowned Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes rubricapillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCRW",
+        "spec6": "MELRUB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

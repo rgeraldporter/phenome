@@ -1,0 +1,19 @@
+{
+    "commonName": "Bushtit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psaltriparus minimus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BUSH",
+        "spec6": "PSAMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

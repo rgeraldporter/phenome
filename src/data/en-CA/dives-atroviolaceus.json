@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dives atroviolaceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUBL",
+        "spec6": "DIVATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

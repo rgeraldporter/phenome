@@ -1,0 +1,19 @@
+{
+    "commonName": "Mountain White-crowned Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia l. oriantha",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "MWCS",
+        "spec6": "ZONLOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

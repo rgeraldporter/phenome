@@ -1,0 +1,19 @@
+{
+    "commonName": "Belted Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenotriccus callizonus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEFL",
+        "spec6": "XENCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

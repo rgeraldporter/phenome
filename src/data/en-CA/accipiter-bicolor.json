@@ -1,0 +1,19 @@
+{
+    "commonName": "Bicolored Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipiter bicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BIHA",
+        "spec6": "ACCBIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

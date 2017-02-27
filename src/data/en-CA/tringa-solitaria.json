@@ -1,0 +1,19 @@
+{
+    "commonName": "Solitary Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa solitaria",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOSA",
+        "spec6": "TRISOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

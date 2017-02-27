@@ -1,0 +1,19 @@
+{
+    "commonName": "Calliope Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Selasphorus calliope",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAHU",
+        "spec6": "SELCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

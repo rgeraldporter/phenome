@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Harrier",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Circus cyaneus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOHA",
+        "spec6": "CIRCYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

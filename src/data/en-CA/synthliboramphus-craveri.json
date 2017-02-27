@@ -1,0 +1,19 @@
+{
+    "commonName": "Craveri's Murrelet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Synthliboramphus craveri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRMU",
+        "spec6": "SYNCRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

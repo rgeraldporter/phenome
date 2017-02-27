@@ -1,0 +1,19 @@
+{
+    "commonName": "Ashy-faced Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyto glaucops",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AFOW",
+        "spec6": "TYTGLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

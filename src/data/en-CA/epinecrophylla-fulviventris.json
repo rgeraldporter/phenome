@@ -1,0 +1,19 @@
+{
+    "commonName": "Checker-throated Antwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Epinecrophylla fulviventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CTAN",
+        "spec6": "EPIFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

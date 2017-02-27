@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Prairie-Chicken",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tympanuchus cupido",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRPC",
+        "spec6": "TYMCUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

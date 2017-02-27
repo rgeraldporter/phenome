@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-backed Antbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myrmeciza exsul",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CBAN",
+        "spec6": "MYREXS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

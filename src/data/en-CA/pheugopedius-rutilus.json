@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-breasted Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pheugopedius rutilus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBSW",
+        "spec6": "PHERUT",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

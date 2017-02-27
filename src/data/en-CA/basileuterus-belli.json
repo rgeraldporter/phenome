@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-browed Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Basileuterus belli",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBWA",
+        "spec6": "BASBEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

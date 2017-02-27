@@ -1,0 +1,19 @@
+{
+    "commonName": "Caribbean Martin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Progne dominicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAMA",
+        "spec6": "PRODOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

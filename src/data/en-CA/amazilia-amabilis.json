@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-chested Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia amabilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCHH",
+        "spec6": "AMAAMB",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

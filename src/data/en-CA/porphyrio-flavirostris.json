@@ -1,0 +1,19 @@
+{
+    "commonName": "Azure Gallinule",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Porphyrio flavirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AZGA",
+        "spec6": "PORFLS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

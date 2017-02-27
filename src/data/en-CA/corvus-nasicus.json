@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus nasicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUCR",
+        "spec6": "CORNAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

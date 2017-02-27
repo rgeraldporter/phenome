@@ -1,0 +1,19 @@
+{
+    "commonName": "Altamira Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus gularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ALOR",
+        "spec6": "ICTGUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

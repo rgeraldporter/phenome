@@ -1,0 +1,19 @@
+{
+    "commonName": "Tropical Mockingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mimus gilvus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRMO",
+        "spec6": "MIMGIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

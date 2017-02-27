@@ -1,0 +1,19 @@
+{
+    "commonName": "Ring-billed Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus delawarensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBGU",
+        "spec6": "LARDEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

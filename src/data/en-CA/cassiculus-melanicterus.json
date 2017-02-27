@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-winged Cacique",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cassiculus melanicterus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YWCA",
+        "spec6": "CASMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

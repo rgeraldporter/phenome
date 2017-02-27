@@ -1,0 +1,19 @@
+{
+    "commonName": "Java Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lonchura oryzivora",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JASP",
+        "spec6": "LONORY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

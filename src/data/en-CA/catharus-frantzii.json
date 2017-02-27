@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy-capped Nightingale-Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus frantzii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCNT",
+        "spec6": "CATFRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

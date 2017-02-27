@@ -1,0 +1,19 @@
+{
+    "commonName": "Mountain Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreortyx pictus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOUQ",
+        "spec6": "OREPIC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

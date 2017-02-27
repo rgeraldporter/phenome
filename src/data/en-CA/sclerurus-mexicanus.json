@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-throated Leaftosser",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sclerurus mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TTLE",
+        "spec6": "SCLMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

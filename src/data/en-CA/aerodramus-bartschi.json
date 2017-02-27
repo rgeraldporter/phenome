@@ -1,0 +1,19 @@
+{
+    "commonName": "Mariana Swiftlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aerodramus bartschi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MASW",
+        "spec6": "AERBAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

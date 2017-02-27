@@ -1,0 +1,19 @@
+{
+    "commonName": "Little Ringed Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius dubius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LRPL",
+        "spec6": "CHADUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

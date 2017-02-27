@@ -1,0 +1,19 @@
+{
+    "commonName": "Mountain Bluebird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sialia currucoides",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOBL",
+        "spec6": "SIACUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

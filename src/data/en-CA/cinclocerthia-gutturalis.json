@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Trembler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cinclocerthia gutturalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRTR",
+        "spec6": "CINGUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

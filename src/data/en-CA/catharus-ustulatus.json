@@ -1,0 +1,19 @@
+{
+    "commonName": "Swainson's Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus ustulatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SWTH",
+        "spec6": "CATUST",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Violet-headed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Klais guimeti",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VHHU",
+        "spec6": "KLAGUI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

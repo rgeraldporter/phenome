@@ -1,0 +1,19 @@
+{
+    "commonName": "Banded Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thryophilus pleurostictus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BANW",
+        "spec6": "THRPLE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

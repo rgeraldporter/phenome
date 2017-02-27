@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piranga ludoviciana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WETA",
+        "spec6": "PIRLUD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

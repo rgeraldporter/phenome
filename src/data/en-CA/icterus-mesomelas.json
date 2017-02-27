@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-tailed Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus mesomelas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YTOR",
+        "spec6": "ICTMES",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

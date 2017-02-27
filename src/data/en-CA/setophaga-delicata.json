@@ -1,0 +1,19 @@
+{
+    "commonName": "St. Lucia Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga delicata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLWA",
+        "spec6": "SETDEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

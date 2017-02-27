@@ -1,0 +1,19 @@
+{
+    "commonName": "Gunnison Sage-Grouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Centrocercus minimus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GUSG",
+        "spec6": "CENMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

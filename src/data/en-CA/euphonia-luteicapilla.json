@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-crowned Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia luteicapilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YCEU",
+        "spec6": "EUPLUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

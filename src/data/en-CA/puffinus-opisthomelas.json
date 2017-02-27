@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-vented Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus opisthomelas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BVSH",
+        "spec6": "PUFOPI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

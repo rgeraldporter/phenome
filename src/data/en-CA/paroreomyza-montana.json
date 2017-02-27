@@ -1,0 +1,19 @@
+{
+    "commonName": "Maui Alauahio",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Paroreomyza montana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAAL",
+        "spec6": "PARMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

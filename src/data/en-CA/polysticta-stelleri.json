@@ -1,0 +1,19 @@
+{
+    "commonName": "Steller's Eider",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Polysticta stelleri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STEI",
+        "spec6": "POLSTE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

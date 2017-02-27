@@ -1,0 +1,19 @@
+{
+    "commonName": "Montserrat Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus oberi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MORI",
+        "spec6": "ICTOBE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

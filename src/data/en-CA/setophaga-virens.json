@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Green Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga virens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTNW",
+        "spec6": "SETVIR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

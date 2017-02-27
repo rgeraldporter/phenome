@@ -1,0 +1,19 @@
+{
+    "commonName": "Whistling Swan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cygnus c. columbianus",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "WHSW",
+        "spec6": "CYGCCO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

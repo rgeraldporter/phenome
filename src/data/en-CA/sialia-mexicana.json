@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Bluebird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sialia mexicana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WEBL",
+        "spec6": "SIAMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

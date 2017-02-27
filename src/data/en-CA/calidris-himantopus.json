@@ -1,0 +1,19 @@
+{
+    "commonName": "Stilt Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris himantopus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STSA",
+        "spec6": "CALHIM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

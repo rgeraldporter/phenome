@@ -1,0 +1,19 @@
+{
+    "commonName": "Swamp Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melospiza georgiana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SWSP",
+        "spec6": "MELGEO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

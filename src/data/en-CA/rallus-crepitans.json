@@ -1,0 +1,19 @@
+{
+    "commonName": "Clapper Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rallus crepitans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CLRA",
+        "spec6": "RALCRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

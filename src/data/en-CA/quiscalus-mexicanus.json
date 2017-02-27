@@ -1,0 +1,19 @@
+{
+    "commonName": "Great-tailed Grackle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Quiscalus mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GTGR",
+        "spec6": "QUIMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

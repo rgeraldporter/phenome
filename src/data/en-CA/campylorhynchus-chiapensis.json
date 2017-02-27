@@ -1,0 +1,19 @@
+{
+    "commonName": "Giant Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhynchus chiapensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GIWR",
+        "spec6": "CAMCHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

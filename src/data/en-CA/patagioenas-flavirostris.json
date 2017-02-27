@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-billed Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas flavirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBPI",
+        "spec6": "PATFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

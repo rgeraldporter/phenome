@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo vicinior",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRVI",
+        "spec6": "VIRVIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

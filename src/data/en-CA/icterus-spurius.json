@@ -1,0 +1,19 @@
+{
+    "commonName": "Orchard Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus spurius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OROR",
+        "spec6": "ICTSPU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

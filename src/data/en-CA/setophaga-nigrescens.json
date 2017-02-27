@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Gray Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga nigrescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTYW",
+        "spec6": "SETNIG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Aztec Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ridgwayia pinicola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AZTH",
+        "spec6": "RIDPIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

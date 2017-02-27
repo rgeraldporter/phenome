@@ -1,0 +1,19 @@
+{
+    "commonName": "Erckel's Francolin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Francolinus erckelii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ERFR",
+        "spec6": "FRAERC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

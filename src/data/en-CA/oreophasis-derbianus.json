@@ -1,0 +1,19 @@
+{
+    "commonName": "Horned Guan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreophasis derbianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOGU",
+        "spec6": "OREDER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Hill Myna",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gracula religiosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HIMY",
+        "spec6": "GRAREL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

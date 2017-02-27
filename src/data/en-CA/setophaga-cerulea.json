@@ -1,0 +1,19 @@
+{
+    "commonName": "Cerulean Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga cerulea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CERW",
+        "spec6": "SETCER",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

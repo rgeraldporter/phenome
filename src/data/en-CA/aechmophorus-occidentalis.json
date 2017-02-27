@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Grebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aechmophorus occidentalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WEGR",
+        "spec6": "AECOCC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

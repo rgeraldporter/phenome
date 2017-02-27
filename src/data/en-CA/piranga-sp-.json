@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Piranga Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piranga (sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UPTA",
+        "spec6": "PIRSPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

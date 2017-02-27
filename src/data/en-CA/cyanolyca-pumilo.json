@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanolyca pumilo",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTJA",
+        "spec6": "CYAPUM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

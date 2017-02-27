@@ -1,0 +1,19 @@
+{
+    "commonName": "Azure-rumped Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara cabanisi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ARTA",
+        "spec6": "TANCAB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Glaucous-winged Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus glaucescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GWGU",
+        "spec6": "LARGLS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Hoopoe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Upupa epops",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EHOO",
+        "spec6": "UPUEPO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

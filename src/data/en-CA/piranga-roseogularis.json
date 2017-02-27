@@ -1,0 +1,19 @@
+{
+    "commonName": "Rose-throated Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piranga roseogularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTTA",
+        "spec6": "PIRROS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

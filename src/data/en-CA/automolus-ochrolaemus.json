@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-throated Foliage-gleaner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Automolus ochrolaemus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTFG",
+        "spec6": "AUTOCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

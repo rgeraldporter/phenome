@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown Trembler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cinclocerthia ruficauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRTR",
+        "spec6": "CINRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Hobby",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco subbuteo",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EHOB",
+        "spec6": "FALSUB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

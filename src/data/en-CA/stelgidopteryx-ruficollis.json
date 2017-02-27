@@ -1,0 +1,19 @@
+{
+    "commonName": "Southern Rough-winged Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Stelgidopteryx ruficollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SRWS",
+        "spec6": "STERUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

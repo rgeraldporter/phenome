@@ -1,0 +1,19 @@
+{
+    "commonName": "Buffy Tuftedcheek",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pseudocolaptes lawrencii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BUTU",
+        "spec6": "PSELAW",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

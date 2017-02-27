@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Moorhen",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gallinula chloropus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COMO",
+        "spec6": "GALCHL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

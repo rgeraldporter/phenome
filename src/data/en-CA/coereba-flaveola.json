@@ -1,0 +1,19 @@
+{
+    "commonName": "Bananaquit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coereba flaveola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BANA",
+        "spec6": "COEFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

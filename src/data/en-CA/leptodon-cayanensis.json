@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-headed Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leptodon cayanensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHKI",
+        "spec6": "LEPCAY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

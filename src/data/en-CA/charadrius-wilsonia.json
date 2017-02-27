@@ -1,0 +1,19 @@
+{
+    "commonName": "Wilson's Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius wilsonia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WIPL",
+        "spec6": "CHAWIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

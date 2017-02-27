@@ -1,0 +1,19 @@
+{
+    "commonName": "King Eider",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Somateria spectabilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KIEI",
+        "spec6": "SOMSPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Wood-Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Odontophorus guttatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPWQ",
+        "spec6": "ODOGUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

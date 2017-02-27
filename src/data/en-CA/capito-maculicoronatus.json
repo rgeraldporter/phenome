@@ -1,0 +1,19 @@
+{
+    "commonName": "Spot-crowned Barbet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Capito maculicoronatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCBA",
+        "spec6": "CAPMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

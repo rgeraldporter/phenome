@@ -1,0 +1,19 @@
+{
+    "commonName": "Atlantic Brant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta b. bernicla",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "ATBR",
+        "spec6": "BRABBE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

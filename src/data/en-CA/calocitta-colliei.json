@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Magpie-Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calocitta colliei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTMJ",
+        "spec6": "CALCOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

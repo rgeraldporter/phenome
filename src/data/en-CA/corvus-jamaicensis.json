@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus jamaicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JACR",
+        "spec6": "CORJAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Larus Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus (sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNLG",
+        "spec6": "LARSPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

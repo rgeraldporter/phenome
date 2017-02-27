@@ -1,0 +1,19 @@
+{
+    "commonName": "Pileated Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenotriccus mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PILF",
+        "spec6": "XENMEX",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

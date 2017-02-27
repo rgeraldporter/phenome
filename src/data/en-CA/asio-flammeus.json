@@ -1,0 +1,19 @@
+{
+    "commonName": "Short-eared Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Asio flammeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SEOW",
+        "spec6": "ASIFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

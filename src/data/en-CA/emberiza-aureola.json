@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-breasted Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberiza aureola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBSB",
+        "spec6": "EMBAUR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

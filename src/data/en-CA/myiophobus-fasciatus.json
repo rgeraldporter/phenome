@@ -1,0 +1,19 @@
+{
+    "commonName": "Bran-colored Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiophobus fasciatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCOF",
+        "spec6": "MYIFAS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

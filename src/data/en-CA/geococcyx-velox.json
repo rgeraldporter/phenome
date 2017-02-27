@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Roadrunner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geococcyx velox",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LERO",
+        "spec6": "GEOVEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

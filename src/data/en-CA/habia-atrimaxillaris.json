@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-cheeked Ant-Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Habia atrimaxillaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCAT",
+        "spec6": "HABATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

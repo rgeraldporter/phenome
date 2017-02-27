@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Guillemot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cepphus grylle",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLGU",
+        "spec6": "CEPGRY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

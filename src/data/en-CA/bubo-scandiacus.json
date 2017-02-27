@@ -1,0 +1,19 @@
+{
+    "commonName": "Snowy Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bubo scandiacus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNOW",
+        "spec6": "BUBSCA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Bronze-tailed Plumeleteer",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chalybura urochrysia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTPL",
+        "spec6": "CHAURO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

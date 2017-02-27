@@ -1,0 +1,19 @@
+{
+    "commonName": "Fasciated Antshrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cymbilaimus lineatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FAAN",
+        "spec6": "CYMLIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

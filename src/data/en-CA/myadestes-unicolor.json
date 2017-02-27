@@ -1,0 +1,19 @@
+{
+    "commonName": "Slate-colored Solitaire",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes unicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCSO",
+        "spec6": "MYAUNI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-faced Solitaire",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes melanops",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BFSO",
+        "spec6": "MYAMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

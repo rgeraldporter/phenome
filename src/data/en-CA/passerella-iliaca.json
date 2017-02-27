@@ -1,0 +1,19 @@
+{
+    "commonName": "Fox Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerella iliaca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FOSP",
+        "spec6": "PASILI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Shrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lanius excubitor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NSHR",
+        "spec6": "LANEXC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

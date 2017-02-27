@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-crowned Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannulus elatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YCTY",
+        "spec6": "TYRELA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

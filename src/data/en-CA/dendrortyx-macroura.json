@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-tailed Wood-Partridge",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrortyx macroura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LTWP",
+        "spec6": "DENMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

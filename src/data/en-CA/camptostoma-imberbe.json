@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Beardless-Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Camptostoma imberbe",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOBT",
+        "spec6": "CAMIMB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

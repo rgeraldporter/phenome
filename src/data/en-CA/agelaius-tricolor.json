@@ -1,0 +1,19 @@
+{
+    "commonName": "Tricolored Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Agelaius tricolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRBL",
+        "spec6": "AGETRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

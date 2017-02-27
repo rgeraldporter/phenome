@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous Nightjar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Antrostomus rufus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUNI",
+        "spec6": "ANTRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

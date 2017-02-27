@@ -1,0 +1,19 @@
+{
+    "commonName": "Tufted Titmouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Baeolophus bicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TUTI",
+        "spec6": "BAEBIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

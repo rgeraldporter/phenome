@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Guan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chamaepetes unicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLAG",
+        "spec6": "CHAUNI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Least Grebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachybaptus dominicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEGR",
+        "spec6": "TACDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

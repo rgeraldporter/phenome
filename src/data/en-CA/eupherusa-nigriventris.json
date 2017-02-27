@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-bellied Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eupherusa nigriventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLBH",
+        "spec6": "EUPNIG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

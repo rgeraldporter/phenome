@@ -1,0 +1,19 @@
+{
+    "commonName": "Sooty Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus griseus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOSH",
+        "spec6": "PUFGRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

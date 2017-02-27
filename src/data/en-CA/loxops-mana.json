@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaii Creeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxops mana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HCRE",
+        "spec6": "LOXMAN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

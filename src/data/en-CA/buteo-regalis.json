@@ -1,0 +1,19 @@
+{
+    "commonName": "Ferruginous Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo regalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FEHA",
+        "spec6": "BUTREG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

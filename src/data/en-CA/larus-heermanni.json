@@ -1,0 +1,19 @@
+{
+    "commonName": "Heermann's Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus heermanni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HEEG",
+        "spec6": "LARHEE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

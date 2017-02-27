@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon rufus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTHT",
+        "spec6": "TRORUS",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

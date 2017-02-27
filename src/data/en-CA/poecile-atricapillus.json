@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-capped Chickadee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Poecile atricapillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCCH",
+        "spec6": "POEATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

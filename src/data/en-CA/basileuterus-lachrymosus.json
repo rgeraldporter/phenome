@@ -1,0 +1,19 @@
+{
+    "commonName": "Fan-tailed Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Basileuterus lachrymosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FTWA",
+        "spec6": "BASLAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

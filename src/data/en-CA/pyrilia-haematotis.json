@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-hooded Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pyrilia haematotis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHOP",
+        "spec6": "PYRHAE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

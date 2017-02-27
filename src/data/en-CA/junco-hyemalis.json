@@ -1,0 +1,19 @@
+{
+    "commonName": "Dark-eyed Junco",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Junco hyemalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DEJU",
+        "spec6": "JUNHYE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-billed Cotinga",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Carpodectes antoniae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBCO",
+        "spec6": "CARANT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

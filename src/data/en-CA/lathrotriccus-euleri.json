@@ -1,0 +1,19 @@
+{
+    "commonName": "Euler's Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lathrotriccus euleri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUFL",
+        "spec6": "LATEUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

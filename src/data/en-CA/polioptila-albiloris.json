@@ -1,0 +1,19 @@
+{
+    "commonName": "White-lored Gnatcatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Polioptila albiloris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WLGN",
+        "spec6": "POLALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

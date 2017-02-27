@@ -1,0 +1,19 @@
+{
+    "commonName": "Emperor Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chen canagica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EMGO",
+        "spec6": "CHECAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Tropical Screech-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megascops choliba",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRSO",
+        "spec6": "MEGCHO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

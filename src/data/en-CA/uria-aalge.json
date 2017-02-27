@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Murre",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Uria aalge",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COMU",
+        "spec6": "URIAAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

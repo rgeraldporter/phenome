@@ -1,0 +1,19 @@
+{
+    "commonName": "Dusky-faced Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mitrospingus cassinii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DFTA",
+        "spec6": "MITCAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

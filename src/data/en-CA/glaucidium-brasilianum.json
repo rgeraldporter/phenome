@@ -1,0 +1,19 @@
+{
+    "commonName": "Ferruginous Pygmy-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glaucidium brasilianum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FEPO",
+        "spec6": "GLABRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

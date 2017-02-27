@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Skimmer",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rynchops niger",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLSK",
+        "spec6": "RYNNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Boat-billed Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cochlearius cochlearius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBHE",
+        "spec6": "COCCOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

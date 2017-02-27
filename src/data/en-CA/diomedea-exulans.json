@@ -1,0 +1,19 @@
+{
+    "commonName": "Wandering Albatross",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Diomedea exulans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WAAL",
+        "spec6": "DIOEXU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

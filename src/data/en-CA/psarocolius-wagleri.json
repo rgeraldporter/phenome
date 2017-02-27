@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-headed Oropendola",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psarocolius wagleri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHOR",
+        "spec6": "PSAWAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

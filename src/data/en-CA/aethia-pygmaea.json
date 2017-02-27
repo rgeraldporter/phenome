@@ -1,0 +1,19 @@
+{
+    "commonName": "Whiskered Auklet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aethia pygmaea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHAU",
+        "spec6": "AETPYG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

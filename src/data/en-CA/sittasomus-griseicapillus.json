@@ -1,0 +1,19 @@
+{
+    "commonName": "Olivaceous Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sittasomus griseicapillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OLWO",
+        "spec6": "SITGRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

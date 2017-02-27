@@ -1,0 +1,19 @@
+{
+    "commonName": "Scarlet-thighed Dacnis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dacnis venusta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STDA",
+        "spec6": "DACVEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-bellied Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pheugopedius fasciatoventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBEW",
+        "spec6": "PHEFAS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

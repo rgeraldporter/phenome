@@ -1,0 +1,19 @@
+{
+    "commonName": "Fulvous Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Strix fulvescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FUOW",
+        "spec6": "STRFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

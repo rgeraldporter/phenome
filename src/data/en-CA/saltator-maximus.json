@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-throated Saltator",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Saltator maximus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTSA",
+        "spec6": "SALMAX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

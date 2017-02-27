@@ -1,0 +1,19 @@
+{
+    "commonName": "Paltry Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zimmerius vilissimus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PATY",
+        "spec6": "ZIMVIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

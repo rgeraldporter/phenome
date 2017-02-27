@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Hermit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaethornis guy",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GREH",
+        "spec6": "PHAGUY",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

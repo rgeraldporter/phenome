@@ -1,0 +1,19 @@
+{
+    "commonName": "White-bellied Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Uropsila leucogastra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBWR",
+        "spec6": "UROLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

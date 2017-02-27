@@ -1,0 +1,19 @@
+{
+    "commonName": "Bristle-thighed Curlew",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Numenius tahitiensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTCU",
+        "spec6": "NUMTAH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

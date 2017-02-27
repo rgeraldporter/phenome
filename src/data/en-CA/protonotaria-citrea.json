@@ -1,0 +1,19 @@
+{
+    "commonName": "Prothonotary Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Protonotaria citrea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PROW",
+        "spec6": "PROCIT",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

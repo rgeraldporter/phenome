@@ -1,0 +1,19 @@
+{
+    "commonName": "White-necked Jacobin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Florisuga mellivora",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WNJA",
+        "spec6": "FLOMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Brewer's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spizella breweri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRSP",
+        "spec6": "SPIBRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

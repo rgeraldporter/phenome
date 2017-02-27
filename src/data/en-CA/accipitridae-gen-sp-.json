@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipitridae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNHA",
+        "spec6": "ACCGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

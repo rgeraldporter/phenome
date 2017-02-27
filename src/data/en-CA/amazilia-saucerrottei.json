@@ -1,0 +1,19 @@
+{
+    "commonName": "Steely-vented Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia saucerrottei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SVHU",
+        "spec6": "AMASAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

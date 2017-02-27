@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-sided Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga pensylvanica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CSWA",
+        "spec6": "SETPEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

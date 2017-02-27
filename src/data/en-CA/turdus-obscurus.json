@@ -1,0 +1,19 @@
+{
+    "commonName": "Eyebrowed Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus obscurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EYTH",
+        "spec6": "TUROBC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

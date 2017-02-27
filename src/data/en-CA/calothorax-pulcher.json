@@ -1,0 +1,19 @@
+{
+    "commonName": "Beautiful Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calothorax pulcher",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEAH",
+        "spec6": "CALPUL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Social Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiozetetes similis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOFL",
+        "spec6": "MYISIM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

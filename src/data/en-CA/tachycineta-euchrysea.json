@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachycineta euchrysea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GOSW",
+        "spec6": "TACEUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

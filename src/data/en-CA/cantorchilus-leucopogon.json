@@ -1,0 +1,19 @@
+{
+    "commonName": "Stripe-throated Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cantorchilus leucopogon",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STWR",
+        "spec6": "CANLEP",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

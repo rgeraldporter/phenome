@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Picadae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNWO",
+        "spec6": "PICGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

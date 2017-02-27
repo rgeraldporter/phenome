@@ -1,0 +1,19 @@
+{
+    "commonName": "Semipalmated Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius semipalmatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SEPL",
+        "spec6": "CHASEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

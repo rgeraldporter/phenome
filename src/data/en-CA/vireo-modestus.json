@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo modestus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAVI",
+        "spec6": "VIRMOD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

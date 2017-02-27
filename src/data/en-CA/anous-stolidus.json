@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown Noddy",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anous stolidus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRNO",
+        "spec6": "ANOSTO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

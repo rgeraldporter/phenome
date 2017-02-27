@@ -1,0 +1,19 @@
+{
+    "commonName": "Seaside Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ammodramus maritimus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SESP",
+        "spec6": "AMMMAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

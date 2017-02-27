@@ -1,0 +1,19 @@
+{
+    "commonName": "Dusky Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus naumanni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DUTH",
+        "spec6": "TURNAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

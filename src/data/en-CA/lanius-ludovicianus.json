@@ -1,0 +1,19 @@
+{
+    "commonName": "Loggerhead Shrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lanius ludovicianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LOSH",
+        "spec6": "LANLUD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

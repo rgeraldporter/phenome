@@ -1,0 +1,19 @@
+{
+    "commonName": "White-shouldered Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachyphonus luctuosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WSTA",
+        "spec6": "TACLUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

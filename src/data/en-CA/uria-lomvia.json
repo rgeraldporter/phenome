@@ -1,0 +1,19 @@
+{
+    "commonName": "Thick-billed Murre",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Uria lomvia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TBMU",
+        "spec6": "URILOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

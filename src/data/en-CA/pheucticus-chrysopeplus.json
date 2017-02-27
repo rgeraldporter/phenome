@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pheucticus chrysopeplus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YEGR",
+        "spec6": "PHECHR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

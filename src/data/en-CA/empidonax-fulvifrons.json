@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-breasted Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax fulvifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBFL",
+        "spec6": "EMPFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

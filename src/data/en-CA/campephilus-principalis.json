@@ -1,0 +1,19 @@
+{
+    "commonName": "Ivory-billed Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campephilus principalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "IBWO",
+        "spec6": "CAMPRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

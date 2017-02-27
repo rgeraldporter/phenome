@@ -1,0 +1,19 @@
+{
+    "commonName": "Peruvian Booby",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sula variegata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PEBO",
+        "spec6": "SULVAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

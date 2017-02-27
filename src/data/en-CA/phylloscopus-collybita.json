@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Chiffchaff",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscopus collybita",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCHI",
+        "spec6": "PHYCOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Bronze Mannikin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spermestes cucullata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRMA",
+        "spec6": "SPECUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-tailed Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus crassirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTGU",
+        "spec6": "LARCRA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

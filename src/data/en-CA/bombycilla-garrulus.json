@@ -1,0 +1,19 @@
+{
+    "commonName": "Bohemian Waxwing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bombycilla garrulus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BOWA",
+        "spec6": "BOMGAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

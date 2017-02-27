@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tipped Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leptotila verreauxi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTDO",
+        "spec6": "LEPVEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

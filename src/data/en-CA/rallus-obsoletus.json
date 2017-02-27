@@ -1,0 +1,19 @@
+{
+    "commonName": "Ridgway's Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rallus obsoletus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RIRA",
+        "spec6": "RALOBS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

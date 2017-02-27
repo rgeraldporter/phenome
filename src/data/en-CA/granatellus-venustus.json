@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-breasted Chat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Granatellus venustus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBRC",
+        "spec6": "GRAVEN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

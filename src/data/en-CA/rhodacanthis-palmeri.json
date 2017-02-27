@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Koa-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhodacanthis palmeri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRKF",
+        "spec6": "RHOPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

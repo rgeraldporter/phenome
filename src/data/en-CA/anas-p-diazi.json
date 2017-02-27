@@ -1,0 +1,19 @@
+{
+    "commonName": "Mexican Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas p. diazi",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "MEDU",
+        "spec6": "ANAPDI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

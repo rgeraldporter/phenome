@@ -1,0 +1,19 @@
+{
+    "commonName": "Flesh-footed Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus carneipes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FFSH",
+        "spec6": "PUFCAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

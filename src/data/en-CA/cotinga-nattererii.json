@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue Cotinga",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cotinga nattererii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLCO",
+        "spec6": "COTNAT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

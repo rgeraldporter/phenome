@@ -1,0 +1,19 @@
+{
+    "commonName": "Ochre-bellied Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mionectes oleagineus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBFL",
+        "spec6": "MIOOLE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

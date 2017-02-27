@@ -1,0 +1,19 @@
+{
+    "commonName": "Striped Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oriturus superciliosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SSPA",
+        "spec6": "ORISUP",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

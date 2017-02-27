@@ -1,0 +1,19 @@
+{
+    "commonName": "Song Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus philomelos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOTH",
+        "spec6": "TURPHI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Central American Pygmy-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glaucidium griseiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAPO",
+        "spec6": "GLAGRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

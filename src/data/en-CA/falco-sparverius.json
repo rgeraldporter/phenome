@@ -1,0 +1,19 @@
+{
+    "commonName": "American Kestrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco sparverius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMKE",
+        "spec6": "FALSPA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

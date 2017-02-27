@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tailed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eupherusa poliocerca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTAH",
+        "spec6": "EUPPOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

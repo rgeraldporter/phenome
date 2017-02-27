@@ -1,0 +1,19 @@
+{
+    "commonName": "Violet-crowned Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia violiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VCHU",
+        "spec6": "AMAVIO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

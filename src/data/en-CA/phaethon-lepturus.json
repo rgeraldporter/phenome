@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tailed Tropicbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaethon lepturus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTTR",
+        "spec6": "PHALEP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

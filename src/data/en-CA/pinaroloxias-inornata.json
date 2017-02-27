@@ -1,0 +1,19 @@
+{
+    "commonName": "Cocos Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pinaroloxias inornata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COFI",
+        "spec6": "PININO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

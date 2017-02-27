@@ -1,0 +1,19 @@
+{
+    "commonName": "Elfin-woods Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga angelae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EWWA",
+        "spec6": "SETANG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Antillean Saltator",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Saltator albicollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LASA",
+        "spec6": "SALALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

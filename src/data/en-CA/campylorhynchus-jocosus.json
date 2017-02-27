@@ -1,0 +1,19 @@
+{
+    "commonName": "Boucard's Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhynchus jocosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BOWR",
+        "spec6": "CAMJOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

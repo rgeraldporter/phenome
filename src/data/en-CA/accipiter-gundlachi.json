@@ -1,0 +1,19 @@
+{
+    "commonName": "Gundlach's Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipiter gundlachi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GUHA",
+        "spec6": "ACCGUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

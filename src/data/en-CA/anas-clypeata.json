@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Shoveler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas clypeata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NSHO",
+        "spec6": "ANACLY",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

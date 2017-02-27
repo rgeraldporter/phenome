@@ -1,0 +1,19 @@
+{
+    "commonName": "Brewster's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vermivora chrysoptera x cyanop",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "BRWA",
+        "spec6": "VERCCY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

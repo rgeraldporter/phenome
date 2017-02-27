@@ -1,0 +1,19 @@
+{
+    "commonName": "White-winged Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Brotogeris versicolurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WWPA",
+        "spec6": "BROVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

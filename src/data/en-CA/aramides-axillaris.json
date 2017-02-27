@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-necked Wood-Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aramides axillaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUWR",
+        "spec6": "ARAAXI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

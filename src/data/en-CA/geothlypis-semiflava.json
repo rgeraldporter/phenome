@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive-crowned Yellowthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis semiflava",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCYE",
+        "spec6": "GEOSEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

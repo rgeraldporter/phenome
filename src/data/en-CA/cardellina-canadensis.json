@@ -1,0 +1,19 @@
+{
+    "commonName": "Canada Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cardellina canadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAWA",
+        "spec6": "CADCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

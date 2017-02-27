@@ -1,0 +1,19 @@
+{
+    "commonName": "Bat Falcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco rufigularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAFA",
+        "spec6": "FALRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

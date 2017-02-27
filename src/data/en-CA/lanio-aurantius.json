@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Shrike-Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lanio aurantius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTST",
+        "spec6": "LANAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

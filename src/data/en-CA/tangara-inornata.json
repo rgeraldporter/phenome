@@ -1,0 +1,19 @@
+{
+    "commonName": "Plain-colored Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara inornata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PCTA",
+        "spec6": "TANINO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

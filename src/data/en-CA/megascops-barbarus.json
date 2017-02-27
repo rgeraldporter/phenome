@@ -1,0 +1,19 @@
+{
+    "commonName": "Bearded Screech-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megascops barbarus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BESO",
+        "spec6": "MEGBAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

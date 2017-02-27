@@ -1,0 +1,19 @@
+{
+    "commonName": "Magnolia Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga magnolia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAWA",
+        "spec6": "SETMAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

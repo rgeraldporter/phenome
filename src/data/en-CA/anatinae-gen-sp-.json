@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anatinae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNDU",
+        "spec6": "ANAGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-winged Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara lavinia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RWTA",
+        "spec6": "TANLAV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

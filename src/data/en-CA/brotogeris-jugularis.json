@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-chinned Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Brotogeris jugularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCPA",
+        "spec6": "BROJUG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

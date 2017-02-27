@@ -1,0 +1,19 @@
+{
+    "commonName": "Streaked Saltator",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Saltator striatipectus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SSAL",
+        "spec6": "SALSTR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

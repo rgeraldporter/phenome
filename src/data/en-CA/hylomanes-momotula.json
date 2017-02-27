@@ -1,0 +1,19 @@
+{
+    "commonName": "Tody Motmot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylomanes momotula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TOMO",
+        "spec6": "HYLMOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

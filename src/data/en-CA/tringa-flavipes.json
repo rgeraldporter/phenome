@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Yellowlegs",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa flavipes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEYE",
+        "spec6": "TRIFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

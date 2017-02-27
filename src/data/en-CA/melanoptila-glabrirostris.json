@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Catbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanoptila glabrirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLCA",
+        "spec6": "MELGLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

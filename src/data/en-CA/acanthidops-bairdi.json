@@ -1,0 +1,19 @@
+{
+    "commonName": "Peg-billed Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Acanthidops bairdi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBFI",
+        "spec6": "ACABAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Redpoll",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Acanthis flammea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CORE",
+        "spec6": "ACAFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

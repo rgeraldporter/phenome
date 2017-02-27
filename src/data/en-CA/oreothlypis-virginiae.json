@@ -1,0 +1,19 @@
+{
+    "commonName": "Virginia's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreothlypis virginiae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VIWA",
+        "spec6": "OREVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

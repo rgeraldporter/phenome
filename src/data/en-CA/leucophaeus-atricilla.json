@@ -1,0 +1,19 @@
+{
+    "commonName": "Laughing Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leucophaeus atricilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAGU",
+        "spec6": "LEUATC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

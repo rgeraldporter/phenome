@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocitta cristata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLJA",
+        "spec6": "CYACRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

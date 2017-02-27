@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-chested Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leptotila cassini",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCDO",
+        "spec6": "LEPCAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

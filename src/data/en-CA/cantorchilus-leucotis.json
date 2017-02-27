@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-breasted Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cantorchilus leucotis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBRW",
+        "spec6": "CANLET",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

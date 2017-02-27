@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Meadowlark",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sturnella magna",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EAME",
+        "spec6": "STUMAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

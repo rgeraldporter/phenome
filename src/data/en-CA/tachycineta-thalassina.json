@@ -1,0 +1,19 @@
+{
+    "commonName": "Violet-green Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachycineta thalassina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VGSW",
+        "spec6": "TACTHA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

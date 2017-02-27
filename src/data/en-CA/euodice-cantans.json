@@ -1,0 +1,19 @@
+{
+    "commonName": "African Silverbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euodice cantans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AFSI",
+        "spec6": "EUOCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

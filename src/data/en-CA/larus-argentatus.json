@@ -1,0 +1,19 @@
+{
+    "commonName": "Herring Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus argentatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HERG",
+        "spec6": "LARARG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

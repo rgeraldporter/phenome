@@ -1,0 +1,19 @@
+{
+    "commonName": "Plain Chachalaca",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ortalis vetula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLCH",
+        "spec6": "ORTVET",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

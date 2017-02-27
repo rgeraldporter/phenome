@@ -1,0 +1,19 @@
+{
+    "commonName": "European Goldfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Carduelis carduelis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUGO",
+        "spec6": "CARCAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

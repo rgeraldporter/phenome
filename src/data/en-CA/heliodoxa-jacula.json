@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-crowned Brilliant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Heliodoxa jacula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCBR",
+        "spec6": "HELJAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

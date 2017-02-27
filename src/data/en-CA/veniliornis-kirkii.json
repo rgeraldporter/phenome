@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-rumped Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Veniliornis kirkii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RRWO",
+        "spec6": "VENKIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

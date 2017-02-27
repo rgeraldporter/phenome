@@ -1,0 +1,19 @@
+{
+    "commonName": "Scaly-breasted Munia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lonchura punctulata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBMU",
+        "spec6": "LONPUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

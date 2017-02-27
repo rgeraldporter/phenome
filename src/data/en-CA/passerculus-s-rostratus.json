@@ -1,0 +1,19 @@
+{
+    "commonName": "Large-billed Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerculus s. rostratus",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "LBSP",
+        "spec6": "PASSRO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

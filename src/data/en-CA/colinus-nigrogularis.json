@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Bobwhite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colinus nigrogularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTBO",
+        "spec6": "COLNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

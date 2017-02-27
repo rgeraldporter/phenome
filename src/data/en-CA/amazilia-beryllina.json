@@ -1,0 +1,19 @@
+{
+    "commonName": "Berylline Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia beryllina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEHU",
+        "spec6": "AMABER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

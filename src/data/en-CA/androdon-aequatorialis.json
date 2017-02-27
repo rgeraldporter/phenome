@@ -1,0 +1,19 @@
+{
+    "commonName": "Tooth-billed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Androdon aequatorialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TBHU",
+        "spec6": "ANDAEQ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

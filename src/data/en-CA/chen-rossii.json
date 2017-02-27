@@ -1,0 +1,19 @@
+{
+    "commonName": "Ross's Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chen rossii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROGO",
+        "spec6": "CHEROS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

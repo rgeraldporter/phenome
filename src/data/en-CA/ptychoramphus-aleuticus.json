@@ -1,0 +1,19 @@
+{
+    "commonName": "Cassin's Auklet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ptychoramphus aleuticus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAAU",
+        "spec6": "PTYALE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

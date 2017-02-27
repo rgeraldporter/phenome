@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty-backed Nightingale-Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus fuscater",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBNT",
+        "spec6": "CATFUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

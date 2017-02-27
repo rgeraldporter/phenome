@@ -1,0 +1,19 @@
+{
+    "commonName": "Akepa",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxops coccineus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AKEP",
+        "spec6": "LOXCOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo latimeri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRVI",
+        "spec6": "VIRLAT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

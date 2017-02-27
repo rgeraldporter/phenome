@@ -1,0 +1,19 @@
+{
+    "commonName": "Varied Solitaire",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes coloratus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VASO",
+        "spec6": "MYACOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

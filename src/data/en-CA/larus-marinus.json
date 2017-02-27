@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Black-backed Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus marinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBBG",
+        "spec6": "LARMAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

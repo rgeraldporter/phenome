@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-cheeked Nunlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nonnula frontalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCNU",
+        "spec6": "NONFRO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

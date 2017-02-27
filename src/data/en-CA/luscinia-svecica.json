@@ -1,0 +1,19 @@
+{
+    "commonName": "Bluethroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Luscinia svecica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLUE",
+        "spec6": "LUSSVE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

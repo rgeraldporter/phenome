@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-legged Honeycreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanerpes cyaneus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RLHO",
+        "spec6": "CYACYU",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

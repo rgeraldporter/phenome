@@ -1,0 +1,19 @@
+{
+    "commonName": "Canyon Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catherpes mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CANW",
+        "spec6": "CAPMEX",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

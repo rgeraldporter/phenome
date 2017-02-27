@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Spotted Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocopos major",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GSWO",
+        "spec6": "DENMAJ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

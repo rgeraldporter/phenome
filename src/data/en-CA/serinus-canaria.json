@@ -1,0 +1,19 @@
+{
+    "commonName": "Island Canary",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Serinus canaria",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ISCA",
+        "spec6": "SERCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Aztec Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rallus tenuirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AZRA",
+        "spec6": "RALTEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

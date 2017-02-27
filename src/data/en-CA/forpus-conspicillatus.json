@@ -1,0 +1,19 @@
+{
+    "commonName": "Spectacled Parrotlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Forpus conspicillatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPPA",
+        "spec6": "FORCON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

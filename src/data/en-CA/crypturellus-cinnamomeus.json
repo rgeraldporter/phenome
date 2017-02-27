@@ -1,0 +1,19 @@
+{
+    "commonName": "Thicket Tinamou",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Crypturellus cinnamomeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "THTI",
+        "spec6": "CRYCIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Lovely Cotinga",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cotinga amabilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LOCO",
+        "spec6": "COTAMA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-bellied Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiodynastes hemichrysus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBFL",
+        "spec6": "MYIHEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

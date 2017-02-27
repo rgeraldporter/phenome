@@ -1,0 +1,19 @@
+{
+    "commonName": "Kirtland's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga kirtlandii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KIWA",
+        "spec6": "SETKIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

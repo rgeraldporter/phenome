@@ -1,0 +1,19 @@
+{
+    "commonName": "Kakawahie",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Paroreomyza flammea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KAKA",
+        "spec6": "PARFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

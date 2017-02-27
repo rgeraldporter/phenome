@@ -1,0 +1,19 @@
+{
+    "commonName": "Plain Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas inornata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLAP",
+        "spec6": "PATINO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

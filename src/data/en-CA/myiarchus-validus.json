@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-tailed Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus validus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RFTF",
+        "spec6": "MYIVAL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

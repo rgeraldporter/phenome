@@ -1,0 +1,19 @@
+{
+    "commonName": "Spot-crowned Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia imitans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPCE",
+        "spec6": "EUPIMI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

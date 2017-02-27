@@ -1,0 +1,19 @@
+{
+    "commonName": "Great White Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ardea h. occidentalis",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "GWHE",
+        "spec6": "ARDHOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

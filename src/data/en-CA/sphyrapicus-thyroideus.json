@@ -1,0 +1,19 @@
+{
+    "commonName": "Williamson's Sapsucker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sphyrapicus thyroideus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WISA",
+        "spec6": "SPHTHY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

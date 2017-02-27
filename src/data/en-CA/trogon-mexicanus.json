@@ -1,0 +1,19 @@
+{
+    "commonName": "Mountain Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOTR",
+        "spec6": "TROMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

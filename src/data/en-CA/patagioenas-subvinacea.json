@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas subvinacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUDP",
+        "spec6": "PATSUB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

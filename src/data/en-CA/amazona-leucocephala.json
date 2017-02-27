@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona leucocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CPAT",
+        "spec6": "AMALEU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-faced Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhynchortyx cinctus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TFQU",
+        "spec6": "RHYCIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

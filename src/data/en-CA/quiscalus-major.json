@@ -1,0 +1,19 @@
+{
+    "commonName": "Boat-tailed Grackle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Quiscalus major",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTGR",
+        "spec6": "QUIMAJ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

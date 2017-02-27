@@ -1,0 +1,19 @@
+{
+    "commonName": "Laysan Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas laysanensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAYD",
+        "spec6": "ANALAY",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

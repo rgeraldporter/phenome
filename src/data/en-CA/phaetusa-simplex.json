@@ -1,0 +1,19 @@
+{
+    "commonName": "Large-billed Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaetusa simplex",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBTE",
+        "spec6": "PHASIM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

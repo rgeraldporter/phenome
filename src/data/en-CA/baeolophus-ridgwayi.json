@@ -1,0 +1,19 @@
+{
+    "commonName": "Juniper Titmouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Baeolophus ridgwayi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JUTI",
+        "spec6": "BAERID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

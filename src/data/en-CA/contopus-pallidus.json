@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Pewee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Contopus pallidus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAPE",
+        "spec6": "CONPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

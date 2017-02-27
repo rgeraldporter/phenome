@@ -1,0 +1,19 @@
+{
+    "commonName": "Vermiculated Screech-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megascops guatemalae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VESO",
+        "spec6": "MEGGUA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

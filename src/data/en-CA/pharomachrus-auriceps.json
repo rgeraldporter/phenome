@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-headed Quetzal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pharomachrus auriceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHQU",
+        "spec6": "PHAAUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Highland Guan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Penelopina nigra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HIGU",
+        "spec6": "PENNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

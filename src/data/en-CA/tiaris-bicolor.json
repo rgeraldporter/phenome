@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-faced Grassquit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tiaris bicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BFGR",
+        "spec6": "TIABIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

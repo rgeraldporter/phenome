@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-cheeked Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes pucherani",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCWO",
+        "spec6": "MELPUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

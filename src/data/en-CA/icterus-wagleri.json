@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-vented Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus wagleri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BVOR",
+        "spec6": "ICTWAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

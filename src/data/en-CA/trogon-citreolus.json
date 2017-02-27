@@ -1,0 +1,19 @@
+{
+    "commonName": "Citreoline Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon citreolus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CITR",
+        "spec6": "TROCIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

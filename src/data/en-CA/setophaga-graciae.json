@@ -1,0 +1,19 @@
+{
+    "commonName": "Grace's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga graciae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRWA",
+        "spec6": "SETGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

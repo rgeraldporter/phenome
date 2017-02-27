@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Snow Goose Intermediate-morph",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chen c. caerulescens",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "LSGI",
+        "spec6": "CHECCA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

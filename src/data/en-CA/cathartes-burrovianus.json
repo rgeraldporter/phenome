@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Yellow-headed Vulture",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cathartes burrovianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LYHV",
+        "spec6": "CATBUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

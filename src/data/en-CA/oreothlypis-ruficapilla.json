@@ -1,0 +1,19 @@
+{
+    "commonName": "Nashville Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreothlypis ruficapilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NAWA",
+        "spec6": "ORERUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

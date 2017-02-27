@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Greenlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylophilus decurtatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LESG",
+        "spec6": "HYLDEC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Roadrunner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geococcyx californianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRRO",
+        "spec6": "GEOCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

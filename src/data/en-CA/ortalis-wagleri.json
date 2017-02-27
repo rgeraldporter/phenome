@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-bellied Chachalaca",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ortalis wagleri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBEC",
+        "spec6": "ORTWAG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

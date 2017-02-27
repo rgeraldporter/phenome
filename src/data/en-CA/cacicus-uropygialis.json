@@ -1,0 +1,19 @@
+{
+    "commonName": "Scarlet-rumped Cacique",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cacicus uropygialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SRCA",
+        "spec6": "CACURO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

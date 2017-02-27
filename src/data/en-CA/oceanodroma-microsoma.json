@@ -1,0 +1,19 @@
+{
+    "commonName": "Least Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma microsoma",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LSTP",
+        "spec6": "OCEMIC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

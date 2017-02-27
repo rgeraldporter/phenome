@@ -1,0 +1,19 @@
+{
+    "commonName": "Wrenthrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zeledonia coronata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WRET",
+        "spec6": "ZELCOR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

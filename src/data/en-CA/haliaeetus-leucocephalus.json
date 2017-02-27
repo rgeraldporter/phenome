@@ -1,0 +1,19 @@
+{
+    "commonName": "Bald Eagle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haliaeetus leucocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAEA",
+        "spec6": "HALLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

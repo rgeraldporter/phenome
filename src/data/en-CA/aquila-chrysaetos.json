@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden Eagle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aquila chrysaetos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GOEA",
+        "spec6": "AQUCHR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

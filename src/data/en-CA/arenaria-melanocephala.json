@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Turnstone",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arenaria melanocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLTU",
+        "spec6": "AREMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

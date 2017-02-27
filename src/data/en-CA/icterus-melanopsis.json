@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus melanopsis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUOR",
+        "spec6": "ICTMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

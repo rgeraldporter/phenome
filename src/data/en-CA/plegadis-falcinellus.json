@@ -1,0 +1,19 @@
+{
+    "commonName": "Glossy Ibis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Plegadis falcinellus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GLIB",
+        "spec6": "PLEFAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

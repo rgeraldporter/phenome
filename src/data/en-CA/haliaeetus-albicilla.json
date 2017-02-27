@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tailed Eagle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haliaeetus albicilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTEA",
+        "spec6": "HALALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

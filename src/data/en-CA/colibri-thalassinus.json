@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Violetear",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colibri thalassinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GREV",
+        "spec6": "COLTHA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

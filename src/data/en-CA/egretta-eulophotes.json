@@ -1,0 +1,19 @@
+{
+    "commonName": "Chinese Egret",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Egretta eulophotes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHEG",
+        "spec6": "EGREUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

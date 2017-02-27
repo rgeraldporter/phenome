@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pheugopedius atrogularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTWR",
+        "spec6": "PHEATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

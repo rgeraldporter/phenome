@@ -1,0 +1,19 @@
+{
+    "commonName": "Cinnamon-bellied Flowerpiercer",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Diglossa baritula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CBFL",
+        "spec6": "DIGBAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris maritima",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PUSA",
+        "spec6": "CALMAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

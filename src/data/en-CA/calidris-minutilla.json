@@ -1,0 +1,19 @@
+{
+    "commonName": "Least Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris minutilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LESA",
+        "spec6": "CALMIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

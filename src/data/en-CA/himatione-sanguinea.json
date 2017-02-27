@@ -1,0 +1,19 @@
+{
+    "commonName": "Apapane",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Himatione sanguinea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "APAP",
+        "spec6": "HIMSAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

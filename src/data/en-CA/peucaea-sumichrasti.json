@@ -1,0 +1,19 @@
+{
+    "commonName": "Cinnamon-tailed Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Peucaea sumichrasti",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CTSP",
+        "spec6": "PEUSUM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

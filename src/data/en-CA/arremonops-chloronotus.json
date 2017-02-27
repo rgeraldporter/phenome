@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-backed Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arremonops chloronotus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBSP",
+        "spec6": "ARRCHL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

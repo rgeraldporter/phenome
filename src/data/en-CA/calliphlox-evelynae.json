@@ -1,0 +1,19 @@
+{
+    "commonName": "Bahama Woodstar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calliphlox evelynae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAWO",
+        "spec6": "CALEVE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

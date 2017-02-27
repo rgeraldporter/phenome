@@ -1,0 +1,19 @@
+{
+    "commonName": "Iiwi",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vestiaria coccinea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "IIWI",
+        "spec6": "VESCOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

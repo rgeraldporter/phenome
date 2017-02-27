@@ -1,0 +1,19 @@
+{
+    "commonName": "Carolina Chickadee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Poecile carolinensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CACH",
+        "spec6": "POECAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Potoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nyctibius grandis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRPO",
+        "spec6": "NYCGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

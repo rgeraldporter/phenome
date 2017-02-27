@@ -1,0 +1,19 @@
+{
+    "commonName": "Orangequit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euneornis campestris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ORAN",
+        "spec6": "EUNCAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

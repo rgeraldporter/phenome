@@ -1,0 +1,19 @@
+{
+    "commonName": "Plain Xenops",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenops minutus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLXE",
+        "spec6": "XENMIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

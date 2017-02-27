@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-backed Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus abeillei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBOR",
+        "spec6": "ICTABE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

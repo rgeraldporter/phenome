@@ -1,0 +1,19 @@
+{
+    "commonName": "Large-footed Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pezopetes capitalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LFFI",
+        "spec6": "PEZCAP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

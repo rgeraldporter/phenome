@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-billed Scythebill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhamphus pusillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBSC",
+        "spec6": "CAMPUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

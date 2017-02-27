@@ -1,0 +1,19 @@
+{
+    "commonName": "Uniform Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amaurolimnas concolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "UNIC",
+        "spec6": "AMLCON",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

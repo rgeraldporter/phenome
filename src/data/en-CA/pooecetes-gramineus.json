@@ -1,0 +1,19 @@
+{
+    "commonName": "Vesper Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pooecetes gramineus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VESP",
+        "spec6": "POOGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

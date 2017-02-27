@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Screech-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megascops asio",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EASO",
+        "spec6": "MEGASI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

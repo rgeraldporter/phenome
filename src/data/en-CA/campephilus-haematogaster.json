@@ -1,0 +1,19 @@
+{
+    "commonName": "Crimson-bellied Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campephilus haematogaster",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CBWO",
+        "spec6": "CAMHAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

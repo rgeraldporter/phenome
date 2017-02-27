@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-necked Phalarope",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalaropus lobatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RNPH",
+        "spec6": "PHALOB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "San Andres Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo caribaeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SAVI",
+        "spec6": "VIRCAB",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

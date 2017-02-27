@@ -1,0 +1,19 @@
+{
+    "commonName": "Giant Kingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus cubensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GIKI",
+        "spec6": "TYRCUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

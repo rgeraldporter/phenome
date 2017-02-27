@@ -1,0 +1,19 @@
+{
+    "commonName": "Omao",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes obscurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OMAO",
+        "spec6": "MYAOBS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

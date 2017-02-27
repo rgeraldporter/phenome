@@ -1,0 +1,19 @@
+{
+    "commonName": "Arctic Loon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gavia arctica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ARLO",
+        "spec6": "GAVARC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

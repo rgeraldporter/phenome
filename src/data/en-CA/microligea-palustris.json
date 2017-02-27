@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-tailed Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Microligea palustris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GTWA",
+        "spec6": "MICPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

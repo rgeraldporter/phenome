@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-browed Peppershrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyclarhis gujanensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBPE",
+        "spec6": "CYCGUJ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

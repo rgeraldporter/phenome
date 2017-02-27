@@ -1,0 +1,19 @@
+{
+    "commonName": "White-crested Coquette",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lophornis adorabilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCCO",
+        "spec6": "LOPADO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

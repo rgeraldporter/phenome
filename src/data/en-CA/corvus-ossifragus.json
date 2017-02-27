@@ -1,0 +1,19 @@
+{
+    "commonName": "Fish Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus ossifragus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FICR",
+        "spec6": "COROSS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

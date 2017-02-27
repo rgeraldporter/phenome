@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Parula",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOPA",
+        "spec6": "SETAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

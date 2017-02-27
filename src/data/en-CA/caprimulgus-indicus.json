@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Nightjar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Caprimulgus indicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRNI",
+        "spec6": "CAPIND",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

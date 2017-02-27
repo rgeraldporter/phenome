@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax difficilis/occid.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "WEFL",
+        "spec6": "EMPDIO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

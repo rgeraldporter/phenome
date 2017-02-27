@@ -1,0 +1,19 @@
+{
+    "commonName": "Garnet-throated Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lamprolaima rhami",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GATH",
+        "spec6": "LAMRHA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

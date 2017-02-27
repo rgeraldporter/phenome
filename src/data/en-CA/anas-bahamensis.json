@@ -1,0 +1,19 @@
+{
+    "commonName": "White-cheeked Pintail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas bahamensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCHP",
+        "spec6": "ANABAH",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

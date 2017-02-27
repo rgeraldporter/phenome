@@ -1,0 +1,19 @@
+{
+    "commonName": "Slender-billed Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Helicolestes hamatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBKI",
+        "spec6": "HELHAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

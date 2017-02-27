@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-tailed Tropicbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaethon rubricauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTTR",
+        "spec6": "PHARUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

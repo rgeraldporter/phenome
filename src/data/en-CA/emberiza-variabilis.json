@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberiza variabilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRBU",
+        "spec6": "EMBVAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

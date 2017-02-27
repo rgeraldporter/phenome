@@ -1,0 +1,19 @@
+{
+    "commonName": "Siberian Accentor",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Prunella montanella",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SIAC",
+        "spec6": "PRUMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Sabine's Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xema sabini",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SAGU",
+        "spec6": "XEMSAB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

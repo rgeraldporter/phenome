@@ -1,0 +1,19 @@
+{
+    "commonName": "Flammulated Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Deltarhynchus flammulatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FLFL",
+        "spec6": "DELFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

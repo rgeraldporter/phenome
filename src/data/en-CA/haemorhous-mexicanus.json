@@ -1,0 +1,19 @@
+{
+    "commonName": "House Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haemorhous mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOFI",
+        "spec6": "HAEMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

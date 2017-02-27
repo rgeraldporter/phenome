@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Wryneck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Jynx torquilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUWR",
+        "spec6": "JYNTOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

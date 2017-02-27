@@ -1,0 +1,19 @@
+{
+    "commonName": "Japanese Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coturnix japonica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAQU",
+        "spec6": "COTJAP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

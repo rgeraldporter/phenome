@@ -1,0 +1,19 @@
+{
+    "commonName": "Rock Ptarmigan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lagopus muta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROPT",
+        "spec6": "LAGMUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

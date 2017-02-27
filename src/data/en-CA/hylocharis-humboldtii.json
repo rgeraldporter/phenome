@@ -1,0 +1,19 @@
+{
+    "commonName": "Humboldt's Sapphire",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylocharis humboldtii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HUSA",
+        "spec6": "HYLHUM",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

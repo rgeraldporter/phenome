@@ -1,0 +1,19 @@
+{
+    "commonName": "Murphy's Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma ultima",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MUPE",
+        "spec6": "PTEULT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

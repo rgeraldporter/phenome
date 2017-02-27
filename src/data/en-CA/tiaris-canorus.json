@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Grassquit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tiaris canorus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUGR",
+        "spec6": "TIACAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

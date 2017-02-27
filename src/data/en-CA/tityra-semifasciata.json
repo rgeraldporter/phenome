@@ -1,0 +1,19 @@
+{
+    "commonName": "Masked Tityra",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tityra semifasciata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MATI",
+        "spec6": "TITSEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

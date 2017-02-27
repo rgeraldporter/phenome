@@ -1,0 +1,19 @@
+{
+    "commonName": "Swallow-tailed Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Creagrus furcatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STGU",
+        "spec6": "CREFUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

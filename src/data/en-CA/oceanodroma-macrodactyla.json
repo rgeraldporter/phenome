@@ -1,0 +1,19 @@
+{
+    "commonName": "Guadalupe Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma macrodactyla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GUSP",
+        "spec6": "OCEMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

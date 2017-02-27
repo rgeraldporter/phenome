@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Marsh Harrier",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Circus aeruginosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WMHA",
+        "spec6": "CIRAER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

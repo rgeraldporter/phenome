@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Tody",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Todus todus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JATO",
+        "spec6": "TODTOD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

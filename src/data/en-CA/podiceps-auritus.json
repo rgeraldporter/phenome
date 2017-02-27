@@ -1,0 +1,19 @@
+{
+    "commonName": "Horned Grebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Podiceps auritus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOGR",
+        "spec6": "PODAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

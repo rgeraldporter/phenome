@@ -1,0 +1,19 @@
+{
+    "commonName": "Traill's Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax alnorum/traillii",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "TRFL",
+        "spec6": "EMPALT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

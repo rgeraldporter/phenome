@@ -1,0 +1,19 @@
+{
+    "commonName": "Lark Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chondestes grammacus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LASP",
+        "spec6": "CHOGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

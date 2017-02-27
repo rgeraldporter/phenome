@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-bellied Siskin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus xanthogastrus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBSI",
+        "spec6": "SPIXAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

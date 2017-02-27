@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-capped Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma hasitata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCPE",
+        "spec6": "PTEHAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

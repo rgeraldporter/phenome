@@ -1,0 +1,19 @@
+{
+    "commonName": "Shining Honeycreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanerpes lucidus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHHO",
+        "spec6": "CYALUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

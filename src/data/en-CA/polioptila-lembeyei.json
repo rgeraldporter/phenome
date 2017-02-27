@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Gnatcatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Polioptila lembeyei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUGN",
+        "spec6": "POLLEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

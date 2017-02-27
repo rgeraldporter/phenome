@@ -1,0 +1,19 @@
+{
+    "commonName": "Tennessee Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreothlypis peregrina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TEWA",
+        "spec6": "OREPER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

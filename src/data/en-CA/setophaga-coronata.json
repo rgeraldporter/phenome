@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-rumped Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga coronata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YRWA",
+        "spec6": "SETCOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

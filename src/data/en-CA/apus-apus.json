@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Apus apus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COSW",
+        "spec6": "APUAPU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

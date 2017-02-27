@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-chested Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocorax affinis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCHJ",
+        "spec6": "CYAAFF",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

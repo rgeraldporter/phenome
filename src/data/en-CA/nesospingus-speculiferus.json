@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nesospingus speculiferus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRTA",
+        "spec6": "NESSPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

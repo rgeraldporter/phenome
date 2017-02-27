@@ -1,0 +1,19 @@
+{
+    "commonName": "Swainson's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Limnothlypis swainsonii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SWWA",
+        "spec6": "LIMSWA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

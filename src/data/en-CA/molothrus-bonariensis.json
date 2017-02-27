@@ -1,0 +1,19 @@
+{
+    "commonName": "Shiny Cowbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Molothrus bonariensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHCO",
+        "spec6": "MOLBON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Russet Antshrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thamnistes anabatinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUAN",
+        "spec6": "THAANA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

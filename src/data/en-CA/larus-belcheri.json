@@ -1,0 +1,19 @@
+{
+    "commonName": "Belcher's Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus belcheri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEGU",
+        "spec6": "LARBEL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

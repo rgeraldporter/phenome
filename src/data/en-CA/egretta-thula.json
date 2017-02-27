@@ -1,0 +1,19 @@
+{
+    "commonName": "Snowy Egret",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Egretta thula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNEG",
+        "spec6": "EGRTHU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

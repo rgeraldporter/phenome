@@ -1,0 +1,19 @@
+{
+    "commonName": "Nicaraguan Grackle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Quiscalus nicaraguensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NIGR",
+        "spec6": "QUINIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

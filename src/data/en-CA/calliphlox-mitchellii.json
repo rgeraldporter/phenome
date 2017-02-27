@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple-throated Woodstar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calliphlox mitchellii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PTWO",
+        "spec6": "CALMIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

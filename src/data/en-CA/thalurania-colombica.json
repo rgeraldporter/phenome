@@ -1,0 +1,19 @@
+{
+    "commonName": "Crowned Woodnymph",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalurania colombica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRWO",
+        "spec6": "THACOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

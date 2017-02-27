@@ -1,0 +1,19 @@
+{
+    "commonName": "Scott's Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus parisorum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCOR",
+        "spec6": "ICTPAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

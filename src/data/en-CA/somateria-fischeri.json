@@ -1,0 +1,19 @@
+{
+    "commonName": "Spectacled Eider",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Somateria fischeri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPEI",
+        "spec6": "SOMFIS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

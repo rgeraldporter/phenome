@@ -1,0 +1,19 @@
+{
+    "commonName": "Pale-eyed Pygmy-Tyrant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lophotriccus pilaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PEPT",
+        "spec6": "LOPPIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

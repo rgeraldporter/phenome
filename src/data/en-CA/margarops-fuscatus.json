@@ -1,0 +1,19 @@
+{
+    "commonName": "Pearly-eyed Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Margarops fuscatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PETH",
+        "spec6": "MARFUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Willow Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscopus trochilus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WILW",
+        "spec6": "PHYTRO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

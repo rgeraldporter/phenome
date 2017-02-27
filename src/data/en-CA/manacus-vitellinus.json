@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-collared Manakin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Manacus vitellinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCMA",
+        "spec6": "MANVIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

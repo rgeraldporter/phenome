@@ -1,0 +1,19 @@
+{
+    "commonName": "Bahama Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga flavescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAHW",
+        "spec6": "SETFLA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

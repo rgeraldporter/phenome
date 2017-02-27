@@ -1,0 +1,19 @@
+{
+    "commonName": "Lilac-crowned Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona finschi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LCPA",
+        "spec6": "AMAFIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

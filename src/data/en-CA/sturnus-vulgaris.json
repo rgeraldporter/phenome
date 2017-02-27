@@ -1,0 +1,19 @@
+{
+    "commonName": "European Starling",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sturnus vulgaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUST",
+        "spec6": "STUVUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Buller's Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus bulleri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BULS",
+        "spec6": "PUFBUL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

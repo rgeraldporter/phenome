@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Golden-Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pluvialis dominica/fulva",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "LEGP",
+        "spec6": "PLUDOF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

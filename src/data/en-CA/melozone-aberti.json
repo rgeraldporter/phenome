@@ -1,0 +1,19 @@
+{
+    "commonName": "Abert's Towhee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melozone aberti",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ABTO",
+        "spec6": "MELABE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Ring-tailed Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas caribaea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTAP",
+        "spec6": "PATCAR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

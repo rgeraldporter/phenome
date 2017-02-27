@@ -1,0 +1,19 @@
+{
+    "commonName": "Pheasant Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dromococcyx phasianellus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PHCU",
+        "spec6": "DROPHA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

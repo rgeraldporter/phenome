@@ -1,0 +1,19 @@
+{
+    "commonName": "Pacific-slope Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax difficilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PSFL",
+        "spec6": "EMPDIF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

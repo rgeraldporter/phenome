@@ -1,0 +1,19 @@
+{
+    "commonName": "Clark's Grebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aechmophorus clarkii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CLGR",
+        "spec6": "AECCLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

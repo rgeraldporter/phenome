@@ -1,0 +1,19 @@
+{
+    "commonName": "Fiery-throated Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Panterpe insignis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FTHU",
+        "spec6": "PANINS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

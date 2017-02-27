@@ -1,0 +1,19 @@
+{
+    "commonName": "Sage Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Artemisiospiza nevadensis/bell",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "SAGS",
+        "spec6": "ARTNEB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

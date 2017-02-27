@@ -1,0 +1,19 @@
+{
+    "commonName": "Double-striped Thick-knee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Burhinus bistriatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DSTK",
+        "spec6": "BURBIS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

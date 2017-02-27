@@ -1,0 +1,19 @@
+{
+    "commonName": "Jet Antbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cercomacra nigricans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JEAN",
+        "spec6": "CERNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

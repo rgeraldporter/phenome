@@ -1,0 +1,19 @@
+{
+    "commonName": "Gadwall",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas strepera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GADW",
+        "spec6": "ANASTR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

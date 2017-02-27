@@ -1,0 +1,19 @@
+{
+    "commonName": "Carolina X Black-c. Chickadee Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Poecile caroli. x atrica.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "CBCC",
+        "spec6": "POECAA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

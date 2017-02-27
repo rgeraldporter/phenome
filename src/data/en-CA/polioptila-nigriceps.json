@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-capped Gnatcatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Polioptila nigriceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCGN",
+        "spec6": "POLNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

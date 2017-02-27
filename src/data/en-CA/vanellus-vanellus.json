@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Lapwing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vanellus vanellus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOLA",
+        "spec6": "VANVAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

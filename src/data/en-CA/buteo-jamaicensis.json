@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-tailed Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo jamaicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTHA",
+        "spec6": "BUTJAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

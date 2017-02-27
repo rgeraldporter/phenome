@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Selasphorus rufus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUHU",
+        "spec6": "SELRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

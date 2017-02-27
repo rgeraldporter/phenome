@@ -1,0 +1,19 @@
+{
+    "commonName": "American Robin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus migratorius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMRO",
+        "spec6": "TURMIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

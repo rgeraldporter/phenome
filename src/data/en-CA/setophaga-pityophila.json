@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive-capped Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga pityophila",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCAW",
+        "spec6": "SETPIP",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

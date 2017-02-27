@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple Martin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Progne subis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PUMA",
+        "spec6": "PROSUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

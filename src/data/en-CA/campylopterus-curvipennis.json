@@ -1,0 +1,19 @@
+{
+    "commonName": "Wedge-tailed Sabrewing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylopterus curvipennis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTSA",
+        "spec6": "CAMCUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

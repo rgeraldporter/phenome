@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tipped Sicklebill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eutoxeres aquila",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTSI",
+        "spec6": "EUTAQU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

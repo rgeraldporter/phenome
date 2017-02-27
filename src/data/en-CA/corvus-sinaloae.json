@@ -1,0 +1,19 @@
+{
+    "commonName": "Sinaloa Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus sinaloae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SICR",
+        "spec6": "CORSIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

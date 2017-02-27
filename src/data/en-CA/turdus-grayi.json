@@ -1,0 +1,19 @@
+{
+    "commonName": "Clay-colored Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus grayi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCTH",
+        "spec6": "TURGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

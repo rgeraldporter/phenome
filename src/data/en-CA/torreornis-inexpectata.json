@@ -1,0 +1,19 @@
+{
+    "commonName": "Zapata Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Torreornis inexpectata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ZASP",
+        "spec6": "TORINE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

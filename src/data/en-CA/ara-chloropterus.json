@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-and-green Macaw",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ara chloropterus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RAGM",
+        "spec6": "ARACHL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

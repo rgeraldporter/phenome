@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Chaffinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fringilla coelebs",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCHA",
+        "spec6": "FRICOE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gartered Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon caligatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GATR",
+        "spec6": "TROCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

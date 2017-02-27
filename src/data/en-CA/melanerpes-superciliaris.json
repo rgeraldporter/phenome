@@ -1,0 +1,19 @@
+{
+    "commonName": "West Indian Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes superciliaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WIWO",
+        "spec6": "MELSUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

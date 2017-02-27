@@ -1,0 +1,19 @@
+{
+    "commonName": "Torrent Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Serpophaga cinerea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TOTY",
+        "spec6": "SERCIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

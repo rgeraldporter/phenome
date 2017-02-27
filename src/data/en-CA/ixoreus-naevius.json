@@ -1,0 +1,19 @@
+{
+    "commonName": "Varied Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ixoreus naevius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VATH",
+        "spec6": "IXONAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

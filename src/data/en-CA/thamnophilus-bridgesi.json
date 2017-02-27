@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-hooded Antshrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thamnophilus bridgesi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHOA",
+        "spec6": "THABRI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

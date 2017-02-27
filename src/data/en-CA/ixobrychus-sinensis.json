@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow Bittern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ixobrychus sinensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YEBI",
+        "spec6": "IXOSIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

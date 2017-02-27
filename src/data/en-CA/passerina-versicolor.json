@@ -1,0 +1,19 @@
+{
+    "commonName": "Varied Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerina versicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VABU",
+        "spec6": "PASVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

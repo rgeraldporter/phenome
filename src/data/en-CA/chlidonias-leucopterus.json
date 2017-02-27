@@ -1,0 +1,19 @@
+{
+    "commonName": "White-winged Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlidonias leucopterus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WWTE",
+        "spec6": "CHLLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

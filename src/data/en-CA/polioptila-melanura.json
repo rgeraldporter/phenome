@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-tailed Gnatcatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Polioptila melanura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTGN",
+        "spec6": "POLMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

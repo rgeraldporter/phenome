@@ -1,0 +1,19 @@
+{
+    "commonName": "Masked Booby",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sula dactylatra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MABO",
+        "spec6": "SULDAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

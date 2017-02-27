@@ -1,0 +1,19 @@
+{
+    "commonName": "Painted Redstart",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myioborus pictus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PARE",
+        "spec6": "MYIPIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Red Knot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris canutus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REKN",
+        "spec6": "CALCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

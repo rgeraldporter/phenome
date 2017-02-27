@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-throated Loon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gavia stellata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTLO",
+        "spec6": "GAVSTE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

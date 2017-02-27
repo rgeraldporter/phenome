@@ -1,0 +1,19 @@
+{
+    "commonName": "Arctic Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscopus borealis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ARWA",
+        "spec6": "PHYBOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

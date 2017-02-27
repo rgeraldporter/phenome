@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-crested Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus tyrannulus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCFL",
+        "spec6": "MYITYR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

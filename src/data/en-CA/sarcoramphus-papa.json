@@ -1,0 +1,19 @@
+{
+    "commonName": "King Vulture",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sarcoramphus papa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KIVU",
+        "spec6": "SARPAP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

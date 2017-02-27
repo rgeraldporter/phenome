@@ -1,0 +1,19 @@
+{
+    "commonName": "Mealy Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona farinosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MEAP",
+        "spec6": "AMAFAR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

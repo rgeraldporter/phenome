@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-tailed Tyrant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colonia colonus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LTTY",
+        "spec6": "COLCOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-naped Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhynchus rufinucha",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RNAW",
+        "spec6": "CAMRUN",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

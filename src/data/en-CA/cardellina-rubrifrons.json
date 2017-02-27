@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-faced Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cardellina rubrifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RFWA",
+        "spec6": "CARRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-crowned Palm-Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaenicophilus poliocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCPT",
+        "spec6": "PHAPOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

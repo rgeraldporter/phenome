@@ -1,0 +1,19 @@
+{
+    "commonName": "Sedge Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Acrocephalus schoenobaenus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SEWA",
+        "spec6": "ACRSCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

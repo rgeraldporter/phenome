@@ -1,0 +1,19 @@
+{
+    "commonName": "Grayish Saltator",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Saltator coerulescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAS",
+        "spec6": "SALCOE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

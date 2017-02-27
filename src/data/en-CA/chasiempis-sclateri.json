@@ -1,0 +1,19 @@
+{
+    "commonName": "Kauai Elepaio",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chasiempis sclateri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KAEL",
+        "spec6": "CHASCL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

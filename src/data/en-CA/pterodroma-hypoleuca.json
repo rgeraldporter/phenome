@@ -1,0 +1,19 @@
+{
+    "commonName": "Bonin Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma hypoleuca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BOPE",
+        "spec6": "PTEHYP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

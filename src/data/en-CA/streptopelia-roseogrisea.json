@@ -1,0 +1,19 @@
+{
+    "commonName": "African Collared-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Streptopelia roseogrisea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AFCD",
+        "spec6": "STRROS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

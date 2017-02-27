@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-crowned Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiodynastes chrysocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GOCF",
+        "spec6": "MYICHR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Flame-colored Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piranga bidentata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FCTA",
+        "spec6": "PIRBID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

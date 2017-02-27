@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus leucopteryx",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAOR",
+        "spec6": "ICTLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

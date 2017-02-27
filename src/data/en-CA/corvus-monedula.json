@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Jackdaw",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus monedula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUJA",
+        "spec6": "CORMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

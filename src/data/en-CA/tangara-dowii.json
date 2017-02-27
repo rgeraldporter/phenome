@@ -1,0 +1,19 @@
+{
+    "commonName": "Spangle-cheeked Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara dowii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCHT",
+        "spec6": "TANDOW",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psittacara holochlora",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GREP",
+        "spec6": "PSIHOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

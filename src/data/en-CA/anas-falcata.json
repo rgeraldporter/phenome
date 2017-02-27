@@ -1,0 +1,19 @@
+{
+    "commonName": "Falcated Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas falcata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FADU",
+        "spec6": "ANAFAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Red Siskin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus cucullatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RESI",
+        "spec6": "SPICUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

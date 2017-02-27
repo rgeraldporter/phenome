@@ -1,0 +1,19 @@
+{
+    "commonName": "Peregrine Falcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco peregrinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PEFA",
+        "spec6": "FALPER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

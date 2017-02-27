@@ -1,0 +1,19 @@
+{
+    "commonName": "Cinnamon Becard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pachyramphus cinnamomeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CIMB",
+        "spec6": "PACCIN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

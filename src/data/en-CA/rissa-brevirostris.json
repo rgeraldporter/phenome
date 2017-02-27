@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-legged Kittiwake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rissa brevirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RLKI",
+        "spec6": "RISBRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

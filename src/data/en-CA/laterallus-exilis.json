@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-breasted Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Laterallus exilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBCR",
+        "spec6": "LATEXI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

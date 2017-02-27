@@ -1,0 +1,19 @@
+{
+    "commonName": "Hudsonian Godwit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Limosa haemastica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HUGO",
+        "spec6": "LIMHAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Stripe-throated Hermit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaethornis striigularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STHR",
+        "spec6": "PHASTR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

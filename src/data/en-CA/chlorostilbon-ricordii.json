@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorostilbon ricordii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUEM",
+        "spec6": "CHLRIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

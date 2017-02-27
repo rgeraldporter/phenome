@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-olive Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colaptes rubiginosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GOWO",
+        "spec6": "COLRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

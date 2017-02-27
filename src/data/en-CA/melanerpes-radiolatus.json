@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes radiolatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAWO",
+        "spec6": "MELRAD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

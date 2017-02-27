@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Auk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pinguinus impennis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAU",
+        "spec6": "PINIMP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

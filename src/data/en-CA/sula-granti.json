@@ -1,0 +1,19 @@
+{
+    "commonName": "Nazca Booby",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sula granti",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NABO",
+        "spec6": "SULGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

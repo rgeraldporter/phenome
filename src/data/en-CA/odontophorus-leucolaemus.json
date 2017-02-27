@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-breasted Wood-Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Odontophorus leucolaemus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBWQ",
+        "spec6": "ODOLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

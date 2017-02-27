@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-throated Caracara",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ibycter americanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTCA",
+        "spec6": "IBYAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

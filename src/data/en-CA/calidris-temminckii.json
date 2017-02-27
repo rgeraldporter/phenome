@@ -1,0 +1,19 @@
+{
+    "commonName": "Temminck's Stint",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris temminckii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TEST",
+        "spec6": "CALTEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

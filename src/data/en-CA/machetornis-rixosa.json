@@ -1,0 +1,19 @@
+{
+    "commonName": "Cattle Tyrant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Machetornis rixosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CATY",
+        "spec6": "MACRIX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

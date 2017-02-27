@@ -1,0 +1,19 @@
+{
+    "commonName": "Striped Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pseudoscops clamator",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STRO",
+        "spec6": "PSECLA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

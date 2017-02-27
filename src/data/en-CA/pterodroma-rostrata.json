@@ -1,0 +1,19 @@
+{
+    "commonName": "Tahiti Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma rostrata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TAPE",
+        "spec6": "PTEROS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

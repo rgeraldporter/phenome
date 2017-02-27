@@ -1,0 +1,19 @@
+{
+    "commonName": "Dusky Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscopus fuscatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DUWA",
+        "spec6": "PHYFUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

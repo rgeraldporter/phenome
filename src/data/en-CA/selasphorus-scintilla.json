@@ -1,0 +1,19 @@
+{
+    "commonName": "Scintillant Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Selasphorus scintilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCHU",
+        "spec6": "SELSCI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

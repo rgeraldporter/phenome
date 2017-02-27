@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icteridae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNBL",
+        "spec6": "ICTGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

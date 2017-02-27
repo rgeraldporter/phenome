@@ -1,0 +1,19 @@
+{
+    "commonName": "White-eyed Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus jamaicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WETH",
+        "spec6": "TURJAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Honduran Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia luciae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOEM",
+        "spec6": "AMALUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

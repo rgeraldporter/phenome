@@ -1,0 +1,19 @@
+{
+    "commonName": "Boat-billed Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megarynchus pitangua",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BOBF",
+        "spec6": "MEGPIT",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

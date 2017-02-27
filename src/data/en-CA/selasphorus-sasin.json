@@ -1,0 +1,19 @@
+{
+    "commonName": "Allen's Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Selasphorus sasin",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ALHU",
+        "spec6": "SELSAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

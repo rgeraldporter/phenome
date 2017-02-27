@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-winged Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vermivora cyanoptera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BWWA",
+        "spec6": "VERCYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

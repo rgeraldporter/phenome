@@ -1,0 +1,19 @@
+{
+    "commonName": "Akikiki",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreomystis bairdi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AKIK",
+        "spec6": "OREBAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

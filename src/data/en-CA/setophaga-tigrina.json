@@ -1,0 +1,19 @@
+{
+    "commonName": "Cape May Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga tigrina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CMWA",
+        "spec6": "SETTIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

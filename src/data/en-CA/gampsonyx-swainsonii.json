@@ -1,0 +1,19 @@
+{
+    "commonName": "Pearl Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gampsonyx swainsonii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PEKI",
+        "spec6": "GAMSWA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

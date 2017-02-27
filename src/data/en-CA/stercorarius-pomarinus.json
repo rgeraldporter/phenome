@@ -1,0 +1,19 @@
+{
+    "commonName": "Pomarine Jaeger",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Stercorarius pomarinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "POJA",
+        "spec6": "STEPOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

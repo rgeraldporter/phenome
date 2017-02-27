@@ -1,0 +1,19 @@
+{
+    "commonName": "Providence Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma solandri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRPE",
+        "spec6": "PTESOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

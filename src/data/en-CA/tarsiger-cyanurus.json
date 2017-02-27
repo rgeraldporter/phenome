@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-flanked Bluetail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tarsiger cyanurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RFBL",
+        "spec6": "TARCYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

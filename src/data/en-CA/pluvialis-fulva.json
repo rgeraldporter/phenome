@@ -1,0 +1,19 @@
+{
+    "commonName": "Pacific Golden-Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pluvialis fulva",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAGP",
+        "spec6": "PLUFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

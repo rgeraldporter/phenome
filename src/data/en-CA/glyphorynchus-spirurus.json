@@ -1,0 +1,19 @@
+{
+    "commonName": "Wedge-billed Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glyphorynchus spirurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBWO",
+        "spec6": "GLYSPI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

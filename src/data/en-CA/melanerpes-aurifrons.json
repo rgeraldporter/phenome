@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-fronted Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes aurifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GFWO",
+        "spec6": "MELAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

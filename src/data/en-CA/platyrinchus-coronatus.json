@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-crowned Spadebill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Platyrinchus coronatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCRS",
+        "spec6": "PLACOR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

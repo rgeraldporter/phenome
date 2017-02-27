@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-bellied Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes carolinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBWO",
+        "spec6": "MELCAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

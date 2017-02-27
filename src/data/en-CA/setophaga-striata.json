@@ -1,0 +1,19 @@
+{
+    "commonName": "Blackpoll Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga striata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLPW",
+        "spec6": "SETSTR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

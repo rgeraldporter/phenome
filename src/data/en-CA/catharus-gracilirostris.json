@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-billed Nightingale-Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus gracilirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBNT",
+        "spec6": "CATGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

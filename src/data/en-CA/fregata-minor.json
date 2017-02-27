@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Frigatebird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fregata minor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GREF",
+        "spec6": "FREMIN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

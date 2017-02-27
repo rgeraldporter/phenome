@@ -1,0 +1,19 @@
+{
+    "commonName": "Plain Antvireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dysithamnus mentalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLAN",
+        "spec6": "DYSMEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

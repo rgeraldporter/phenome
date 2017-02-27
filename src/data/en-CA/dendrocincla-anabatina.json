@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-winged Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocincla anabatina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TWWO",
+        "spec6": "DENANA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

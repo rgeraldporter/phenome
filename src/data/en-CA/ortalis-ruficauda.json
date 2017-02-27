@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-vented Chachalaca",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ortalis ruficauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RVCH",
+        "spec6": "ORTRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

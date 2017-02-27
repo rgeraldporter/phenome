@@ -1,0 +1,19 @@
+{
+    "commonName": "Sandwich Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalasseus sandvicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SATE",
+        "spec6": "THASAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

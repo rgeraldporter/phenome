@@ -1,0 +1,19 @@
+{
+    "commonName": "Acorn Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes formicivorus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ACWO",
+        "spec6": "MELFOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

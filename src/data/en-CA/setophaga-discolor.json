@@ -1,0 +1,19 @@
+{
+    "commonName": "Prairie Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga discolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRAW",
+        "spec6": "SETDIS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

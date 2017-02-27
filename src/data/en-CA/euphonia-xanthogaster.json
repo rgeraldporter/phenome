@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-bellied Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia xanthogaster",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBEE",
+        "spec6": "EUPXAN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

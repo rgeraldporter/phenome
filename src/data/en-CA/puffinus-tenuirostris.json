@@ -1,0 +1,19 @@
+{
+    "commonName": "Short-tailed Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus tenuirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SRTS",
+        "spec6": "PUFTEN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

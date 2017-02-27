@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-billed Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma longirostre",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBTH",
+        "spec6": "TOXLON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Neotropic Cormorant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalacrocorax brasilianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NECO",
+        "spec6": "PHABRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

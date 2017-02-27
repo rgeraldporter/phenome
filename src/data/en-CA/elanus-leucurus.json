@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tailed Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elanus leucurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTKI",
+        "spec6": "ELALEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

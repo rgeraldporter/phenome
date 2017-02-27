@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Ground-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Columbina passerina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COGD",
+        "spec6": "COLPAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

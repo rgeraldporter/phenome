@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Mango",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthracothorax nigricollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTMA",
+        "spec6": "ANTNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

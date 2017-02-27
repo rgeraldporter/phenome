@@ -1,0 +1,19 @@
+{
+    "commonName": "Red Phalarope",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalaropus fulicarius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REPH",
+        "spec6": "PHAFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

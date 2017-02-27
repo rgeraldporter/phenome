@@ -1,0 +1,19 @@
+{
+    "commonName": "Song Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melospiza melodia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOSP",
+        "spec6": "MELMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Magnificent Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eugenes fulgens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAHU",
+        "spec6": "EUGFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

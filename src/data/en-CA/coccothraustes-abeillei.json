@@ -1,0 +1,19 @@
+{
+    "commonName": "Hooded Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccothraustes abeillei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOOG",
+        "spec6": "COCABE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

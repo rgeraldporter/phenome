@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-chinned Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spizella atrogularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCSP",
+        "spec6": "SPIATG",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

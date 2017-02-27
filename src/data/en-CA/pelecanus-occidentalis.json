@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown Pelican",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pelecanus occidentalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRPE",
+        "spec6": "PELOCC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

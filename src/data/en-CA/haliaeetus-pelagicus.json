@@ -1,0 +1,19 @@
+{
+    "commonName": "Steller's Sea-Eagle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haliaeetus pelagicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STSE",
+        "spec6": "HALPEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

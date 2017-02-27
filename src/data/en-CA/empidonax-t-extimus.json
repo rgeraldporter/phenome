@@ -1,0 +1,19 @@
+{
+    "commonName": "Southwestern Willow Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax t. extimus",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "SWFL",
+        "spec6": "EMPTEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

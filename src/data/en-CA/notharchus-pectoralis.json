@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-breasted Puffbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Notharchus pectoralis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBPU",
+        "spec6": "NOTPEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

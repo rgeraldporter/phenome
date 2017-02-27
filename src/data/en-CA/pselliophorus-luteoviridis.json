@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-green Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pselliophorus luteoviridis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YGFI",
+        "spec6": "PSELUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

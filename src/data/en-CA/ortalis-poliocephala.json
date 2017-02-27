@@ -1,0 +1,19 @@
+{
+    "commonName": "West Mexican Chachalaca",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ortalis poliocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WMCH",
+        "spec6": "ORTPOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Philadelphia Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo philadelphicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PHVI",
+        "spec6": "VIRPHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

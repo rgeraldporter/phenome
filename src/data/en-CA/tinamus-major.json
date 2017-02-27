@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Tinamou",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tinamus major",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRTI",
+        "spec6": "TINMAJ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

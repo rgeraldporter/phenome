@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple-throated Carib",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eulampis jugularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PTCA",
+        "spec6": "EULJUG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

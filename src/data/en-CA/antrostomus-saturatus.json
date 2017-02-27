@@ -1,0 +1,19 @@
+{
+    "commonName": "Dusky Nightjar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Antrostomus saturatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DUNI",
+        "spec6": "ANTSAT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Chiriqui Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zentrygon chiriquensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHQD",
+        "spec6": "ZENCHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

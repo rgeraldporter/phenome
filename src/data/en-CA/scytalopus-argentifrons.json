@@ -1,0 +1,19 @@
+{
+    "commonName": "Silvery-fronted Tapaculo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Scytalopus argentifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SFTA",
+        "spec6": "SCYARG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

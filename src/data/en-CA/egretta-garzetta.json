@@ -1,0 +1,19 @@
+{
+    "commonName": "Little Egret",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Egretta garzetta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LIEG",
+        "spec6": "EGRGAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

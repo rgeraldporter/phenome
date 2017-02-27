@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-breasted Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiobius villosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TBFL",
+        "spec6": "MYIVIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

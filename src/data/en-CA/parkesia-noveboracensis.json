@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Waterthrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Parkesia noveboracensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOWA",
+        "spec6": "PARNOV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

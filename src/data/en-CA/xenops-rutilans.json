@@ -1,0 +1,19 @@
+{
+    "commonName": "Streaked Xenops",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenops rutilans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STXE",
+        "spec6": "XENRUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

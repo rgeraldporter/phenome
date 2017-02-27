@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-crowned Motmot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Momotus momota",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCMO",
+        "spec6": "MOMMOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

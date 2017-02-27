@@ -1,0 +1,19 @@
+{
+    "commonName": "Caribbean Coot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fulica caribaea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CARC",
+        "spec6": "FULCAR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

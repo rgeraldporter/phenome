@@ -1,0 +1,19 @@
+{
+    "commonName": "Barred Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Strix varia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BADO",
+        "spec6": "STRVAR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

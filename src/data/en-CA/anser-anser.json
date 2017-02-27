@@ -1,0 +1,19 @@
+{
+    "commonName": "Graylag Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anser anser",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRGO",
+        "spec6": "ANSANS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

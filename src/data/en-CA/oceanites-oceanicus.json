@@ -1,0 +1,19 @@
+{
+    "commonName": "Wilson's Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanites oceanicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WISP",
+        "spec6": "OCEOCE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

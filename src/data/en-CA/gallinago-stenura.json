@@ -1,0 +1,19 @@
+{
+    "commonName": "Pin-tailed Snipe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gallinago stenura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PTSN",
+        "spec6": "GALSTE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

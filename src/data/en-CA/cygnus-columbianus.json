@@ -1,0 +1,19 @@
+{
+    "commonName": "Tundra Swan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cygnus columbianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TUSW",
+        "spec6": "CYGCOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

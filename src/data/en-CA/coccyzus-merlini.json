@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Lizard-Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus merlini",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRLC",
+        "spec6": "COCMER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

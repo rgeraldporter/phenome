@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Antillean Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elaenia fallax",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GAEL",
+        "spec6": "ELAFAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

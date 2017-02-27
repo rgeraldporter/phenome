@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaiian Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Porzana sandwichensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HARA",
+        "spec6": "PORSAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Knot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris tenuirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRKN",
+        "spec6": "CALTEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

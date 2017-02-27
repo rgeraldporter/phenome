@@ -1,0 +1,19 @@
+{
+    "commonName": "Ash-throated Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus cinerascens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ATFL",
+        "spec6": "MYICIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

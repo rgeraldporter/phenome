@@ -1,0 +1,19 @@
+{
+    "commonName": "Roseate Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sterna dougallii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROST",
+        "spec6": "STEDOU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

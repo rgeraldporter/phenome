@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-billed Curlew",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Numenius americanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBCU",
+        "spec6": "NUMAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

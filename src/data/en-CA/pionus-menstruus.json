@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-headed Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pionus menstruus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHEP",
+        "spec6": "PIOMEN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

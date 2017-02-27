@@ -1,0 +1,19 @@
+{
+    "commonName": "Pale-billed Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campephilus guatemalensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBIW",
+        "spec6": "CAMGUA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

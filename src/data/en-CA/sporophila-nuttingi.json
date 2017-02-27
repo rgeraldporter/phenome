@@ -1,0 +1,19 @@
+{
+    "commonName": "Nicaraguan Seed-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sporophila nuttingi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NISF",
+        "spec6": "SPONUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

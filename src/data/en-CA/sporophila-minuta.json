@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy-breasted Seedeater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sporophila minuta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBSE",
+        "spec6": "SPOMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

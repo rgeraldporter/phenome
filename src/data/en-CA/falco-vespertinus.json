@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-footed Falcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco vespertinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RFFA",
+        "spec6": "FALVES",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

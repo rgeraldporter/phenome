@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Kingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus verticalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WEKI",
+        "spec6": "TYRVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

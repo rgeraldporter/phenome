@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-collared Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Streptoprocne rutila",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCSW",
+        "spec6": "STRRUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

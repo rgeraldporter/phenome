@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psittacara euops",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CPAK",
+        "spec6": "PSIEUO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

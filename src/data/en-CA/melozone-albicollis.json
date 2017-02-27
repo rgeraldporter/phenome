@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Towhee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melozone albicollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTTO",
+        "spec6": "MELALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

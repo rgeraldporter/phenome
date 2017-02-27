@@ -1,0 +1,19 @@
+{
+    "commonName": "Trumpeter Swan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cygnus buccinator",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRUS",
+        "spec6": "CYGBUC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Marbled Godwit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Limosa fedoa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAGO",
+        "spec6": "LIMFED",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

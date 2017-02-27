@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Towhee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pipilo erythrophthalmus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EATO",
+        "spec6": "PIPERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

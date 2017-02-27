@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-fronted Parrotlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Touit dilectissimus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BFPA",
+        "spec6": "TOUDIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

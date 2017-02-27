@@ -1,0 +1,19 @@
+{
+    "commonName": "Baikal Teal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas formosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BATE",
+        "spec6": "ANAFOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

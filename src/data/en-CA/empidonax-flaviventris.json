@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-bellied Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax flaviventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBFL",
+        "spec6": "EMPFLT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

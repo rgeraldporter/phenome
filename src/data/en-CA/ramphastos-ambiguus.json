@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-mandibled Toucan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ramphastos ambiguus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BMTO",
+        "spec6": "RAMAMB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

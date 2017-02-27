@@ -1,0 +1,19 @@
+{
+    "commonName": "Crescent-chested Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreothlypis superciliosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCWA",
+        "spec6": "ORESUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

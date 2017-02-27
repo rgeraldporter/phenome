@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Teal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas (sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNTE",
+        "spec6": "ANASPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

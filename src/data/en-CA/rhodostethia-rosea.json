@@ -1,0 +1,19 @@
+{
+    "commonName": "Ross's Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhodostethia rosea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROGU",
+        "spec6": "RHSROS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

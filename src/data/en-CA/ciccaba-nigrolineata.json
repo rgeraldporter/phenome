@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-and-white Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ciccaba nigrolineata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLWO",
+        "spec6": "CICNIG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

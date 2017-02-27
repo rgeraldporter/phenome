@@ -1,0 +1,19 @@
+{
+    "commonName": "Pale-vented Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas cayennensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PVPI",
+        "spec6": "PATCAY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

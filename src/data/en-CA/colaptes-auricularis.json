@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-crowned Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colaptes auricularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRCW",
+        "spec6": "COLAUC",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Stonechat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Saxicola torquatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STON",
+        "spec6": "SAXTOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

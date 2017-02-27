@@ -1,0 +1,19 @@
+{
+    "commonName": "Zenaida Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zenaida aurita",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ZEND",
+        "spec6": "ZENAUT",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

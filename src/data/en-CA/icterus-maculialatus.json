@@ -1,0 +1,19 @@
+{
+    "commonName": "Bar-winged Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus maculialatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BWOR",
+        "spec6": "ICTMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

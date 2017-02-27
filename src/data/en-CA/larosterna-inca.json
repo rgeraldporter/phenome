@@ -1,0 +1,19 @@
+{
+    "commonName": "Inca Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larosterna inca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "INTE",
+        "spec6": "LARINC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

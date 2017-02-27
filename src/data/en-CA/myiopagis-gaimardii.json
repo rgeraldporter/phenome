@@ -1,0 +1,19 @@
+{
+    "commonName": "Forest Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiopagis gaimardii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FOEL",
+        "spec6": "MYIGAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

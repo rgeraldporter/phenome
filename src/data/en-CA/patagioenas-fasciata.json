@@ -1,0 +1,19 @@
+{
+    "commonName": "Band-tailed Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas fasciata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTPI",
+        "spec6": "PATFAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

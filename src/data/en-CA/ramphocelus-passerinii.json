@@ -1,0 +1,19 @@
+{
+    "commonName": "Passerini's Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ramphocelus passerinii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAST",
+        "spec6": "RAMPAS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

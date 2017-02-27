@@ -1,0 +1,19 @@
+{
+    "commonName": "White-chinned Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Procellaria aequinoctialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCPE",
+        "spec6": "PROAEQ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

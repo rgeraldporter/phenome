@@ -1,0 +1,19 @@
+{
+    "commonName": "Purplish-backed Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zentrygon lawrencii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBQD",
+        "spec6": "ZENLAW",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

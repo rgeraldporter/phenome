@@ -1,0 +1,19 @@
+{
+    "commonName": "Indigo Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerina cyanea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "INBU",
+        "spec6": "PASCYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

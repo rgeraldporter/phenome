@@ -1,0 +1,19 @@
+{
+    "commonName": "Solitary Snipe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gallinago solitaria",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOSN",
+        "spec6": "GALSOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

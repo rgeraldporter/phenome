@@ -1,0 +1,19 @@
+{
+    "commonName": "Oahu Alauahio",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Paroreomyza maculata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OAAL",
+        "spec6": "PAMMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

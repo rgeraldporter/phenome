@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted x Barred Owl Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Strix occiden. x varia",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "SBOH",
+        "spec6": "STROCV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

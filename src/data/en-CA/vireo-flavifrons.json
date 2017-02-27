@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-throated Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo flavifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YTVI",
+        "spec6": "VIRFLF",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

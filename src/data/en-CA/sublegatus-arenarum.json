@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Scrub-Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sublegatus arenarum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOSF",
+        "spec6": "SUBARE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

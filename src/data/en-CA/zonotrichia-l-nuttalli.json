@@ -1,0 +1,19 @@
+{
+    "commonName": "Nuttall's White-crowned Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia l. nuttalli",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "NWCS",
+        "spec6": "ZONLNU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

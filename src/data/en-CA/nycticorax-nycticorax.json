@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-crowned Night-Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nycticorax nycticorax",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCNH",
+        "spec6": "NYCNYC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

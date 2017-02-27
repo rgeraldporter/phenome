@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Antillean Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus oberi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAFL",
+        "spec6": "MYIOBE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

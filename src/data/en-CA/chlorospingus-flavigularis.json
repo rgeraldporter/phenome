@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-throated Chlorospingus",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorospingus flavigularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YTCH",
+        "spec6": "CHLFLG",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

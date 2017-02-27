@@ -1,0 +1,19 @@
+{
+    "commonName": "Collared Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius collaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COPL",
+        "spec6": "CHACOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

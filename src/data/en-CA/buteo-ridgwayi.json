@@ -1,0 +1,19 @@
+{
+    "commonName": "Ridgway's Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo ridgwayi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RIHA",
+        "spec6": "BUTRID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Ivory-billed Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xiphorhynchus flavigaster",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "IBIW",
+        "spec6": "XIPFLA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

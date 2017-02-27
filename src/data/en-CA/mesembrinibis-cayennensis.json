@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Ibis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mesembrinibis cayennensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRIB",
+        "spec6": "MESCAY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

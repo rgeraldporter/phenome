@@ -1,0 +1,19 @@
+{
+    "commonName": "Field Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spizella pusilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FISP",
+        "spec6": "SPIPUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

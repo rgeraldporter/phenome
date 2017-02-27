@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Wood-Pewee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Contopus sordidulus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WEWP",
+        "spec6": "CONSOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

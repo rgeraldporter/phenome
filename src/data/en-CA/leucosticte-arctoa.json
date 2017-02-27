@@ -1,0 +1,19 @@
+{
+    "commonName": "Asian Rosy-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leucosticte arctoa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ASRF",
+        "spec6": "LEUARC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

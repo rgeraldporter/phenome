@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Eider",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Somateria mollissima",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COEI",
+        "spec6": "SOMMOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

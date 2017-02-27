@@ -1,0 +1,19 @@
+{
+    "commonName": "Horned Puffin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fratercula corniculata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOPU",
+        "spec6": "FRACOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

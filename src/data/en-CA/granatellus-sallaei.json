@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-throated Chat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Granatellus sallaei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GTCH",
+        "spec6": "GRASAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

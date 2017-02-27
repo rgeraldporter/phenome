@@ -1,0 +1,19 @@
+{
+    "commonName": "Bridled Titmouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Baeolophus wollweberi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRTI",
+        "spec6": "BAEWOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

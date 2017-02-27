@@ -1,0 +1,19 @@
+{
+    "commonName": "Little Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sternula albifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LITE",
+        "spec6": "STEALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

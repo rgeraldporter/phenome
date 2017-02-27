@@ -1,0 +1,19 @@
+{
+    "commonName": "White-eared Conebill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Conirostrum leucogenys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WECO",
+        "spec6": "CONLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

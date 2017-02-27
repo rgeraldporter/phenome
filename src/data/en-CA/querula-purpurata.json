@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple-throated Fruitcrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Querula purpurata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PTFR",
+        "spec6": "QUEPUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

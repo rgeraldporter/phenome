@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-breasted Spinetail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Synallaxis erythrothorax",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBRS",
+        "spec6": "SYNERY",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

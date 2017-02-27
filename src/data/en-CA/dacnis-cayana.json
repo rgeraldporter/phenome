@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue Dacnis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dacnis cayana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLDA",
+        "spec6": "DACCAY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

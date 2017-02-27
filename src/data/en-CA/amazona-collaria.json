@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-billed Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona collaria",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBPA",
+        "spec6": "AMACOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

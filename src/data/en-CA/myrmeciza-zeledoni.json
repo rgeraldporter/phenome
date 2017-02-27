@@ -1,0 +1,19 @@
+{
+    "commonName": "Zeledon's Antbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myrmeciza zeledoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "IMAN",
+        "spec6": "MYRZEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

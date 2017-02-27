@@ -1,0 +1,19 @@
+{
+    "commonName": "Swinhoe's Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma monorhis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SSTP",
+        "spec6": "OCEMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

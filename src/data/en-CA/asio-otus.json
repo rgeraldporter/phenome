@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-eared Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Asio otus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEOW",
+        "spec6": "ASIOTU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-capped Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia anneae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TCEU",
+        "spec6": "EUPANN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

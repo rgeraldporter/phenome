@@ -1,0 +1,19 @@
+{
+    "commonName": "Southern Lapwing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vanellus chilensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOLA",
+        "spec6": "VANCHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax wrightii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRFL",
+        "spec6": "EMPWRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

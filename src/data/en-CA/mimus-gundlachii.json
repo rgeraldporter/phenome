@@ -1,0 +1,19 @@
+{
+    "commonName": "Bahama Mockingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mimus gundlachii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAMO",
+        "spec6": "MIMGUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

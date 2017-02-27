@@ -1,0 +1,19 @@
+{
+    "commonName": "Spoon-billed Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris pygmea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBSA",
+        "spec6": "CALPYG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

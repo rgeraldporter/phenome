@@ -1,0 +1,19 @@
+{
+    "commonName": "Scarlet Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piranga olivacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCTA",
+        "spec6": "PIROLI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

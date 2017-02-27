@@ -1,0 +1,19 @@
+{
+    "commonName": "Tropical Gnatcatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Polioptila plumbea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRGN",
+        "spec6": "POLPLU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

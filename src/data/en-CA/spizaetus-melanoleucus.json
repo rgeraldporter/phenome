@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-and-white Hawk-Eagle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spizaetus melanoleucus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAWH",
+        "spec6": "SPIMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Turkey Vulture",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cathartes aura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TUVU",
+        "spec6": "CAEAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

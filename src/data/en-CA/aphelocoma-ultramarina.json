@@ -1,0 +1,19 @@
+{
+    "commonName": "Transvolcanic Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aphelocoma ultramarina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRJA",
+        "spec6": "APHULT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

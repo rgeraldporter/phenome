@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-browed Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscopus inornatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBWA",
+        "spec6": "PHYINO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

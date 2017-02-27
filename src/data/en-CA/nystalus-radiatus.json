@@ -1,0 +1,19 @@
+{
+    "commonName": "Barred Puffbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nystalus radiatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAPU",
+        "spec6": "NYSRAD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

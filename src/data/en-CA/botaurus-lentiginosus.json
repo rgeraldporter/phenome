@@ -1,0 +1,19 @@
+{
+    "commonName": "American Bittern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Botaurus lentiginosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMBI",
+        "spec6": "BOTLEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

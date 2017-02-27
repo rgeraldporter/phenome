@@ -1,0 +1,19 @@
+{
+    "commonName": "White-winged Becard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pachyramphus polychopterus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WWBE",
+        "spec6": "PACPOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-headed Junco",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Junco h. caniceps",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "GHJU",
+        "spec6": "JUNNCA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

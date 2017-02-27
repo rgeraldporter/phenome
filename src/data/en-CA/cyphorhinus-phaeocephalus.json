@@ -1,0 +1,19 @@
+{
+    "commonName": "Song Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyphorhinus phaeocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SONW",
+        "spec6": "CYPPHA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

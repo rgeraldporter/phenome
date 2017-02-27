@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-throated Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia hirundinacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YTEU",
+        "spec6": "EUPHIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

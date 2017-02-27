@@ -1,0 +1,19 @@
+{
+    "commonName": "Southern Beardless-Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Camptostoma obsoletum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOBT",
+        "spec6": "CAMOBS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona vittata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRPA",
+        "spec6": "AMAVIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Cinnamon Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia rutila",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CIHU",
+        "spec6": "AMARUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

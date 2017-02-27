@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona ventralis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HPAT",
+        "spec6": "AMAVEN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

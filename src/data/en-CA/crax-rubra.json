@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Curassow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Crax rubra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRCU",
+        "spec6": "CRARUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

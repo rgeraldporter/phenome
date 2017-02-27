@@ -1,0 +1,19 @@
+{
+    "commonName": "Variable Seedeater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sporophila corvina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VASE",
+        "spec6": "SPOCOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

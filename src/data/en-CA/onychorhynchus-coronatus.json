@@ -1,0 +1,19 @@
+{
+    "commonName": "Royal Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Onychorhynchus coronatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROFL",
+        "spec6": "ONYCOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

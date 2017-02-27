@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Cormorant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalacrocorax carbo",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRCO",
+        "spec6": "PHACAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

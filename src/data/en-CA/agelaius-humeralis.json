@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-shouldered Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Agelaius humeralis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TSBL",
+        "spec6": "AGEHUM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

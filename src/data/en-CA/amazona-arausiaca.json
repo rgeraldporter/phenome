@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-necked Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona arausiaca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RNPA",
+        "spec6": "AMAARA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Scale-crested Pygmy-Tyrant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lophotriccus pileatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCPT",
+        "spec6": "LOPPIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

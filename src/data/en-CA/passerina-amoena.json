@@ -1,0 +1,19 @@
+{
+    "commonName": "Lazuli Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerina amoena",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAZB",
+        "spec6": "PASAMO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

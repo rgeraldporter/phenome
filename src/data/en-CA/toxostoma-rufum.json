@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma rufum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRTH",
+        "spec6": "TOXRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

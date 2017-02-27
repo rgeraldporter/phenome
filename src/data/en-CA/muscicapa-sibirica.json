@@ -1,0 +1,19 @@
+{
+    "commonName": "Dark-sided Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Muscicapa sibirica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DSFL",
+        "spec6": "MUSSIB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

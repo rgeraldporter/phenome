@@ -1,0 +1,19 @@
+{
+    "commonName": "White-eyed Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo griseus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WEVI",
+        "spec6": "VIRGRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

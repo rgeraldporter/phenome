@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-billed Nightingale-Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus aurantiirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBNT",
+        "spec6": "CATAUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-winged Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Agelaius phoeniceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RWBL",
+        "spec6": "AGEPHO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

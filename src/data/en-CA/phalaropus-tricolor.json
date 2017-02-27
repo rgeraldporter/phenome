@@ -1,0 +1,19 @@
+{
+    "commonName": "Wilson's Phalarope",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalaropus tricolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WIPH",
+        "spec6": "PHATRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

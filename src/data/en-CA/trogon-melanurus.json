@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-tailed Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon melanurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTAT",
+        "spec6": "TROMER",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Keel-billed Motmot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Electron carinatum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KBMO",
+        "spec6": "ELECAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

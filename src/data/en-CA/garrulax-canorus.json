@@ -1,0 +1,19 @@
+{
+    "commonName": "Hwamei",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Garrulax canorus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HWAM",
+        "spec6": "GARCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

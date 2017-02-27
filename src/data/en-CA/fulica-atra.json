@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Coot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fulica atra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUCO",
+        "spec6": "FULATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

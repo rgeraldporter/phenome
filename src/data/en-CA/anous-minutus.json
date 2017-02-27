@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Noddy",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anous minutus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLNO",
+        "spec6": "ANOMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

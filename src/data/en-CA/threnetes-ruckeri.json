@@ -1,0 +1,19 @@
+{
+    "commonName": "Band-tailed Barbthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Threnetes ruckeri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTBA",
+        "spec6": "THRRUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

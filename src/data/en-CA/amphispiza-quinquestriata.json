@@ -1,0 +1,19 @@
+{
+    "commonName": "Five-striped Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amphispiza quinquestriata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FSSP",
+        "spec6": "AMPQUI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

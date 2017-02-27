@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Becard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pachyramphus niger",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JABE",
+        "spec6": "PACNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Magpie-Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calocitta formosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTMJ",
+        "spec6": "CALFOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

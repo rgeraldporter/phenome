@@ -1,0 +1,19 @@
+{
+    "commonName": "White-winged Crossbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxia leucoptera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WWCR",
+        "spec6": "LOXLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

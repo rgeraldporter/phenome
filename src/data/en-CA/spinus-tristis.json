@@ -1,0 +1,19 @@
+{
+    "commonName": "American Goldfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus tristis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMGO",
+        "spec6": "SPITRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

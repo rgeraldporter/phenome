@@ -1,0 +1,19 @@
+{
+    "commonName": "Pyrrhuloxia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cardinalis sinuatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PYRR",
+        "spec6": "CARSIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

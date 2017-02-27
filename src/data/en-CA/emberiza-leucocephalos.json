@@ -1,0 +1,19 @@
+{
+    "commonName": "Pine Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberiza leucocephalos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIBU",
+        "spec6": "EMBLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

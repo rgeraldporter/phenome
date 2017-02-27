@@ -1,0 +1,19 @@
+{
+    "commonName": "White-bellied Chachalaca",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ortalis leucogastra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBCH",
+        "spec6": "ORTLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

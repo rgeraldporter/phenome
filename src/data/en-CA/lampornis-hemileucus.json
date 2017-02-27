@@ -1,0 +1,19 @@
+{
+    "commonName": "White-bellied Mountain-gem",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lampornis hemileucus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBMG",
+        "spec6": "LAMHEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

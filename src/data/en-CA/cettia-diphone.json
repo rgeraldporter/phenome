@@ -1,0 +1,19 @@
+{
+    "commonName": "Japanese Bush-Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cettia diphone",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JABW",
+        "spec6": "CETDIP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

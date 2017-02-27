@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Troglodytidae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNWR",
+        "spec6": "TRGGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

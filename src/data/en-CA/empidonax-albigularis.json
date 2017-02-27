@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax albigularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTFL",
+        "spec6": "EMPALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

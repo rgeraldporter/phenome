@@ -1,0 +1,19 @@
+{
+    "commonName": "Laughing Falcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Herpetotheres cachinnans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAFA",
+        "spec6": "HERCAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

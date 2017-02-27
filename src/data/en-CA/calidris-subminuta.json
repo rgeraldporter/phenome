@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-toed Stint",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris subminuta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LTST",
+        "spec6": "CALSUM",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Sooty-faced Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arremon crassirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SFFI",
+        "spec6": "ARRCRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

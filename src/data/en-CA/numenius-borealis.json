@@ -1,0 +1,19 @@
+{
+    "commonName": "Eskimo Curlew",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Numenius borealis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ESCU",
+        "spec6": "NUMBOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

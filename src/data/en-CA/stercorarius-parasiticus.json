@@ -1,0 +1,19 @@
+{
+    "commonName": "Parasitic Jaeger",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Stercorarius parasiticus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAJA",
+        "spec6": "STEPAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

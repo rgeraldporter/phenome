@@ -1,0 +1,19 @@
+{
+    "commonName": "Stejneger's Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma longirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STPE",
+        "spec6": "PTELON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

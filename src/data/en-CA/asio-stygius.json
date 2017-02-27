@@ -1,0 +1,19 @@
+{
+    "commonName": "Stygian Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Asio stygius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STOW",
+        "spec6": "ASISTY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Pin-tailed Whydah",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vidua macroura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PTWH",
+        "spec6": "VIDMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

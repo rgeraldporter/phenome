@@ -1,0 +1,19 @@
+{
+    "commonName": "Riverside Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cantorchilus semibadius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RIWR",
+        "spec6": "CANSEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Pine Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga pinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIWA",
+        "spec6": "SETPIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

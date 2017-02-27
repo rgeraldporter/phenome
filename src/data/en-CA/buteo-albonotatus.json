@@ -1,0 +1,19 @@
+{
+    "commonName": "Zone-tailed Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo albonotatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ZTHA",
+        "spec6": "BUTALN",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

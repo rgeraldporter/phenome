@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-necked Grebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Podiceps grisegena",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RNGR",
+        "spec6": "PODGRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

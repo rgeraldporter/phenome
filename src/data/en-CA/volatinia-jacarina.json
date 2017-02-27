@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-black Grassquit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Volatinia jacarina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BGRA",
+        "spec6": "VOLJAC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

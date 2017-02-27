@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-billed Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona agilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBPA",
+        "spec6": "AMAAGI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

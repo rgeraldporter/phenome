@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-black Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocompsa cyanoides",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BGRO",
+        "spec6": "CYACYD",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-naped Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes chrysauchen",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GNWO",
+        "spec6": "MELCHC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

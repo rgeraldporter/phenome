@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-naped Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona auropalliata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YNPA",
+        "spec6": "AMAAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

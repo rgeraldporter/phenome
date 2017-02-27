@@ -1,0 +1,19 @@
+{
+    "commonName": "Turquoise Cotinga",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cotinga ridgwayi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TUCO",
+        "spec6": "COTRID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

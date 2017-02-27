@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerina caerulea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLGR",
+        "spec6": "PASCAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

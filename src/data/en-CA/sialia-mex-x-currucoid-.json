@@ -1,0 +1,19 @@
+{
+    "commonName": "Western X Mountain Bluebird Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sialia mex. x currucoid.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "WMBH",
+        "spec6": "SIAMEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

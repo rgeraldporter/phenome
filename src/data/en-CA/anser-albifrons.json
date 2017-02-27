@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater White-fronted Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anser albifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GWFG",
+        "spec6": "ANSALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

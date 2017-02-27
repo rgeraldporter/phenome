@@ -1,0 +1,19 @@
+{
+    "commonName": "Choco Tinamou",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Crypturellus kerriae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHTI",
+        "spec6": "CRYKER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

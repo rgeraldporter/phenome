@@ -1,0 +1,19 @@
+{
+    "commonName": "Muscovy Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cairina moschata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MUDU",
+        "spec6": "CAIMOS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

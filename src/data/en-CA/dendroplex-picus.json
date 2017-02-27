@@ -1,0 +1,19 @@
+{
+    "commonName": "Straight-billed Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendroplex picus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SGBW",
+        "spec6": "DENPIS",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Red Crossbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxia curvirostra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RECR",
+        "spec6": "LOXCUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

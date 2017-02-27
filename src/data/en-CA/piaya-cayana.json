@@ -1,0 +1,19 @@
+{
+    "commonName": "Squirrel Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piaya cayana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SQCU",
+        "spec6": "PIACAY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-backed Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hemithraupis flavicollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBTA",
+        "spec6": "HEMFLC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

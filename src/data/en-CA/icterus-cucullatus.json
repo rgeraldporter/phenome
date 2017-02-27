@@ -1,0 +1,19 @@
+{
+    "commonName": "Hooded Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus cucullatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOOR",
+        "spec6": "ICTCUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

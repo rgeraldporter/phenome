@@ -1,0 +1,19 @@
+{
+    "commonName": "Bay-breasted Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga castanea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBWA",
+        "spec6": "SETCAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

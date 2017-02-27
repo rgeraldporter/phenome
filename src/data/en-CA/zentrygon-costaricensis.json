@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-fronted Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zentrygon costaricensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BFQD",
+        "spec6": "ZENCOS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

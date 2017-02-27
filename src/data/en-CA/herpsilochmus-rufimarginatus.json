@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-winged Antwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Herpsilochmus rufimarginatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RWAN",
+        "spec6": "HERRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Emerald Toucanet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aulacorhynchus prasinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EMTO",
+        "spec6": "AULPRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

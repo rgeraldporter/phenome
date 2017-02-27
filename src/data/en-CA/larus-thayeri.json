@@ -1,0 +1,19 @@
+{
+    "commonName": "Thayer's Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus thayeri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "THGU",
+        "spec6": "LARTHA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

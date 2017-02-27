@@ -1,0 +1,19 @@
+{
+    "commonName": "Yucatan Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus yucatanensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YUFL",
+        "spec6": "MYIYUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

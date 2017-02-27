@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Antillean Nightjar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Antrostomus cubanensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GANI",
+        "spec6": "ANTCUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

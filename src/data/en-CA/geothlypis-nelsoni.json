@@ -1,0 +1,19 @@
+{
+    "commonName": "Hooded Yellowthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis nelsoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOYE",
+        "spec6": "GEONEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

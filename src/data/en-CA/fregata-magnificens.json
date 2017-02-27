@@ -1,0 +1,19 @@
+{
+    "commonName": "Magnificent Frigatebird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fregata magnificens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAFR",
+        "spec6": "FREMAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

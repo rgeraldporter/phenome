@@ -1,0 +1,19 @@
+{
+    "commonName": "Scarlet Ibis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eudocimus ruber",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCIB",
+        "spec6": "EUDRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

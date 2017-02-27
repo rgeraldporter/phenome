@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Collared-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Streptopelia decaocto",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUCD",
+        "spec6": "STRDEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Island Scrub-Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aphelocoma insularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ISSJ",
+        "spec6": "APHINS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-striped Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xiphorhynchus lachrymosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BSWO",
+        "spec6": "XIPLAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

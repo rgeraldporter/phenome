@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-headed Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo solitarius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHVI",
+        "spec6": "VIRSOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

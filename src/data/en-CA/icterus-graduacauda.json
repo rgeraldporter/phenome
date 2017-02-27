@@ -1,0 +1,19 @@
+{
+    "commonName": "Audubon's Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus graduacauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AUOR",
+        "spec6": "ICTGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Pinnated Bittern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Botaurus pinnatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIBI",
+        "spec6": "BOTPIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

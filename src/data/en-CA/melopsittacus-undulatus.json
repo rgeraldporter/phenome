@@ -1,0 +1,19 @@
+{
+    "commonName": "Budgerigar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melopsittacus undulatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BUDG",
+        "spec6": "MELUND",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

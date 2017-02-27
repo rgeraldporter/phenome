@@ -1,0 +1,19 @@
+{
+    "commonName": "Warbling Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo gilvus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WAVI",
+        "spec6": "VIRGIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

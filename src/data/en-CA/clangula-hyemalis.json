@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-tailed Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Clangula hyemalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LTDU",
+        "spec6": "CLAHYE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

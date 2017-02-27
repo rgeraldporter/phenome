@@ -1,0 +1,19 @@
+{
+    "commonName": "Sedge Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cistothorus platensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SEWR",
+        "spec6": "CISPLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

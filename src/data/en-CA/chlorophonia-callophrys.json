@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-browed Chlorophonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorophonia callophrys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBCH",
+        "spec6": "CHLCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

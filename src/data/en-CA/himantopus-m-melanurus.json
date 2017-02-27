@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaiian Stilt",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Himantopus m. melanurus",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "HAST",
+        "spec6": "HIMMME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

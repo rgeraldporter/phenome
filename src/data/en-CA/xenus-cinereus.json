@@ -1,0 +1,19 @@
+{
+    "commonName": "Terek Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenus cinereus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TESA",
+        "spec6": "XENCIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

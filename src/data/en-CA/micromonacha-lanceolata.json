@@ -1,0 +1,19 @@
+{
+    "commonName": "Lanceolated Monklet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Micromonacha lanceolata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAMO",
+        "spec6": "MICLAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

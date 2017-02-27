@@ -1,0 +1,19 @@
+{
+    "commonName": "Large-billed Seed-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sporophila crassirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBSF",
+        "spec6": "SPOCRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

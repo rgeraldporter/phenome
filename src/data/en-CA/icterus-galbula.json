@@ -1,0 +1,19 @@
+{
+    "commonName": "Baltimore Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus galbula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAOR",
+        "spec6": "ICTGAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

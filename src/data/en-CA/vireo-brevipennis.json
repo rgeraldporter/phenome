@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo brevipennis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLVI",
+        "spec6": "VIRBRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

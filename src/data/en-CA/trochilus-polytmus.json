@@ -1,0 +1,19 @@
+{
+    "commonName": "Streamertail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trochilus polytmus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STRM",
+        "spec6": "TROPOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Volcano Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Selasphorus flammula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VOHU",
+        "spec6": "SELFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

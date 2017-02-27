@@ -1,0 +1,19 @@
+{
+    "commonName": "Streaked Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calonectris leucomelas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STRS",
+        "spec6": "CALLEU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

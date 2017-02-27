@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-tailed Tattler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa brevipes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GTTA",
+        "spec6": "TRIBRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

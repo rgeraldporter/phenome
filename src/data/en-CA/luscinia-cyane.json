@@ -1,0 +1,19 @@
+{
+    "commonName": "Siberian Blue Robin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Luscinia cyane",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBRO",
+        "spec6": "LUSCYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

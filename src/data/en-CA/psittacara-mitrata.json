@@ -1,0 +1,19 @@
+{
+    "commonName": "Mitred Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psittacara mitrata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MIPA",
+        "spec6": "PSIMIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Russet-winged Schiffornis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Schiffornis stenorhyncha",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RWSC",
+        "spec6": "SCHSTE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

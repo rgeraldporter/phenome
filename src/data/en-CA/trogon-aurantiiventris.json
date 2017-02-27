@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-bellied Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon aurantiiventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBTR",
+        "spec6": "TROAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

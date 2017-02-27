@@ -1,0 +1,19 @@
+{
+    "commonName": "Double-toothed Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Harpagus bidentatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DTKI",
+        "spec6": "HARBID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

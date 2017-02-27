@@ -1,0 +1,19 @@
+{
+    "commonName": "Cassin's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Peucaea cassinii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CASP",
+        "spec6": "PEUCAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

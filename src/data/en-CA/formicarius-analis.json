@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-faced Antthrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Formicarius analis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BFAN",
+        "spec6": "FORANA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Smooth-billed Ani",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Crotophaga ani",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBAN",
+        "spec6": "CROANI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

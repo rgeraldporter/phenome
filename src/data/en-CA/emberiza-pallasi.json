@@ -1,0 +1,19 @@
+{
+    "commonName": "Pallas's Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberiza pallasi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PALB",
+        "spec6": "EMBPAL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "White-faced Whistling-Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocygna viduata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WFWD",
+        "spec6": "DENVID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

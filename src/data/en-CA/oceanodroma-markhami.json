@@ -1,0 +1,19 @@
+{
+    "commonName": "Markham's Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma markhami",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MASP",
+        "spec6": "OCEMAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Agami Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Agamia agami",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AGHE",
+        "spec6": "AGAAGA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

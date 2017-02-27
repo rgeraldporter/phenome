@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiopagis caniceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAE",
+        "spec6": "MYICAN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

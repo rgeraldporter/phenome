@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-chested Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Peucaea humeralis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCHS",
+        "spec6": "PEUHUM",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

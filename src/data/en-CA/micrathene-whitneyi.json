@@ -1,0 +1,19 @@
+{
+    "commonName": "Elf Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Micrathene whitneyi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ELOW",
+        "spec6": "MICWHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

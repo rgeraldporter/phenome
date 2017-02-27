@@ -1,0 +1,19 @@
+{
+    "commonName": "Kamao",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes myadestinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KAMA",
+        "spec6": "MYAMYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

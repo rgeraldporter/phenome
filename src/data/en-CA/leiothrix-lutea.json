@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-billed Leiothrix",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leiothrix lutea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBLE",
+        "spec6": "LEILUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

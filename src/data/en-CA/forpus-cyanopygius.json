@@ -1,0 +1,19 @@
+{
+    "commonName": "Mexican Parrotlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Forpus cyanopygius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MEXP",
+        "spec6": "FORCYA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

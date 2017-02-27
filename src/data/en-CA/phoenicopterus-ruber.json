@@ -1,0 +1,19 @@
+{
+    "commonName": "American Flamingo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phoenicopterus ruber",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMFL",
+        "spec6": "PHORUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

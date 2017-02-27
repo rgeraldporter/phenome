@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty Antwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myrmotherula schisticolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLAN",
+        "spec6": "MYRSCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

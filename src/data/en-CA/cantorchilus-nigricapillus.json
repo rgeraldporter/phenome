@@ -1,0 +1,19 @@
+{
+    "commonName": "Bay Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cantorchilus nigricapillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAYW",
+        "spec6": "CANNIG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

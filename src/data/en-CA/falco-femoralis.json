@@ -1,0 +1,19 @@
+{
+    "commonName": "Aplomado Falcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco femoralis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "APFA",
+        "spec6": "FALFEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

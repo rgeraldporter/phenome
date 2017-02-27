@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Waxbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Estrilda astrild",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COMW",
+        "spec6": "ESTAST",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

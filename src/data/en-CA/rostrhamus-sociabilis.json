@@ -1,0 +1,19 @@
+{
+    "commonName": "Snail Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rostrhamus sociabilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNKI",
+        "spec6": "ROSSOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

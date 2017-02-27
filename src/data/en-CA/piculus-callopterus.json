@@ -1,0 +1,19 @@
+{
+    "commonName": "Stripe-cheeked Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piculus callopterus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCHW",
+        "spec6": "PICCAL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

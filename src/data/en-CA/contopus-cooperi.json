@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive-sided Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Contopus cooperi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OSFL",
+        "spec6": "CONCOO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

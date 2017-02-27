@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-footed Booby",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sula nebouxii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BFBO",
+        "spec6": "SULNEB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

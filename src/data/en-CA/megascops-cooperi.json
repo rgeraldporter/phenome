@@ -1,0 +1,19 @@
+{
+    "commonName": "Pacific Screech-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megascops cooperi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PASO",
+        "spec6": "MEGCOO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

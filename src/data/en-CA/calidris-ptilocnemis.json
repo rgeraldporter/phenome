@@ -1,0 +1,19 @@
+{
+    "commonName": "Rock Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris ptilocnemis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROSA",
+        "spec6": "CALPTI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

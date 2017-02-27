@@ -1,0 +1,19 @@
+{
+    "commonName": "Pileated Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dryocopus pileatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIWO",
+        "spec6": "DRYPIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

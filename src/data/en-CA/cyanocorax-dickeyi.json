@@ -1,0 +1,19 @@
+{
+    "commonName": "Tufted Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocorax dickeyi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TUJA",
+        "spec6": "CYADIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

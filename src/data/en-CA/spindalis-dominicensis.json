@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Spindalis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spindalis dominicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HISP",
+        "spec6": "SPDDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

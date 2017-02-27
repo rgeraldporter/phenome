@@ -1,0 +1,19 @@
+{
+    "commonName": "Mourning Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zenaida macroura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MODO",
+        "spec6": "ZENMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

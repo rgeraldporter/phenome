@@ -1,0 +1,19 @@
+{
+    "commonName": "Collared Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon collaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COTR",
+        "spec6": "TROCOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

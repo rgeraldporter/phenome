@@ -1,0 +1,19 @@
+{
+    "commonName": "Hooded Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga citrina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOWA",
+        "spec6": "SETCIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

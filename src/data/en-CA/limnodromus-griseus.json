@@ -1,0 +1,19 @@
+{
+    "commonName": "Short-billed Dowitcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Limnodromus griseus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBDO",
+        "spec6": "LIMGRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Tufted Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mitrephanes phaeocercus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TUFL",
+        "spec6": "MITPHA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

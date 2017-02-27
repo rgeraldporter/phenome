@@ -1,0 +1,19 @@
+{
+    "commonName": "Mangrove Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga petechia erithachori",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "MANW",
+        "spec6": "SETPER",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

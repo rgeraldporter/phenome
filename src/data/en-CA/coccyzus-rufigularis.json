@@ -1,0 +1,19 @@
+{
+    "commonName": "Bay-breasted Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus rufigularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBRC",
+        "spec6": "COCRUF",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

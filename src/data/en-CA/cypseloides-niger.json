@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cypseloides niger",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLSW",
+        "spec6": "CYPNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

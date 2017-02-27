@@ -1,0 +1,19 @@
+{
+    "commonName": "Fulvous Whistling-Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocygna bicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FUWD",
+        "spec6": "DENBIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

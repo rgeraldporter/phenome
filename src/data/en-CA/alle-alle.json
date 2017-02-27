@@ -1,0 +1,19 @@
+{
+    "commonName": "Dovekie",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Alle alle",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DOVE",
+        "spec6": "ALLALL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

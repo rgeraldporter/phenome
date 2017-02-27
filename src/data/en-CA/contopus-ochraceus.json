@@ -1,0 +1,19 @@
+{
+    "commonName": "Ochraceous Pewee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Contopus ochraceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCPE",
+        "spec6": "CONOCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

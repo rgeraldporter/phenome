@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Lizard-Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus longirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HILC",
+        "spec6": "COCLON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

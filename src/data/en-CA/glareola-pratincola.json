@@ -1,0 +1,19 @@
+{
+    "commonName": "Collared Pratincole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glareola pratincola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COPR",
+        "spec6": "GLAPRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

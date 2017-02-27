@@ -1,0 +1,19 @@
+{
+    "commonName": "Red Avadavat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amandava amandava",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REAV",
+        "spec6": "AMAAMN",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

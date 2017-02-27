@@ -1,0 +1,19 @@
+{
+    "commonName": "White-rumped Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris fuscicollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WRSA",
+        "spec6": "CALFUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

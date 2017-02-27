@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Screech-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megascops nudipes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRSO",
+        "spec6": "MEGNUD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-bellied Sapsucker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sphyrapicus varius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBSA",
+        "spec6": "SPHVAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

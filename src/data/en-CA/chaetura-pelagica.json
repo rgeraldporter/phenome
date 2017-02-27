@@ -1,0 +1,19 @@
+{
+    "commonName": "Chimney Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetura pelagica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHSW",
+        "spec6": "CHAPEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

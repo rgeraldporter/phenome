@@ -1,0 +1,19 @@
+{
+    "commonName": "Antillean Crested Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Orthorhyncus cristatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANCH",
+        "spec6": "ORTCRI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

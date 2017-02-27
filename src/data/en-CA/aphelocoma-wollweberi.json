@@ -1,0 +1,19 @@
+{
+    "commonName": "Mexican Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aphelocoma wollweberi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MEJA",
+        "spec6": "APHWOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

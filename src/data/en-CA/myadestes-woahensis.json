@@ -1,0 +1,19 @@
+{
+    "commonName": "Amaui",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes woahensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMAU",
+        "spec6": "MYAWOA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

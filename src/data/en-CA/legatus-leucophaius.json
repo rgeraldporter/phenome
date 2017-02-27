@@ -1,0 +1,19 @@
+{
+    "commonName": "Piratic Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Legatus leucophaius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIFL",
+        "spec6": "LEGLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

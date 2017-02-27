@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous Mourner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhytipterna holerythra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RMOU",
+        "spec6": "RHYHOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

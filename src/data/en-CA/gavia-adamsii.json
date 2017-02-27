@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-billed Loon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gavia adamsii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBLO",
+        "spec6": "GAVADA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

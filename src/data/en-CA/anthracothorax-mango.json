@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Mango",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthracothorax mango",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAMA",
+        "spec6": "ANTMAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

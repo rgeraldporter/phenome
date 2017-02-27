@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-chested Martin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Progne tapera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCMA",
+        "spec6": "PROTAP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Wattled Jacana",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Jacana jacana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WAJA",
+        "spec6": "JACJAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

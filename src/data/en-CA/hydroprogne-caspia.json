@@ -1,0 +1,19 @@
+{
+    "commonName": "Caspian Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hydroprogne caspia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CATE",
+        "spec6": "HYDCAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-bellied Whistling-Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocygna autumnalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBWD",
+        "spec6": "DENAUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

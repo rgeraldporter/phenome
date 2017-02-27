@@ -1,0 +1,19 @@
+{
+    "commonName": "Lavender Waxbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Estrilda caerulescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAVW",
+        "spec6": "ESTCAE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "California Condor",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gymnogyps californianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CACO",
+        "spec6": "GYMCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

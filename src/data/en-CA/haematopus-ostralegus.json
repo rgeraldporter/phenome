@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Oystercatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haematopus ostralegus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUOY",
+        "spec6": "HAEOST",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

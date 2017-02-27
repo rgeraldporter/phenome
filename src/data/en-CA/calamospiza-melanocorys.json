@@ -1,0 +1,19 @@
+{
+    "commonName": "Lark Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calamospiza melanocorys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LARB",
+        "spec6": "CALMEC",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

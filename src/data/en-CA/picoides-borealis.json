@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-cockaded Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Picoides borealis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCWO",
+        "spec6": "PICBOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-headed Saltator",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Saltator atriceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHSA",
+        "spec6": "SALATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

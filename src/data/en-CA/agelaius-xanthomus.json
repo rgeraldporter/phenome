@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-shouldered Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Agelaius xanthomus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YSBL",
+        "spec6": "AGEXAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

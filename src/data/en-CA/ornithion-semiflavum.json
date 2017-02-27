@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-bellied Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ornithion semiflavum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBTY",
+        "spec6": "ORNSEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

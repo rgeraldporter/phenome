@@ -1,0 +1,19 @@
+{
+    "commonName": "Bare-shanked Screech-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megascops clarkii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BSSO",
+        "spec6": "MEGCLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

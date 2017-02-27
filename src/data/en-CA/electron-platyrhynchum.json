@@ -1,0 +1,19 @@
+{
+    "commonName": "Broad-billed Motmot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Electron platyrhynchum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBMO",
+        "spec6": "ELEPLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-and-white Mockingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanotis hypoleucus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAWM",
+        "spec6": "MELHYC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

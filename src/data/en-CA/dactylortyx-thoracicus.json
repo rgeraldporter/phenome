@@ -1,0 +1,19 @@
+{
+    "commonName": "Singing Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dactylortyx thoracicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SIQU",
+        "spec6": "DACTHO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

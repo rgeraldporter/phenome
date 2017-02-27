@@ -1,0 +1,19 @@
+{
+    "commonName": "Comb Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sarkidiornis melanotos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CODU",
+        "spec6": "SARMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-backed Solitaire",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes occidentalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBSO",
+        "spec6": "MYAOCC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

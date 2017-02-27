@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange Bishop",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euplectes franciscanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ORBI",
+        "spec6": "EUPFRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

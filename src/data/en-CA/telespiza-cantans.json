@@ -1,0 +1,19 @@
+{
+    "commonName": "Laysan Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Telespiza cantans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAFI",
+        "spec6": "TELCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

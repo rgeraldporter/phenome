@@ -1,0 +1,19 @@
+{
+    "commonName": "Lapland Longspur",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calcarius lapponicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LALO",
+        "spec6": "CALLAP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

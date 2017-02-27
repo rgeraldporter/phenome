@@ -1,0 +1,19 @@
+{
+    "commonName": "Lucifer Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calothorax lucifer",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LUHU",
+        "spec6": "CALLUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

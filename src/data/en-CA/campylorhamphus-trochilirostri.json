@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-billed Scythebill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhamphus trochilirostri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBSC",
+        "spec6": "CAMTRO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

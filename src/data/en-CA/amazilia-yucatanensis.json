@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-bellied Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia yucatanensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBEH",
+        "spec6": "AMAYUC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

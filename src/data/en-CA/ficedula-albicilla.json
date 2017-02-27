@@ -1,0 +1,19 @@
+{
+    "commonName": "Taiga Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ficedula albicilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TAFL",
+        "spec6": "FICALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

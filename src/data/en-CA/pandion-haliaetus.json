@@ -1,0 +1,19 @@
+{
+    "commonName": "Osprey",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pandion haliaetus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OSPR",
+        "spec6": "PANHAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

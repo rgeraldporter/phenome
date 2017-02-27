@@ -1,0 +1,19 @@
+{
+    "commonName": "Mississippi Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ictinia mississippiensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MIKI",
+        "spec6": "ICTMIS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

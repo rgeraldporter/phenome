@@ -1,0 +1,19 @@
+{
+    "commonName": "Large Canada Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta c. moffitti",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "LCGO",
+        "spec6": "BRACMO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-crested Cardinal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Paroaria coronata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCCA",
+        "spec6": "PARCOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

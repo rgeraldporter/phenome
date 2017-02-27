@@ -1,0 +1,19 @@
+{
+    "commonName": "Wood Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylocichla mustelina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WOTH",
+        "spec6": "HYLMUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

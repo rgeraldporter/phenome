@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive-backed Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leptotrygon veraguensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBQD",
+        "spec6": "LEPVEG",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

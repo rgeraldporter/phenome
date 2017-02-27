@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty-tailed Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon massena",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STTR",
+        "spec6": "TROMAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

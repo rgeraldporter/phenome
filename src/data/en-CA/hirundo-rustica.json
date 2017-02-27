@@ -1,0 +1,19 @@
+{
+    "commonName": "Barn Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hirundo rustica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BARS",
+        "spec6": "HIRRUS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

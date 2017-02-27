@@ -1,0 +1,19 @@
+{
+    "commonName": "White Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pseudastur albicollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHHA",
+        "spec6": "PSEALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

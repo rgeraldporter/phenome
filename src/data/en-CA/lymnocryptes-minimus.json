@@ -1,0 +1,19 @@
+{
+    "commonName": "Jack Snipe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lymnocryptes minimus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JASN",
+        "spec6": "LYMMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

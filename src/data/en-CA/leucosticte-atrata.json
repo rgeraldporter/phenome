@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Rosy-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leucosticte atrata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLRF",
+        "spec6": "LEUATT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

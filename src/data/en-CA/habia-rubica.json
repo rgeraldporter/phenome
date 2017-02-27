@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-crowned Ant-Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Habia rubica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCAT",
+        "spec6": "HABRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

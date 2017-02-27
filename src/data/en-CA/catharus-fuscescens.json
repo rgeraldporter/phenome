@@ -1,0 +1,19 @@
+{
+    "commonName": "Veery",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus fuscescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VEER",
+        "spec6": "CATFUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

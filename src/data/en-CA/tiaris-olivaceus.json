@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-faced Grassquit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tiaris olivaceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YFGR",
+        "spec6": "TIAOLI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

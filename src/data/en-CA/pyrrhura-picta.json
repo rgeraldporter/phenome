@@ -1,0 +1,19 @@
+{
+    "commonName": "Painted Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pyrrhura picta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAIP",
+        "spec6": "PYRPIC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

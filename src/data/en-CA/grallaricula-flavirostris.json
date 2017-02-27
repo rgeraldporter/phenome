@@ -1,0 +1,19 @@
+{
+    "commonName": "Ochre-breasted Antpitta",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Grallaricula flavirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBAN",
+        "spec6": "GRAFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Slender Sheartail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Doricha enicura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLSH",
+        "spec6": "DORENI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

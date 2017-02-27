@@ -1,0 +1,19 @@
+{
+    "commonName": "Saffron Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sicalis flaveola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SAFI",
+        "spec6": "SICFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

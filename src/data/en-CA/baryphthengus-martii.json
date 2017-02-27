@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous Motmot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Baryphthengus martii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RMOT",
+        "spec6": "BARMAR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

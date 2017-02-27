@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-eyed Junco",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Junco phaeonotus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YEJU",
+        "spec6": "JUNPHA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

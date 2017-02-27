@@ -1,0 +1,19 @@
+{
+    "commonName": "Bee Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mellisuga helenae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEEH",
+        "spec6": "MELHEL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

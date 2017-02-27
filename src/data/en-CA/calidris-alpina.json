@@ -1,0 +1,19 @@
+{
+    "commonName": "Dunlin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris alpina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DUNL",
+        "spec6": "CALALP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

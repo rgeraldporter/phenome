@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Honeycreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorophanes spiza",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRHO",
+        "spec6": "CHLSPI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Flame-throated Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreothlypis gutturalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FTHW",
+        "spec6": "OREGUT",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

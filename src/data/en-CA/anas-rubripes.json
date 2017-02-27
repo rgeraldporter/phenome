@@ -1,0 +1,19 @@
+{
+    "commonName": "American Black Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas rubripes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ABDU",
+        "spec6": "ANARUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Kingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus tyrannus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EAKI",
+        "spec6": "TYRTYR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

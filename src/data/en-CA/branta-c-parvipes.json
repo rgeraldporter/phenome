@@ -1,0 +1,19 @@
+{
+    "commonName": "Small Canada Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta c. parvipes",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "SCGO",
+        "spec6": "BRACPA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

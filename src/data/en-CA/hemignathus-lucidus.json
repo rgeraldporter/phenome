@@ -1,0 +1,19 @@
+{
+    "commonName": "Nukupuu",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hemignathus lucidus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NUKU",
+        "spec6": "HEMLUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

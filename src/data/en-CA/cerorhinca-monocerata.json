@@ -1,0 +1,19 @@
+{
+    "commonName": "Rhinoceros Auklet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cerorhinca monocerata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RHAU",
+        "spec6": "CERMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

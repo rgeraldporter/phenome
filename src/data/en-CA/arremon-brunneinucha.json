@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-capped Brush-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arremon brunneinucha",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCBF",
+        "spec6": "ARRBRU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

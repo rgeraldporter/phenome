@@ -1,0 +1,19 @@
+{
+    "commonName": "Minima Cackling Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta h. minima",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "MCGO",
+        "spec6": "BRAHMI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

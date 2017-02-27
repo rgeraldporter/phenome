@@ -1,0 +1,19 @@
+{
+    "commonName": "Chukar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Alectoris chukar",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHUK",
+        "spec6": "ALECHU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Ringed Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma hornbyi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RISP",
+        "spec6": "OCEHOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

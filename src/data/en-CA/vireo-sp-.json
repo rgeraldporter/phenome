@@ -1,0 +1,19 @@
+{
+    "commonName": "Solitary Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo (sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "SOVI",
+        "spec6": "VIRSPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

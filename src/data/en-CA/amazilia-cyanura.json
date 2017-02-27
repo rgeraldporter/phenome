@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-tailed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia cyanura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTLH",
+        "spec6": "AMACYR",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Citrine Wagtail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Motacilla citreola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CIWA",
+        "spec6": "MOTCIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

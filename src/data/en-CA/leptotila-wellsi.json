@@ -1,0 +1,19 @@
+{
+    "commonName": "Grenada Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leptotila wellsi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRDO",
+        "spec6": "LEPWEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

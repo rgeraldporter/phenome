@@ -1,0 +1,19 @@
+{
+    "commonName": "Christmas Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus nativitatis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHSH",
+        "spec6": "PUFNAT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Wigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas penelope",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUWI",
+        "spec6": "ANAPEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

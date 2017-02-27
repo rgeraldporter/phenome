@@ -1,0 +1,19 @@
+{
+    "commonName": "Crissal Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma crissale",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRTH",
+        "spec6": "TOXCRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

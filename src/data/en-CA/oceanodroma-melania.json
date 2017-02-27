@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma melania",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLSP",
+        "spec6": "OCEMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-capped Rosy-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leucosticte australis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCRF",
+        "spec6": "LEUAUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

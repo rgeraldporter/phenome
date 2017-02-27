@@ -1,0 +1,19 @@
+{
+    "commonName": "Worthen's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spizella wortheni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WOSP",
+        "spec6": "SPIWOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

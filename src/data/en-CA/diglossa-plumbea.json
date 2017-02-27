@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty Flowerpiercer",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Diglossa plumbea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLFL",
+        "spec6": "DIGPLU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

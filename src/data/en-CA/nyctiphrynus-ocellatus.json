@@ -1,0 +1,19 @@
+{
+    "commonName": "Ocellated Poorwill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nyctiphrynus ocellatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCPO",
+        "spec6": "NYCOCE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

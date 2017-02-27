@@ -1,0 +1,19 @@
+{
+    "commonName": "Yucatan Nightjar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Antrostomus badius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YUNI",
+        "spec6": "ANTBAD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

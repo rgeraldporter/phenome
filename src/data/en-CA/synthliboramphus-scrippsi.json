@@ -1,0 +1,19 @@
+{
+    "commonName": "Scripps's Murrelet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Synthliboramphus scrippsi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCMU",
+        "spec6": "SYNSCR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

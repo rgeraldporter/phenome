@@ -1,0 +1,19 @@
+{
+    "commonName": "St. Lucia Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus laudabilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLOR",
+        "spec6": "ICTLAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

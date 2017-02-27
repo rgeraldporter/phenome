@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-breasted Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Porzana flaviventer",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBCR",
+        "spec6": "PORFLN",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

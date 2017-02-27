@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psittacara chloroptera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HPAK",
+        "spec6": "PSICHL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

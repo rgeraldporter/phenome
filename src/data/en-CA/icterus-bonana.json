@@ -1,0 +1,19 @@
+{
+    "commonName": "Martinique Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus bonana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAOR",
+        "spec6": "ICTBON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

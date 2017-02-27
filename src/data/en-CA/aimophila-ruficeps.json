@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-crowned Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aimophila ruficeps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCSP",
+        "spec6": "AIMRUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaiian Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta sandvicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAGO",
+        "spec6": "BRASAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified HaemorhousFinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haemorhous (sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UHFI",
+        "spec6": "HAESPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

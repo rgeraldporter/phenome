@@ -1,0 +1,19 @@
+{
+    "commonName": "Swallow Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tersina viridis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SWTA",
+        "spec6": "TERVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

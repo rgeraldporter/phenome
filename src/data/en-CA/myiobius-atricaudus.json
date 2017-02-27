@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-tailed Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiobius atricaudus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTFL",
+        "spec6": "MYIATD",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty-breasted Tinamou",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Crypturellus boucardi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBTI",
+        "spec6": "CRYBOU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

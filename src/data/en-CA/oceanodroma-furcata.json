@@ -1,0 +1,19 @@
+{
+    "commonName": "Fork-tailed Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma furcata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FTSP",
+        "spec6": "OCEFUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

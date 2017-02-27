@@ -1,0 +1,19 @@
+{
+    "commonName": "Bare-crowned Antbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gymnocichla nudiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BACA",
+        "spec6": "GYMNUD",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

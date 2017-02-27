@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-crowned Greenlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylophilus ochraceiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TCGR",
+        "spec6": "HYLOCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

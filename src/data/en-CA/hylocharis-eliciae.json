@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-throated Goldentail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylocharis eliciae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTRG",
+        "spec6": "HYLELI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

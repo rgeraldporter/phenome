@@ -1,0 +1,19 @@
+{
+    "commonName": "Pygmy Nuthatch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sitta pygmaea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PYNU",
+        "spec6": "SITPYG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

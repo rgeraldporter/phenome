@@ -1,0 +1,19 @@
+{
+    "commonName": "Pacific Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Troglodytes pacificus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAWR",
+        "spec6": "TROPAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

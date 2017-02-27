@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-crested Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachyphonus delatrii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TCTA",
+        "spec6": "TACDEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

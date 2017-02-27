@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Antbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylophylax naevioides",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPAN",
+        "spec6": "HYLNAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

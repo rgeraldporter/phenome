@@ -1,0 +1,19 @@
+{
+    "commonName": "King Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rallus elegans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KIRA",
+        "spec6": "RALELE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

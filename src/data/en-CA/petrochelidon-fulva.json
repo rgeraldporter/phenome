@@ -1,0 +1,19 @@
+{
+    "commonName": "Cave Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Petrochelidon fulva",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CASW",
+        "spec6": "PETFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

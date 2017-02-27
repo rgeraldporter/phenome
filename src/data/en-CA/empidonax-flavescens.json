@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellowish Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax flavescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YEFL",
+        "spec6": "EMPFLC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

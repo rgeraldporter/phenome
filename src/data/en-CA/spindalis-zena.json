@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Spindalis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spindalis zena",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WESP",
+        "spec6": "SPIZEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

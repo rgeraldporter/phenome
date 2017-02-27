@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-headed Barbet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eubucco bourcierii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RHBA",
+        "spec6": "EUBBOU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

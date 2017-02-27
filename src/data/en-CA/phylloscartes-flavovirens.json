@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-green Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscartes flavovirens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YGTY",
+        "spec6": "PHYFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

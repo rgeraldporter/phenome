@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-hooded Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara larvata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHOT",
+        "spec6": "TANLAR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

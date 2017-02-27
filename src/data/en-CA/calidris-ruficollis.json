@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-necked Stint",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris ruficollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RNST",
+        "spec6": "CALRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

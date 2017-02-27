@@ -1,0 +1,19 @@
+{
+    "commonName": "Purplish-backed Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocorax beecheii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBJA",
+        "spec6": "CYABEE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

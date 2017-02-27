@@ -1,0 +1,19 @@
+{
+    "commonName": "Pink-footed Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus creatopus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PFSH",
+        "spec6": "PUFCRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Ipswich Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerculus s. princeps",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "IPSP",
+        "spec6": "PASSPR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

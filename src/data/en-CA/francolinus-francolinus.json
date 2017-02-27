@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Francolin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Francolinus francolinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLFR",
+        "spec6": "FRAFRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

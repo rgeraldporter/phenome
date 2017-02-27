@@ -1,0 +1,19 @@
+{
+    "commonName": "Strickland's Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Picoides stricklandi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STCW",
+        "spec6": "PICSTR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

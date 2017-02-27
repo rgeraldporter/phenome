@@ -1,0 +1,19 @@
+{
+    "commonName": "Mottled Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ciccaba virgata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOOW",
+        "spec6": "CICVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

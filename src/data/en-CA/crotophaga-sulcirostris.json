@@ -1,0 +1,19 @@
+{
+    "commonName": "Groove-billed Ani",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Crotophaga sulcirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBAN",
+        "spec6": "CROSUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

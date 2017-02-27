@@ -1,0 +1,19 @@
+{
+    "commonName": "Florida Grasshopper Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ammodramus s. floridanus",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "FGSP",
+        "spec6": "AMMSFL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-vented Ground-Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Neomorphus geoffroyi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RVGC",
+        "spec6": "NEOGEO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

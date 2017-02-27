@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Green Macaw",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ara ambiguus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GGMA",
+        "spec6": "ARAAMB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

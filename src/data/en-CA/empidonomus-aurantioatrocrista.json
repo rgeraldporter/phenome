@@ -1,0 +1,19 @@
+{
+    "commonName": "Crowned Slaty Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonomus aurantioatrocrista",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CSFL",
+        "spec6": "EMPAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

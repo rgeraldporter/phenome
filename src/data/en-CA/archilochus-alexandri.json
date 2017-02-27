@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-chinned Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Archilochus alexandri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCHU",
+        "spec6": "ARCALE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

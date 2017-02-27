@@ -1,0 +1,19 @@
+{
+    "commonName": "White-vented Plumeleteer",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chalybura buffonii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WVPL",
+        "spec6": "CHABUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

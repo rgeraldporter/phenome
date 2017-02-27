@@ -1,0 +1,19 @@
+{
+    "commonName": "Ashy-throated Chlorospingus",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorospingus canigularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ATCH",
+        "spec6": "CHLCAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

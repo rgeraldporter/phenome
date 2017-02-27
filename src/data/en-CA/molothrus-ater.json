@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-headed Cowbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Molothrus ater",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHCO",
+        "spec6": "MOLATE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

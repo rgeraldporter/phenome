@@ -1,0 +1,19 @@
+{
+    "commonName": "Indian Silverbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euodice malabarica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "INSI",
+        "spec6": "EUOMAB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

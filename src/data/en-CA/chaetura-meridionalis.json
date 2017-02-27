@@ -1,0 +1,19 @@
+{
+    "commonName": "Sick's Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetura meridionalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SISW",
+        "spec6": "CHAMER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

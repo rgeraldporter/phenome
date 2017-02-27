@@ -1,0 +1,19 @@
+{
+    "commonName": "Roseate Spoonbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Platalea ajaja",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROSP",
+        "spec6": "PLAAJA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

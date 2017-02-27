@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Partridge",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Perdix perdix",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAP",
+        "spec6": "PERPER",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

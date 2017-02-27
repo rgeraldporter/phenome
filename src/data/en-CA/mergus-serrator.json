@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-breasted Merganser",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mergus serrator",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBME",
+        "spec6": "MERSER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple Gallinule",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Porphyrio martinicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PUGA",
+        "spec6": "PORMAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

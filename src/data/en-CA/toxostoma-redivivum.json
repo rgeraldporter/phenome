@@ -1,0 +1,19 @@
+{
+    "commonName": "California Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma redivivum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CATH",
+        "spec6": "TOXRED",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

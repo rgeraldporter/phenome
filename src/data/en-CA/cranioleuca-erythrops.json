@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-faced Spinetail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cranioleuca erythrops",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RFSP",
+        "spec6": "CRAERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

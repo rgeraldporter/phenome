@@ -1,0 +1,19 @@
+{
+    "commonName": "White-winged Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piranga leucoptera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WWTA",
+        "spec6": "PIRLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

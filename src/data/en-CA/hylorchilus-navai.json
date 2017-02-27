@@ -1,0 +1,19 @@
+{
+    "commonName": "Nava's Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylorchilus navai",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NAWR",
+        "spec6": "HYLNAV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

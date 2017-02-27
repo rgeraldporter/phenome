@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive-backed Pipit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthus hodgsoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBPI",
+        "spec6": "ANTHOD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

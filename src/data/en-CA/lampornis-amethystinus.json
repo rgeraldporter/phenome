@@ -1,0 +1,19 @@
+{
+    "commonName": "Amethyst-throated Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lampornis amethystinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ATHU",
+        "spec6": "LAMAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Pine Siskin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus pinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PISI",
+        "spec6": "SPIPIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

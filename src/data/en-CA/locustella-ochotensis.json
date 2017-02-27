@@ -1,0 +1,19 @@
+{
+    "commonName": "Middendorff's Grasshopper-Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Locustella ochotensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MIGW",
+        "spec6": "LOCOCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

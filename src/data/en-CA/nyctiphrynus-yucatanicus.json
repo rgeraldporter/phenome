@@ -1,0 +1,19 @@
+{
+    "commonName": "Yucatan Poorwill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nyctiphrynus yucatanicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YUPO",
+        "spec6": "NYCYUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

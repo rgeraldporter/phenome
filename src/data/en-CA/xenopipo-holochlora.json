@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Manakin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenopipo holochlora",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GMAK",
+        "spec6": "XENHOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-headed Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leptotila plumbeiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHDO",
+        "spec6": "LEPPLU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Goshawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipiter gentilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOGO",
+        "spec6": "ACCGEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Cardinal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cardinalis cardinalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOCA",
+        "spec6": "CARCAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

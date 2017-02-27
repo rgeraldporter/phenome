@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-crowned Chlorophonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorophonia occipitalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCRC",
+        "spec6": "CHLOCC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

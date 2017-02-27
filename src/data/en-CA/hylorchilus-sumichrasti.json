@@ -1,0 +1,19 @@
+{
+    "commonName": "Sumichrast's Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylorchilus sumichrasti",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SUWR",
+        "spec6": "HYLSUM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

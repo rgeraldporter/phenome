@@ -1,0 +1,19 @@
+{
+    "commonName": "Tufted Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aythya fuligula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TUDU",
+        "spec6": "AYTFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

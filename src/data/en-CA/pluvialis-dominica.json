@@ -1,0 +1,19 @@
+{
+    "commonName": "American Golden-Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pluvialis dominica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMGP",
+        "spec6": "PLUDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

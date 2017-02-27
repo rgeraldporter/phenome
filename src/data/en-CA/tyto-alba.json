@@ -1,0 +1,19 @@
+{
+    "commonName": "Barn Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyto alba",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BANO",
+        "spec6": "TYTALB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

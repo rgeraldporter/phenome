@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Goldeneye",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bucephala clangula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COGO",
+        "spec6": "BUCCLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Yucatan Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhynchus yucatanicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YUWR",
+        "spec6": "CAMYUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

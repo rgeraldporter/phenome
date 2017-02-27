@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Skua",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Stercorarius skua",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRSK",
+        "spec6": "STESKU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

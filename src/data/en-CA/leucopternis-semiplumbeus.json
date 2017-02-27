@@ -1,0 +1,19 @@
+{
+    "commonName": "Semiplumbeous Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leucopternis semiplumbeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SEHA",
+        "spec6": "LEUSEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

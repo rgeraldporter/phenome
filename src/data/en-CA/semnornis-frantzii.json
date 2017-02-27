@@ -1,0 +1,19 @@
+{
+    "commonName": "Prong-billed Barbet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Semnornis frantzii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBBA",
+        "spec6": "SEMFRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Guadalupe Caracara",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Caracara lutosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GUCA",
+        "spec6": "CARLUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

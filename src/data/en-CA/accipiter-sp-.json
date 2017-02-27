@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Accipiter Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipiter (sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UAHA",
+        "spec6": "ACCSPE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

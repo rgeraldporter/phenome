@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue Mountain Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo osburni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BMVI",
+        "spec6": "VIROSB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

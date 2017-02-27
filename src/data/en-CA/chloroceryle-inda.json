@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-and-rufous Kingfisher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chloroceryle inda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GARK",
+        "spec6": "CHLIND",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

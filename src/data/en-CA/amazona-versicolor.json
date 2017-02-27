@@ -1,0 +1,19 @@
+{
+    "commonName": "St. Lucia Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona versicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLPA",
+        "spec6": "AMAVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

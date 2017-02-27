@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Lizard-Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus vetula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JALC",
+        "spec6": "COCVET",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

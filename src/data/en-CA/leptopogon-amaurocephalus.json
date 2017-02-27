@@ -1,0 +1,19 @@
+{
+    "commonName": "Sepia-capped Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leptopogon amaurocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SECF",
+        "spec6": "LEPAMA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

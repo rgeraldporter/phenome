@@ -1,0 +1,19 @@
+{
+    "commonName": "Timberline Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thryorchilus browni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TIWR",
+        "spec6": "THRBRO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

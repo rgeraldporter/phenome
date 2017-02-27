@@ -1,0 +1,19 @@
+{
+    "commonName": "Keel-billed Toucan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ramphastos sulfuratus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KBTO",
+        "spec6": "RAMSUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

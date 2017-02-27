@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-billed Starthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Heliomaster longirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBST",
+        "spec6": "HELLON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

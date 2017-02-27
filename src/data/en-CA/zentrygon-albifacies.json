@@ -1,0 +1,19 @@
+{
+    "commonName": "White-faced Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zentrygon albifacies",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WFAQ",
+        "spec6": "ZENALB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

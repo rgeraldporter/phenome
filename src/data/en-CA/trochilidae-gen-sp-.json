@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trochilidae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNHU",
+        "spec6": "TRCGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Swallow-tailed Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Panyptila cayennensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LSTS",
+        "spec6": "PANCAY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

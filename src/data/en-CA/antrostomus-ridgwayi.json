@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-collared Nightjar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Antrostomus ridgwayi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCNI",
+        "spec6": "ANTRID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

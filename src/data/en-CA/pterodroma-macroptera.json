@@ -1,0 +1,19 @@
+{
+    "commonName": "Great-winged Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma macroptera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GWPE",
+        "spec6": "PTEMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

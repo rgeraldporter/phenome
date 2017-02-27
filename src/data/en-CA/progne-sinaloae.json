@@ -1,0 +1,19 @@
+{
+    "commonName": "Sinaloa Martin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Progne sinaloae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SIMA",
+        "spec6": "PROSIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

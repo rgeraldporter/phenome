@@ -1,0 +1,19 @@
+{
+    "commonName": "Saffron-headed Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pyrilia pyrilia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHPA",
+        "spec6": "PYRPYI",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

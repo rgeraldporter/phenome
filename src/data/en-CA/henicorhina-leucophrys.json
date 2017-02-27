@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-breasted Wood-Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Henicorhina leucophrys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBWW",
+        "spec6": "HENLEP",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

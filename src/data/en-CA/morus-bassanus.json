@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Gannet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Morus bassanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOGA",
+        "spec6": "MORBAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

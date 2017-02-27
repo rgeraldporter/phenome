@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-browed Albatross",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalassarche melanophris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBAL",
+        "spec6": "THAMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Rusty Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aimophila rufescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUSP",
+        "spec6": "AIMRUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

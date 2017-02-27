@@ -1,0 +1,19 @@
+{
+    "commonName": "Fork-tailed Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Apus pacificus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FTSW",
+        "spec6": "APUPAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Atitlan Grebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Podilymbus gigas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ATGR",
+        "spec6": "PODGIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

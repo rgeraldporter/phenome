@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Sand-Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius mongolus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LSAP",
+        "spec6": "CHAMOG",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

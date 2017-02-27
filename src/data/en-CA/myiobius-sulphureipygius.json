@@ -1,0 +1,19 @@
+{
+    "commonName": "Sulphur-rumped Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiobius sulphureipygius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SRFL",
+        "spec6": "MYISUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

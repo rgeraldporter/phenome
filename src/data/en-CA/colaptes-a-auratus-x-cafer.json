@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Flicker Intergrade",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colaptes a.auratus x cafer",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "NFIN",
+        "spec6": "COLAAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

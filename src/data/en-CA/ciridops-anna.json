@@ -1,0 +1,19 @@
+{
+    "commonName": "Ula-ai-hawane",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ciridops anna",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "UAIH",
+        "spec6": "CIRANN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

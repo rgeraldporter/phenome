@@ -1,0 +1,19 @@
+{
+    "commonName": "Greenish Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiopagis viridicata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GREL",
+        "spec6": "MYIVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

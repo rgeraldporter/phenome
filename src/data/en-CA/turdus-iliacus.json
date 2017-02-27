@@ -1,0 +1,19 @@
+{
+    "commonName": "Redwing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus iliacus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REDW",
+        "spec6": "TURILI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

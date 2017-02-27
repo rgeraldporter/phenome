@@ -1,0 +1,19 @@
+{
+    "commonName": "Giant Cowbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Molothrus oryzivorus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GICO",
+        "spec6": "MOLORY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

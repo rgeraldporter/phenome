@@ -1,0 +1,19 @@
+{
+    "commonName": "Barred Antshrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thamnophilus doliatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAAN",
+        "spec6": "THADOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

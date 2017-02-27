@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-cheeked Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Basileuterus melanogenys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCWA",
+        "spec6": "BASMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

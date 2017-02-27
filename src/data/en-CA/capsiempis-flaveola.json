@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Capsiempis flaveola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YETY",
+        "spec6": "CAPFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

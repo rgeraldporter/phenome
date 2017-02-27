@@ -1,0 +1,19 @@
+{
+    "commonName": "Silver-throated Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara icterocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STTA",
+        "spec6": "TANICT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

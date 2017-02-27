@@ -1,0 +1,19 @@
+{
+    "commonName": "Spot-breasted Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pheugopedius maculipectus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBSW",
+        "spec6": "PHEMAC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "White-breasted Nuthatch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sitta carolinensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBNU",
+        "spec6": "SITCAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

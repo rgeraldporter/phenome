@@ -1,0 +1,19 @@
+{
+    "commonName": "Oahu Elepaio",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chasiempis ibidis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OAEL",
+        "spec6": "CHAIBI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

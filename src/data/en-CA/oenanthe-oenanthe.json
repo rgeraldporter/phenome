@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Wheatear",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oenanthe oenanthe",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOWH",
+        "spec6": "OENOEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

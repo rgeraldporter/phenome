@@ -1,0 +1,19 @@
+{
+    "commonName": "Grand Cayman Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus ravidus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCAT",
+        "spec6": "TURRAV",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

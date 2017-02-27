@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-winged Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vermivora chrysoptera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GWWA",
+        "spec6": "VERCHR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

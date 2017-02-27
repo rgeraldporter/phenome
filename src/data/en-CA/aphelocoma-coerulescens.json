@@ -1,0 +1,19 @@
+{
+    "commonName": "Florida Scrub-Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aphelocoma coerulescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FLSJ",
+        "spec6": "APHCOE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

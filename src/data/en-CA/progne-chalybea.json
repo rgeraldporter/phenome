@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-breasted Martin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Progne chalybea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GYBM",
+        "spec6": "PROCHA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

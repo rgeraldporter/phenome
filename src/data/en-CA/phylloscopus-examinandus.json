@@ -1,0 +1,19 @@
+{
+    "commonName": "Kamchatka Leaf Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscopus examinandus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KLWA",
+        "spec6": "PHYEXA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

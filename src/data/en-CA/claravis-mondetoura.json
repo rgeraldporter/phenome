@@ -1,0 +1,19 @@
+{
+    "commonName": "Maroon-chested Ground-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Claravis mondetoura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MCGD",
+        "spec6": "CLAMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

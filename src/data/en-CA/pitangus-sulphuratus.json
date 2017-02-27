@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Kiskadee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pitangus sulphuratus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GKIS",
+        "spec6": "PITSUL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

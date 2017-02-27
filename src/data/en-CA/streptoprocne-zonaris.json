@@ -1,0 +1,19 @@
+{
+    "commonName": "White-collared Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Streptoprocne zonaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCSW",
+        "spec6": "STRZON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

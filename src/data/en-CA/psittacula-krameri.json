@@ -1,0 +1,19 @@
+{
+    "commonName": "Rose-ringed Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psittacula krameri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RRPA",
+        "spec6": "PSIKRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

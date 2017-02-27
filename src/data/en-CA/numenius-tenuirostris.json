@@ -1,0 +1,19 @@
+{
+    "commonName": "Slender-billed Curlew",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Numenius tenuirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBCU",
+        "spec6": "NUMTEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

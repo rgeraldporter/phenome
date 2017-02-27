@@ -1,0 +1,19 @@
+{
+    "commonName": "Hook-billed Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chondrohierax uncinatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HBKI",
+        "spec6": "CHOUNC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

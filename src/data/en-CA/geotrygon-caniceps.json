@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-fronted Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geotrygon caniceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GFQD",
+        "spec6": "GEOCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

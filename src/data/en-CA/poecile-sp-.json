@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Poecile Chickadee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Poecile (sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UPCH",
+        "spec6": "POESPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

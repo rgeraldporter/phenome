@@ -1,0 +1,19 @@
+{
+    "commonName": "Caribbean Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elaenia martinica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAEL",
+        "spec6": "ELAMAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Crane Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geranospiza caerulescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRHA",
+        "spec6": "GERCAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

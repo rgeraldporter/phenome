@@ -1,0 +1,19 @@
+{
+    "commonName": "Crimson-collared Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ramphocelus sanguinolentus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCTA",
+        "spec6": "RAMSAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Nuttall's Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Picoides nuttallii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NUWO",
+        "spec6": "PIDNUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

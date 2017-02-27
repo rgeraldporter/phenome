@@ -1,0 +1,19 @@
+{
+    "commonName": "Thick-billed Seed-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sporophila funerea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TBSF",
+        "spec6": "SPOFUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

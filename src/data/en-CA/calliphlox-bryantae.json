@@ -1,0 +1,19 @@
+{
+    "commonName": "Magenta-throated Woodstar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calliphlox bryantae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MTWO",
+        "spec6": "CALBRY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

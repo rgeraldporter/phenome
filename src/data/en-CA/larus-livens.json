@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-footed Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus livens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YFGU",
+        "spec6": "LARLIV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

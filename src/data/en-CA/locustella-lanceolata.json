@@ -1,0 +1,19 @@
+{
+    "commonName": "Lanceolated Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Locustella lanceolata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LANW",
+        "spec6": "LOCLAN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

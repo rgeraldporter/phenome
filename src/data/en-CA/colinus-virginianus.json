@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Bobwhite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colinus virginianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOBO",
+        "spec6": "COLVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

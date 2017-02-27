@@ -1,0 +1,19 @@
+{
+    "commonName": "Lincoln's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melospiza lincolnii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LISP",
+        "spec6": "MELLIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

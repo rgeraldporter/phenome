@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocincla homochroa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUWO",
+        "spec6": "DENHOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

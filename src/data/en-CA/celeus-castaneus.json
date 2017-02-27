@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-colored Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Celeus castaneus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCOW",
+        "spec6": "CELCAS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

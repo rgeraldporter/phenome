@@ -1,0 +1,19 @@
+{
+    "commonName": "Snow Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Plectrophenax nivalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNBU",
+        "spec6": "PLENIV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

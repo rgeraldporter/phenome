@@ -1,0 +1,19 @@
+{
+    "commonName": "Pacific Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psittacara strenua",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PACP",
+        "spec6": "PSISTR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

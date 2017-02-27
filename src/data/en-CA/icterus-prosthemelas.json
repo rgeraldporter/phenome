@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-cowled Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus prosthemelas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCOR",
+        "spec6": "ICTPRO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

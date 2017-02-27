@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-breasted Antthrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Formicarius rufipectus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBAN",
+        "spec6": "FORRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

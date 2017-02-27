@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-billed Magpie",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pica nuttalli",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBMA",
+        "spec6": "PIANUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

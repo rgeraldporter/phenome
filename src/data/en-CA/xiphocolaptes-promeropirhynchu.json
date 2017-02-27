@@ -1,0 +1,19 @@
+{
+    "commonName": "Strong-billed Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xiphocolaptes promeropirhynchu",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNBW",
+        "spec6": "XIPPRO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

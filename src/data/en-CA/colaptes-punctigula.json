@@ -1,0 +1,19 @@
+{
+    "commonName": "Spot-breasted Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colaptes punctigula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBWP",
+        "spec6": "COLPUN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-rumped Cacique",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cacicus cela",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YRCA",
+        "spec6": "CACCEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

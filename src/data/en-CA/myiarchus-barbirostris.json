@@ -1,0 +1,19 @@
+{
+    "commonName": "Sad Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus barbirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SAFL",
+        "spec6": "MYIBAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

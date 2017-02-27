@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-billed Magpie",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pica hudsonia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBMA",
+        "spec6": "PICHUD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

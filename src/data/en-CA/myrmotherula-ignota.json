@@ -1,0 +1,19 @@
+{
+    "commonName": "Moustached Antwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myrmotherula ignota",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOAN",
+        "spec6": "MYRIGN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

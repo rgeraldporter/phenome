@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut Munia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lonchura atricapilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHMU",
+        "spec6": "LONATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

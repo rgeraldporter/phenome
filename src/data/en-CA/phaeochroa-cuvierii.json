@@ -1,0 +1,19 @@
+{
+    "commonName": "Scaly-breasted Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaeochroa cuvierii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBRH",
+        "spec6": "PHACUV",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

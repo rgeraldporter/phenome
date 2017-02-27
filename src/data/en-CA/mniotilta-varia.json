@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-and-white Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mniotilta varia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAWW",
+        "spec6": "MNIVAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

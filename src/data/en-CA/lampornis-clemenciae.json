@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-throated Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lampornis clemenciae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTHH",
+        "spec6": "LAMCLE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

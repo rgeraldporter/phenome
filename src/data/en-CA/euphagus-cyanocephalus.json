@@ -1,0 +1,19 @@
+{
+    "commonName": "Brewer's Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphagus cyanocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRBL",
+        "spec6": "EUPCYC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

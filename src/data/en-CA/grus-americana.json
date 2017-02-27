@@ -1,0 +1,19 @@
+{
+    "commonName": "Whooping Crane",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Grus americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHCR",
+        "spec6": "GRUAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

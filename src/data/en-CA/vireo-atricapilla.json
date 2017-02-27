@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-capped Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo atricapilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCVI",
+        "spec6": "VIRATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

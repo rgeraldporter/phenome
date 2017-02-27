@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Sage-Grouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Centrocercus urophasianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRSG",
+        "spec6": "CENURO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "American Oystercatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haematopus palliatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMOY",
+        "spec6": "HAEPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

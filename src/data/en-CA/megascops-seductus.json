@@ -1,0 +1,19 @@
+{
+    "commonName": "Balsas Screech-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megascops seductus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BASO",
+        "spec6": "MEGSED",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

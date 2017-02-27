@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Raven",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus corax",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CORA",
+        "spec6": "CORCOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

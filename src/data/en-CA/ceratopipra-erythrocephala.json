@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-headed Manakin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ceratopipra erythrocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHMA",
+        "spec6": "CERERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

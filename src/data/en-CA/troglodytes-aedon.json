@@ -1,0 +1,19 @@
+{
+    "commonName": "House Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Troglodytes aedon",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOWR",
+        "spec6": "TROAED",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

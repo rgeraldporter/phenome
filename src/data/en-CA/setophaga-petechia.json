@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga petechia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YEWA",
+        "spec6": "SETPET",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

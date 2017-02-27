@@ -1,0 +1,19 @@
+{
+    "commonName": "Hermit Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga occidentalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HEWA",
+        "spec6": "SETOCC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Striated Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Butorides striata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STRH",
+        "spec6": "BUTSTR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

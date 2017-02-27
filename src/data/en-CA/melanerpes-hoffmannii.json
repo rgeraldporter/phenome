@@ -1,0 +1,19 @@
+{
+    "commonName": "Hoffmann's Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes hoffmannii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOWO",
+        "spec6": "MELHOF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

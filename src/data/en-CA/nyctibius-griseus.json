@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Potoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nyctibius griseus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CPOT",
+        "spec6": "NYCGRI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

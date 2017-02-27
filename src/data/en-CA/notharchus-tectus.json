@@ -1,0 +1,19 @@
+{
+    "commonName": "Pied Puffbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Notharchus tectus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIPU",
+        "spec6": "NOTTEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

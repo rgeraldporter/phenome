@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-sided Shrike-Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireolanius melitophrys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CSSV",
+        "spec6": "VIRMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

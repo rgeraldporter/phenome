@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Yellowthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis trichas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COYE",
+        "spec6": "GEOTRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

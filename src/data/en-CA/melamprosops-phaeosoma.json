@@ -1,0 +1,19 @@
+{
+    "commonName": "Poo-uli",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melamprosops phaeosoma",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "POUL",
+        "spec6": "MELPHA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

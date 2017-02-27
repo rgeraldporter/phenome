@@ -1,0 +1,19 @@
+{
+    "commonName": "Summer Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piranga rubra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SUTA",
+        "spec6": "PIRRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

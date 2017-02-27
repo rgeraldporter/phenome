@@ -1,0 +1,19 @@
+{
+    "commonName": "Ocellated Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyrtonyx ocellatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCQU",
+        "spec6": "CYROCE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

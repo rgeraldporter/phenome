@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-browed Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscartes superciliaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBTY",
+        "spec6": "PHYSUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

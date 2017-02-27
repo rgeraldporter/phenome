@@ -1,0 +1,19 @@
+{
+    "commonName": "Garganey",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas querquedula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GARG",
+        "spec6": "ANAQUE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

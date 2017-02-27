@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-capped Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiozetetes granadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCAF",
+        "spec6": "MYIGRA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Chinese Sparrowhawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipiter soloensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHIS",
+        "spec6": "ACCSOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

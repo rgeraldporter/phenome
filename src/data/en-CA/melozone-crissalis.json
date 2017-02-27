@@ -1,0 +1,19 @@
+{
+    "commonName": "California Towhee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melozone crissalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CALT",
+        "spec6": "MELCRI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

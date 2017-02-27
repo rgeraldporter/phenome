@@ -1,0 +1,19 @@
+{
+    "commonName": "Tropical Pewee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Contopus cinereus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRPE",
+        "spec6": "CONCIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

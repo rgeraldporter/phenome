@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-breasted Falcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco deiroleucus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBFA",
+        "spec6": "FALDEI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

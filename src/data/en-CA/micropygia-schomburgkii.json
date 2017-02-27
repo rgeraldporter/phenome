@@ -1,0 +1,19 @@
+{
+    "commonName": "Ocellated Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Micropygia schomburgkii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCCR",
+        "spec6": "MICSCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

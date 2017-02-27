@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-tailed Towhee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pipilo chlorurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GTTO",
+        "spec6": "PIPCHL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

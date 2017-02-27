@@ -1,0 +1,19 @@
+{
+    "commonName": "Willow Ptarmigan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lagopus lagopus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WIPT",
+        "spec6": "LAGLAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

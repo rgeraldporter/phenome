@@ -1,0 +1,19 @@
+{
+    "commonName": "Palila",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxioides bailleui",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PALI",
+        "spec6": "LOXBAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

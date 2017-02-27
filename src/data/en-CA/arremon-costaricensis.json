@@ -1,0 +1,19 @@
+{
+    "commonName": "Costa Rican Brush-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arremon costaricensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRBF",
+        "spec6": "ARRCOS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

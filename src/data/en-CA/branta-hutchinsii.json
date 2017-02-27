@@ -1,0 +1,19 @@
+{
+    "commonName": "Cackling Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta hutchinsii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CACG",
+        "spec6": "BRAHUT",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

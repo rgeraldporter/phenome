@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Tree Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passer montanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ETSP",
+        "spec6": "PASMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

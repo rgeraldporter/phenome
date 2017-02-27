@@ -1,0 +1,19 @@
+{
+    "commonName": "Scaly-throated Foliage-gleaner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anabacerthia variegaticeps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STFG",
+        "spec6": "ANAVAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

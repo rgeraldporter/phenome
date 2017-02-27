@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Muscicapa striata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPFL",
+        "spec6": "MUSSTR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

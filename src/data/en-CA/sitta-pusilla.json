@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-headed Nuthatch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sitta pusilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHNU",
+        "spec6": "SITPUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

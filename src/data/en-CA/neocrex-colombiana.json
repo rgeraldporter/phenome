@@ -1,0 +1,19 @@
+{
+    "commonName": "Colombian Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Neocrex colombiana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COLC",
+        "spec6": "NEOCOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

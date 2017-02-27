@@ -1,0 +1,19 @@
+{
+    "commonName": "Slate-throated Redstart",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myioborus miniatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STRE",
+        "spec6": "MYIMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

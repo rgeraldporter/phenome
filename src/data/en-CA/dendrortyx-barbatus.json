@@ -1,0 +1,19 @@
+{
+    "commonName": "Bearded Wood-Partridge",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrortyx barbatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEWP",
+        "spec6": "DENBAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

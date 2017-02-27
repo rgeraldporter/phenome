@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty-backed Forest-Falcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Micrastur mirandollei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBFF",
+        "spec6": "MICMIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

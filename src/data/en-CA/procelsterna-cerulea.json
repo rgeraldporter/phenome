@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-gray Noddy",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Procelsterna cerulea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BGNO",
+        "spec6": "PROCER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

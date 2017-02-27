@@ -1,0 +1,19 @@
+{
+    "commonName": "Whooper Swan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cygnus cygnus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHOS",
+        "spec6": "CYGCYG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Passenger Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ectopistes migratorius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAPI",
+        "spec6": "ECTMIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

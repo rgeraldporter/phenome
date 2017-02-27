@@ -1,0 +1,19 @@
+{
+    "commonName": "Oilbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Steatornis caripensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OILB",
+        "spec6": "STECAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Collared Forest-Falcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Micrastur semitorquatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COFF",
+        "spec6": "MICSEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

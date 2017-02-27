@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-capped Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Notiochelidon pileata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCSW",
+        "spec6": "NOTPIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

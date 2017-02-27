@@ -1,0 +1,19 @@
+{
+    "commonName": "Mangrove Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia boucardi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MANH",
+        "spec6": "AMABOU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

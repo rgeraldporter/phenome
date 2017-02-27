@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Francolin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Francolinus pondicerianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAF",
+        "spec6": "FRAPON",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

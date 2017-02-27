@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Black Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteogallus anthracinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COBH",
+        "spec6": "BUTANT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

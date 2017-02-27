@@ -1,0 +1,19 @@
+{
+    "commonName": "Bonaparte's Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chroicocephalus philadelphia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BOGU",
+        "spec6": "CHRPHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Bewick's Swan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cygnus c. bewickii",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "BESW",
+        "spec6": "CYGCBE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

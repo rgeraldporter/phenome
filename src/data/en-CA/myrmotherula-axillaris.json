@@ -1,0 +1,19 @@
+{
+    "commonName": "White-flanked Antwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myrmotherula axillaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WFLA",
+        "spec6": "MYRAXI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

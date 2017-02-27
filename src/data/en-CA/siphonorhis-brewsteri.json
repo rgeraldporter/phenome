@@ -1,0 +1,19 @@
+{
+    "commonName": "Least Pauraque",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Siphonorhis brewsteri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEPA",
+        "spec6": "SIPBRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

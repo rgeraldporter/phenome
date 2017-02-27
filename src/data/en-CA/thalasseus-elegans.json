@@ -1,0 +1,19 @@
+{
+    "commonName": "Elegant Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalasseus elegans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ELTE",
+        "spec6": "THAELE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

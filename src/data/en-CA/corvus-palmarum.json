@@ -1,0 +1,19 @@
+{
+    "commonName": "Palm Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus palmarum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PACR",
+        "spec6": "CORPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Vulture",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coragyps atratus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLVU",
+        "spec6": "CORATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

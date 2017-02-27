@@ -1,0 +1,19 @@
+{
+    "commonName": "Sapphire-throated Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lepidopyga coeruleogularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHTH",
+        "spec6": "LEPCOE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

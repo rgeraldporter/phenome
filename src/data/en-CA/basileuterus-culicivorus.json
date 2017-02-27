@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-crowned Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Basileuterus culicivorus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCRW",
+        "spec6": "BASCUL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

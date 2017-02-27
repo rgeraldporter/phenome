@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Antillean Grackle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Quiscalus niger",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GAGR",
+        "spec6": "QUINIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

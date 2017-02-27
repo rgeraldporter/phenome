@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-striped Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arremonops conirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BSTS",
+        "spec6": "ARRCON",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

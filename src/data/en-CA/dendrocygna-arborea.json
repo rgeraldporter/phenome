@@ -1,0 +1,19 @@
+{
+    "commonName": "West Indian Whistling-Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocygna arborea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WIWD",
+        "spec6": "DENARB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

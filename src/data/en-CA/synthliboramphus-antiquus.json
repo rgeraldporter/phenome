@@ -1,0 +1,19 @@
+{
+    "commonName": "Ancient Murrelet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Synthliboramphus antiquus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANMU",
+        "spec6": "SYNANT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

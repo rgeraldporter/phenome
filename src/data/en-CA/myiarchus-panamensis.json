@@ -1,0 +1,19 @@
+{
+    "commonName": "Panama Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus panamensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAFL",
+        "spec6": "MYIPAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

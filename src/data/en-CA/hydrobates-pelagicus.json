@@ -1,0 +1,19 @@
+{
+    "commonName": "European Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hydrobates pelagicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUSP",
+        "spec6": "HYDPEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

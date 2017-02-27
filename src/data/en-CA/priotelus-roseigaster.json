@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Priotelus roseigaster",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HITR",
+        "spec6": "PRIROS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

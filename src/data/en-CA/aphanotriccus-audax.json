@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-billed Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aphanotriccus audax",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLBF",
+        "spec6": "APHAUD",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

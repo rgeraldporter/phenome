@@ -1,0 +1,19 @@
+{
+    "commonName": "Marbled Wood-Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Odontophorus gujanensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAWQ",
+        "spec6": "ODOGUJ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

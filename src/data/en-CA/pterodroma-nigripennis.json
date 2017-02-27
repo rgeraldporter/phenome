@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-winged Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma nigripennis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BWPE",
+        "spec6": "PTENIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

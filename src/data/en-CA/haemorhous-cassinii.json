@@ -1,0 +1,19 @@
+{
+    "commonName": "Cassin's Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haemorhous cassinii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAFI",
+        "spec6": "HAECAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

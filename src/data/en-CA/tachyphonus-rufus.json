@@ -1,0 +1,19 @@
+{
+    "commonName": "White-lined Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachyphonus rufus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WLTA",
+        "spec6": "TACRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

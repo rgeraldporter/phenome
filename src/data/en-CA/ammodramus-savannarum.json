@@ -1,0 +1,19 @@
+{
+    "commonName": "Grasshopper Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ammodramus savannarum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRSP",
+        "spec6": "AMMSAV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

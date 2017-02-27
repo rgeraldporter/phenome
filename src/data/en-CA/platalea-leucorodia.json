@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Spoonbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Platalea leucorodia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EURS",
+        "spec6": "PLALEU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Dusky Grouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendragapus obscurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DUGR",
+        "spec6": "DENOBS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

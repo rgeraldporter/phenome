@@ -1,0 +1,19 @@
+{
+    "commonName": "Crested Bobwhite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colinus cristatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRBO",
+        "spec6": "COLCRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

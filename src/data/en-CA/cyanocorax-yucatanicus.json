@@ -1,0 +1,19 @@
+{
+    "commonName": "Yucatan Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocorax yucatanicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YUJA",
+        "spec6": "CYAYUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amphispiza bilineata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTSP",
+        "spec6": "AMPBIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

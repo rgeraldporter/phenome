@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-billed Tropicbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaethon aethereus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBTR",
+        "spec6": "PHAAET",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

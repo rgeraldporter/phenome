@@ -1,0 +1,19 @@
+{
+    "commonName": "Wilson's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cardellina pusilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WIWA",
+        "spec6": "CARPUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

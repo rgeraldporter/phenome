@@ -1,0 +1,19 @@
+{
+    "commonName": "Short-crested Coquette",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lophornis brachylophus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCCO",
+        "spec6": "LOPBRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

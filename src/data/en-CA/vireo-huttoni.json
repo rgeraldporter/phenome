@@ -1,0 +1,19 @@
+{
+    "commonName": "Hutton's Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo huttoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HUVI",
+        "spec6": "VIRHUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

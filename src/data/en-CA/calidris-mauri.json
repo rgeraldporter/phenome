@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris mauri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WESA",
+        "spec6": "CALMAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

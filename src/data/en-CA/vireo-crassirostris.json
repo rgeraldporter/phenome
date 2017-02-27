@@ -1,0 +1,19 @@
+{
+    "commonName": "Thick-billed Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo crassirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TBVI",
+        "spec6": "VIRCRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

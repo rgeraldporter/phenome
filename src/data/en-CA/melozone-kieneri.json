@@ -1,0 +1,19 @@
+{
+    "commonName": "Rusty-crowned Ground-Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melozone kieneri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCGS",
+        "spec6": "MELKIE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

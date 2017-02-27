@@ -1,0 +1,19 @@
+{
+    "commonName": "Pacific Loon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gavia pacifica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PALO",
+        "spec6": "GAVPAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

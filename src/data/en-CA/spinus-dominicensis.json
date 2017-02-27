@@ -1,0 +1,19 @@
+{
+    "commonName": "Antillean Siskin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus dominicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANSI",
+        "spec6": "SPUDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

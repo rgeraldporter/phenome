@@ -1,0 +1,19 @@
+{
+    "commonName": "Little Bittern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ixobrychus minutus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LIBI",
+        "spec6": "IXOMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

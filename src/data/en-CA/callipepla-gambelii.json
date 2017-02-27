@@ -1,0 +1,19 @@
+{
+    "commonName": "Gambel's Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Callipepla gambelii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GAQU",
+        "spec6": "CALGAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

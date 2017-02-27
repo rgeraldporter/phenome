@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-bellied Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elaenia flavogaster",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBEL",
+        "spec6": "ELAFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-naped Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara fucosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GNTA",
+        "spec6": "TANFUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

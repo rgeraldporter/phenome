@@ -1,0 +1,19 @@
+{
+    "commonName": "Cinnamon Teal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas cyanoptera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CITE",
+        "spec6": "ANACYA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

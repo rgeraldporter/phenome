@@ -1,0 +1,19 @@
+{
+    "commonName": "Redhead",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aythya americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REDH",
+        "spec6": "AYTAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

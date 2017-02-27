@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaii Elepaio",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chasiempis sandwichensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAEL",
+        "spec6": "CHASAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

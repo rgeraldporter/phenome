@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-collared Nightjar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Antrostomus salvini",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TCNI",
+        "spec6": "ANTSAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

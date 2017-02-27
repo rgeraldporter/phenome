@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Whitethroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sylvia curruca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEWH",
+        "spec6": "SYLCUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

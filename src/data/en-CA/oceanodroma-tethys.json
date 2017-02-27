@@ -1,0 +1,19 @@
+{
+    "commonName": "Wedge-rumped Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma tethys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WRSP",
+        "spec6": "OCETET",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

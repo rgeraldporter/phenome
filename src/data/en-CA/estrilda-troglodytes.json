@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-rumped Waxbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Estrilda troglodytes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRUW",
+        "spec6": "ESTTRO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaiian Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus hawaiiensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HCRO",
+        "spec6": "CORHAW",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

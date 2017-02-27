@@ -1,0 +1,19 @@
+{
+    "commonName": "Broad-tailed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Selasphorus platycercus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTAH",
+        "spec6": "SELPLA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

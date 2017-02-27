@@ -1,0 +1,19 @@
+{
+    "commonName": "Le Conte's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ammodramus leconteii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LCSP",
+        "spec6": "AMMLEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

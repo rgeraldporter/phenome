@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Pauraque",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nyctidromus albicollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COPA",
+        "spec6": "NYCALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Mexican Woodnymph",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalurania ridgwayi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MEWO",
+        "spec6": "THARID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

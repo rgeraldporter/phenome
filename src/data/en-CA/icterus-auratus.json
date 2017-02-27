@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus auratus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ORAO",
+        "spec6": "ICTAUT",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

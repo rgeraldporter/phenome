@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-sided Towhee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pipilo maculatus/erythr.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "RSTO",
+        "spec6": "PIPMAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

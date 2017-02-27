@@ -1,0 +1,19 @@
+{
+    "commonName": "Violet Sabrewing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylopterus hemileucurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VISA",
+        "spec6": "CAMHEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Perisoreus canadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAJ",
+        "spec6": "PERCAN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

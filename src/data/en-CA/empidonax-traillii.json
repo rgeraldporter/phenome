@@ -1,0 +1,19 @@
+{
+    "commonName": "Willow Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax traillii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WIFL",
+        "spec6": "EMPTRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

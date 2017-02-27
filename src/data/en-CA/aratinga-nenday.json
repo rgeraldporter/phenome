@@ -1,0 +1,19 @@
+{
+    "commonName": "Nanday Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aratinga nenday",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NAPA",
+        "spec6": "NANNEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

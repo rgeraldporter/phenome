@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Tody-Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Todirostrum cinereum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COTF",
+        "spec6": "TODCIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

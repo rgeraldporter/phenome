@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-gray Gnatcatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Polioptila caerulea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BGGN",
+        "spec6": "POLCAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

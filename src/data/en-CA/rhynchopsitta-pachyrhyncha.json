@@ -1,0 +1,19 @@
+{
+    "commonName": "Thick-billed Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhynchopsitta pachyrhyncha",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TBPA",
+        "spec6": "RHYPAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

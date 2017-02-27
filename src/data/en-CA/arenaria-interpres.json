@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy Turnstone",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arenaria interpres",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUTU",
+        "spec6": "AREINT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

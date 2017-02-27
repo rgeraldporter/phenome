@@ -1,0 +1,19 @@
+{
+    "commonName": "Slate-throated Gnatcatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Polioptila schistaceigula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STGN",
+        "spec6": "POLSCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

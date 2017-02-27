@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Spadebill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Platyrinchus mystaceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTRS",
+        "spec6": "PLAMYS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

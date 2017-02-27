@@ -1,0 +1,19 @@
+{
+    "commonName": "California Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Callipepla californica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAQU",
+        "spec6": "CALCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

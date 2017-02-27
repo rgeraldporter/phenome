@@ -1,0 +1,19 @@
+{
+    "commonName": "Hammond's/Dusky Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax hammondii/oberho.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "HDFL",
+        "spec6": "EMPHAO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Boobook",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ninox japonica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOBB",
+        "spec6": "NINJAP",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "White-headed Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhynchus albobrunneus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHWR",
+        "spec6": "CAMALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

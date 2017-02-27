@@ -1,0 +1,19 @@
+{
+    "commonName": "Streak-backed Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus pustulatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBAO",
+        "spec6": "ICTPUS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

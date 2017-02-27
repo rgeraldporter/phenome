@@ -1,0 +1,19 @@
+{
+    "commonName": "Crimson-fronted Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psittacara finschi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CFPA",
+        "spec6": "PSIFIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

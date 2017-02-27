@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coturnicops noveboracensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YERA",
+        "spec6": "COTNOV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

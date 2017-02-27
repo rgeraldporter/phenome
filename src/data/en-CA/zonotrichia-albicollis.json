@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia albicollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTSP",
+        "spec6": "ZONALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

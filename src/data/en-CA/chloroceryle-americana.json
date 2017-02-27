@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Kingfisher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chloroceryle americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GKIN",
+        "spec6": "CHLAME",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

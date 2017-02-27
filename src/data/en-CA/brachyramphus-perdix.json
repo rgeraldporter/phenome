@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-billed Murrelet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Brachyramphus perdix",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBMU",
+        "spec6": "BRAPER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

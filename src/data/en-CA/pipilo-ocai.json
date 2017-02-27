@@ -1,0 +1,19 @@
+{
+    "commonName": "Collared Towhee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pipilo ocai",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COTO",
+        "spec6": "PIPOCA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-crowned Palm-Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaenicophilus palmarum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BPLT",
+        "spec6": "PHAPAL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

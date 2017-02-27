@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy Treerunner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Margarornis rubiginosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUTR",
+        "spec6": "MARRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

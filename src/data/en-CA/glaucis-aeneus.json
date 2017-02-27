@@ -1,0 +1,19 @@
+{
+    "commonName": "Bronzy Hermit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glaucis aeneus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRHE",
+        "spec6": "GLAAEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

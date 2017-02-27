@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Wagtail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Motacilla cinerea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAW",
+        "spec6": "MOTCIN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

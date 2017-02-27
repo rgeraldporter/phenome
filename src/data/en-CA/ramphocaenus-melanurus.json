@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-billed Gnatwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ramphocaenus melanurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBGN",
+        "spec6": "RAMMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

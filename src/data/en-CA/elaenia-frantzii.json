@@ -1,0 +1,19 @@
+{
+    "commonName": "Mountain Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elaenia frantzii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOEL",
+        "spec6": "ELAFRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

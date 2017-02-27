@@ -1,0 +1,19 @@
+{
+    "commonName": "Red Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cardellina rubra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REWA",
+        "spec6": "CARRUA",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

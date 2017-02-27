@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Laterallus ruber",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUCR",
+        "spec6": "LATRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

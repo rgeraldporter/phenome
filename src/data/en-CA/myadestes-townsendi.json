@@ -1,0 +1,19 @@
+{
+    "commonName": "Townsend's Solitaire",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes townsendi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TOSO",
+        "spec6": "MYATOW",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

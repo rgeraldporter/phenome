@@ -1,0 +1,19 @@
+{
+    "commonName": "American Three-toed Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Picoides dorsalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ATTW",
+        "spec6": "PICDOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

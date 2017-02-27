@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-headed Piprites",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piprites griseiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHPI",
+        "spec6": "PIPGRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

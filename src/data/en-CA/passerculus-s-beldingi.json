@@ -1,0 +1,19 @@
+{
+    "commonName": "Belding's Savannah Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerculus s. beldingi",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "BSSP",
+        "spec6": "PASSBE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

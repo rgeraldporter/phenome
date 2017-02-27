@@ -1,0 +1,19 @@
+{
+    "commonName": "Tamaulipas Pygmy-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glaucidium sanchezi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TAPO",
+        "spec6": "GLASAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

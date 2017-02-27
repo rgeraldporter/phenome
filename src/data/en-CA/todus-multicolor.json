@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Tody",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Todus multicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUTO",
+        "spec6": "TODMUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

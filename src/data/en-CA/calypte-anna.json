@@ -1,0 +1,19 @@
+{
+    "commonName": "Anna's Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calypte anna",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANHU",
+        "spec6": "CALANN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

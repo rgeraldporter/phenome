@@ -1,0 +1,19 @@
+{
+    "commonName": "American Black Duck X Mallard Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas rubripes x platy.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "ABDH",
+        "spec6": "ANARUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

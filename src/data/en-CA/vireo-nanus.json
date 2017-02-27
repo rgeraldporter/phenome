@@ -1,0 +1,19 @@
+{
+    "commonName": "Flat-billed Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo nanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FBVI",
+        "spec6": "VIRNAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

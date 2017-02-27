@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-hooded Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chrysomus icterocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YHOB",
+        "spec6": "CHRICT",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

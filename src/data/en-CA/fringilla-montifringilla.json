@@ -1,0 +1,19 @@
+{
+    "commonName": "Brambling",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fringilla montifringilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRAM",
+        "spec6": "FRIMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

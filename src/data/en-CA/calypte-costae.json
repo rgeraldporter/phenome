@@ -1,0 +1,19 @@
+{
+    "commonName": "Costa's Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calypte costae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COHU",
+        "spec6": "CALCOS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Pechora Pipit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthus gustavi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PEPI",
+        "spec6": "ANTGUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

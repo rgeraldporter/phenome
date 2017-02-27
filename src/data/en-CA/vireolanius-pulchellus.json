@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Shrike-Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireolanius pulchellus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRSV",
+        "spec6": "VIRPUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

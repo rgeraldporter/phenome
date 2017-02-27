@@ -1,0 +1,19 @@
+{
+    "commonName": "Streaked Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiodynastes maculatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STRF",
+        "spec6": "MYIMAC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

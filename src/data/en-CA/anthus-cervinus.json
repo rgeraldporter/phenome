@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-throated Pipit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthus cervinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTPI",
+        "spec6": "ANTCER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

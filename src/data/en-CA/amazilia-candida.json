@@ -1,0 +1,19 @@
+{
+    "commonName": "White-bellied Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia candida",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBEM",
+        "spec6": "AMACAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Pied Water-Tyrant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fluvicola pica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIWT",
+        "spec6": "FLUPIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

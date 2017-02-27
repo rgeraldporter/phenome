@@ -1,0 +1,19 @@
+{
+    "commonName": "Anianiau",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Magumma parva",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANIA",
+        "spec6": "MAGPAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

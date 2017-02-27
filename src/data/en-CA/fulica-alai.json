@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaiian Coot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fulica alai",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HACO",
+        "spec6": "FULALA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

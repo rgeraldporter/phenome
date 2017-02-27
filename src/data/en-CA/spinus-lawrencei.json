@@ -1,0 +1,19 @@
+{
+    "commonName": "Lawrence's Goldfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus lawrencei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAGO",
+        "spec6": "SPILAW",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

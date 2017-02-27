@@ -1,0 +1,19 @@
+{
+    "commonName": "Brant Intergrade",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta b. bern. x nigri.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "BRIN",
+        "spec6": "BRABBN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

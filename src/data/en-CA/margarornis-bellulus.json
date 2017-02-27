@@ -1,0 +1,19 @@
+{
+    "commonName": "Beautiful Treerunner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Margarornis bellulus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BETR",
+        "spec6": "MARBEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

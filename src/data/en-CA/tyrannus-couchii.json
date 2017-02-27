@@ -1,0 +1,19 @@
+{
+    "commonName": "Couch's Kingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus couchii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COKI",
+        "spec6": "TYRCOU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

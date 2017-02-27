@@ -1,0 +1,19 @@
+{
+    "commonName": "Slate-colored Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Saltator grossus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCOG",
+        "spec6": "SALGRO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

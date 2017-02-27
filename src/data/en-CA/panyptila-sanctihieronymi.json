@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Swallow-tailed Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Panyptila sanctihieronymi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GSTS",
+        "spec6": "PANSAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Ou",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psittirostra psittacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OU",
+        "spec6": "PSIPSI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

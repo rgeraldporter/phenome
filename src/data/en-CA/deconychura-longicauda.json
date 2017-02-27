@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-tailed Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Deconychura longicauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LTWO",
+        "spec6": "DECLON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

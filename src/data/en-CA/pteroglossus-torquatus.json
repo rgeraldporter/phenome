@@ -1,0 +1,19 @@
+{
+    "commonName": "Collared Aracari",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pteroglossus torquatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COAR",
+        "spec6": "PTETOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

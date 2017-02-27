@@ -1,0 +1,19 @@
+{
+    "commonName": "White Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gygis alba",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHTT",
+        "spec6": "GYGALB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-eared Wood-Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Odontophorus melanotis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEWQ",
+        "spec6": "ODOMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

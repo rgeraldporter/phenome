@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-bellied Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fregetta tropica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBSP",
+        "spec6": "FRETRO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

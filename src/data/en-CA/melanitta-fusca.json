@@ -1,0 +1,19 @@
+{
+    "commonName": "White-winged Scoter",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanitta fusca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WWSC",
+        "spec6": "MENFUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

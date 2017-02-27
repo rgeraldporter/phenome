@@ -1,0 +1,19 @@
+{
+    "commonName": "Eye-ringed Flatbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhynchocyclus brevirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ERFL",
+        "spec6": "RHYBRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

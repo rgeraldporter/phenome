@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Poorwill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalaenoptilus nuttallii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COPO",
+        "spec6": "PHANUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

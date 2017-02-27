@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Scaup",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aythya marila",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRSC",
+        "spec6": "AYTMAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

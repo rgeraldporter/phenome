@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-bellied Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipiter poliogaster",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBEH",
+        "spec6": "ACCPOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

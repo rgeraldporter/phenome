@@ -1,0 +1,19 @@
+{
+    "commonName": "Salvin's Albatross",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalassarche salvini",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SAAL",
+        "spec6": "THASAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

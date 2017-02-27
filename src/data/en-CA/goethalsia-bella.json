@@ -1,0 +1,19 @@
+{
+    "commonName": "Pirre Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Goethalsia bella",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIHU",
+        "spec6": "GOEBEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

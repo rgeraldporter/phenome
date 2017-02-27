@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Priotelus temnurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUTR",
+        "spec6": "PRITEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

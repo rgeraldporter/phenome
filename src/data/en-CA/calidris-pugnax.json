@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruff",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris pugnax",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUFF",
+        "spec6": "CALPUG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

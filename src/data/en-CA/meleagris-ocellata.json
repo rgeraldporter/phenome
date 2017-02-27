@@ -1,0 +1,19 @@
+{
+    "commonName": "Ocellated Turkey",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Meleagris ocellata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCTU",
+        "spec6": "MELOCE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

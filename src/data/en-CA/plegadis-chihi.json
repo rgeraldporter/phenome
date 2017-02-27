@@ -1,0 +1,19 @@
+{
+    "commonName": "White-faced Ibis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Plegadis chihi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WFIB",
+        "spec6": "PLECHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

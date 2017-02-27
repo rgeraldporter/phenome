@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-crowned Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia atricapilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCSP",
+        "spec6": "ZONATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

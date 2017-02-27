@@ -1,0 +1,19 @@
+{
+    "commonName": "Least Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax minimus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEFL",
+        "spec6": "EMPMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Boreal Chickadee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Poecile hudsonicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BOCH",
+        "spec6": "POEHUD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

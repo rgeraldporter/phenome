@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-crowned Kinglet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Regulus satrapa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCKI",
+        "spec6": "REGSAT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

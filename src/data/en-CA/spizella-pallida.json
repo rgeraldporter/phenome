@@ -1,0 +1,19 @@
+{
+    "commonName": "Clay-colored Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spizella pallida",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCSP",
+        "spec6": "SPIPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

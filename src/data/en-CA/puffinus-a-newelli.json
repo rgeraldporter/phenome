@@ -1,0 +1,19 @@
+{
+    "commonName": "Newell's Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus a. newelli",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "NESH",
+        "spec6": "PUFANE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

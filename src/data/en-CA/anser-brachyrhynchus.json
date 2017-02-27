@@ -1,0 +1,19 @@
+{
+    "commonName": "Pink-footed Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anser brachyrhynchus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PFGO",
+        "spec6": "ANSBRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

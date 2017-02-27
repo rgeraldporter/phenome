@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-browed Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Troglodytes rufociliatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBWW",
+        "spec6": "TRORUC",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

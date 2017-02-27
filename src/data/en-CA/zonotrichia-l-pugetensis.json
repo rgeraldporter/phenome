@@ -1,0 +1,19 @@
+{
+    "commonName": "Puget Sound White-crowned Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia l. pugetensis",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "PSWS",
+        "spec6": "ZONLPU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

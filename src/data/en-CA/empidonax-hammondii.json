@@ -1,0 +1,19 @@
+{
+    "commonName": "Hammond's Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax hammondii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAFL",
+        "spec6": "EMPHAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

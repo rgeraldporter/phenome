@@ -1,0 +1,19 @@
+{
+    "commonName": "Scaled Antpitta",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Grallaria guatimalensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCAA",
+        "spec6": "GRAGUA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

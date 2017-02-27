@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-shafted Flicker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Colaptes a. auratus",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "YSFL",
+        "spec6": "COLAAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

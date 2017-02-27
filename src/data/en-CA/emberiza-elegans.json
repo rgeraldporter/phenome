@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-throated Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberiza elegans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YTBU",
+        "spec6": "EMBELE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Short-tailed Albatross",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phoebastria albatrus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STAL",
+        "spec6": "PHOALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

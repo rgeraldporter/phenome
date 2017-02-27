@@ -1,0 +1,19 @@
+{
+    "commonName": "Lance-tailed Manakin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chiroxiphia lanceolata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LATM",
+        "spec6": "CHILAN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

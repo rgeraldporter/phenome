@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Selasphorus Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Selaphorus (sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "USHU",
+        "spec6": "SELSPS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

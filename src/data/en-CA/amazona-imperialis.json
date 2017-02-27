@@ -1,0 +1,19 @@
+{
+    "commonName": "Imperial Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona imperialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "IMPA",
+        "spec6": "AMAIMP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

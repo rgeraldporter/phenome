@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive-backed Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia gouldi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBAE",
+        "spec6": "EUPGOU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

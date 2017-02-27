@@ -1,0 +1,19 @@
+{
+    "commonName": "Sooty-headed Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pheugopedius spadix",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHWR",
+        "spec6": "PHESPA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

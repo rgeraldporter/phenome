@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown Booby",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sula leucogaster",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRBO",
+        "spec6": "SULLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Dickcissel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spiza americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DICK",
+        "spec6": "SPIAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

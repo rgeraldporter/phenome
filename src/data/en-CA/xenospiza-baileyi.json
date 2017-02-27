@@ -1,0 +1,19 @@
+{
+    "commonName": "Sierra Madre Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenospiza baileyi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SMSP",
+        "spec6": "XENBAI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

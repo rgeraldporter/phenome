@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-thighed Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pheucticus tibialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTGG",
+        "spec6": "PHETIB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

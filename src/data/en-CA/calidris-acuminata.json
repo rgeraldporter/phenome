@@ -1,0 +1,19 @@
+{
+    "commonName": "Sharp-tailed Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris acuminata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPTS",
+        "spec6": "CALACU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

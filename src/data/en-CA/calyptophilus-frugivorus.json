@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Chat-Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calyptophilus frugivorus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EACT",
+        "spec6": "CALFRU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

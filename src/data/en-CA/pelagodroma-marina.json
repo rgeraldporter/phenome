@@ -1,0 +1,19 @@
+{
+    "commonName": "White-faced Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pelagodroma marina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WFSP",
+        "spec6": "PELMAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

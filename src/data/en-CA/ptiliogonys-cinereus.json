@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Silky-flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ptiliogonys cinereus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRSF",
+        "spec6": "PTICIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

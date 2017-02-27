@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty Spinetail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Synallaxis brachyura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SLSP",
+        "spec6": "SYNBRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

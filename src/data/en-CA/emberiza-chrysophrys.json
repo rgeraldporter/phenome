@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-browed Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberiza chrysophrys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBWB",
+        "spec6": "EMBCHR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

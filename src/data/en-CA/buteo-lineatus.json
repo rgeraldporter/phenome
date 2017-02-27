@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-shouldered Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo lineatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RSHA",
+        "spec6": "BUTLIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

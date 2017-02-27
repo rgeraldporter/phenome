@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-vented Bulbul",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pycnonotus cafer",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RVBU",
+        "spec6": "PYCCAF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

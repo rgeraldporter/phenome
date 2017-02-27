@@ -1,0 +1,19 @@
+{
+    "commonName": "Wood Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa glareola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WOSA",
+        "spec6": "TRIGLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

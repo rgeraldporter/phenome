@@ -1,0 +1,19 @@
+{
+    "commonName": "Russet Nightingale-Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus occidentalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUNT",
+        "spec6": "CATOCC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Cocos Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus ferrugineus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COCC",
+        "spec6": "COCFER",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

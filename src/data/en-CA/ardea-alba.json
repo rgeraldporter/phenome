@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Egret",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ardea alba",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GREG",
+        "spec6": "ARDALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

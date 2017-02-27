@@ -1,0 +1,19 @@
+{
+    "commonName": "Spiny-faced Antshrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenornis setifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SFAN",
+        "spec6": "XENSET",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

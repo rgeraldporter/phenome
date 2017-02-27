@@ -1,0 +1,19 @@
+{
+    "commonName": "Bryan's Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus bryani",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRYS",
+        "spec6": "PUFBRY",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

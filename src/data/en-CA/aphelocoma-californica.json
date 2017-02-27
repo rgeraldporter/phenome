@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Scrub-Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aphelocoma californica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WESJ",
+        "spec6": "APHCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-crowned Tityra",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tityra inquisitor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCRT",
+        "spec6": "TITINQ",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

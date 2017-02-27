@@ -1,0 +1,19 @@
+{
+    "commonName": "Bewick's Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thryomanes bewickii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEWR",
+        "spec6": "THRBEW",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

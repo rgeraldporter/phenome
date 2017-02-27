@@ -1,0 +1,19 @@
+{
+    "commonName": "White-headed Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Picoides albolarvatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHWO",
+        "spec6": "PICALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

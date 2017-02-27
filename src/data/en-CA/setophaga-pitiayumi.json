@@ -1,0 +1,19 @@
+{
+    "commonName": "Tropical Parula",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga pitiayumi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRPA",
+        "spec6": "SETPIM",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Sharpbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oxyruncus cristatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHAR",
+        "spec6": "OXYCRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-collared Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia capensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCOS",
+        "spec6": "ZONCAP",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

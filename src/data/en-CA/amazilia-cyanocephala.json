@@ -1,0 +1,19 @@
+{
+    "commonName": "Azure-crowned Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia cyanocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AZCH",
+        "spec6": "AMACYC",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

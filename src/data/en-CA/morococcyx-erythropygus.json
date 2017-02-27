@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Ground-Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Morococcyx erythropygus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEGC",
+        "spec6": "MORERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

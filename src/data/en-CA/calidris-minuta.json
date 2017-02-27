@@ -1,0 +1,19 @@
+{
+    "commonName": "Little Stint",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris minuta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LIST",
+        "spec6": "CALMIA",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

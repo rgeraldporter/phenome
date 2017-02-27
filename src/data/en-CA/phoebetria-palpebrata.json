@@ -1,0 +1,19 @@
+{
+    "commonName": "Light-mantled Albatross",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phoebetria palpebrata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LMAL",
+        "spec6": "PHOPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

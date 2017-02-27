@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nesopsar nigerrimus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JABL",
+        "spec6": "NESNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

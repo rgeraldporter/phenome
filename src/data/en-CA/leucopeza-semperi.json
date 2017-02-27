@@ -1,0 +1,19 @@
+{
+    "commonName": "Semper's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Leucopeza semperi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SEMW",
+        "spec6": "LEUSER",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

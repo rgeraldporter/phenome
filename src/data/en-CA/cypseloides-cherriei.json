@@ -1,0 +1,19 @@
+{
+    "commonName": "Spot-fronted Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cypseloides cherriei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SFSW",
+        "spec6": "CYPCHE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Streak-headed Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lepidocolaptes souleyetii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHWO",
+        "spec6": "LEPSOU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

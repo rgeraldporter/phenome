@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Jacamar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Jacamerops aureus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GJAC",
+        "spec6": "JACAUR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

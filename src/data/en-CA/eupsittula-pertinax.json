@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-throated Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eupsittula pertinax",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTPA",
+        "spec6": "EUPPER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

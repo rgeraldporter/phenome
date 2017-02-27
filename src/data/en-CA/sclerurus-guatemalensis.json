@@ -1,0 +1,19 @@
+{
+    "commonName": "Scaly-throated Leaftosser",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sclerurus guatemalensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STLE",
+        "spec6": "SCLGUA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Mango",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthracothorax viridis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GMAG",
+        "spec6": "ANTVIR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Pochard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aythya ferina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COMP",
+        "spec6": "AYTFER",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Greenshank",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa nebularia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COMG",
+        "spec6": "TRINEB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

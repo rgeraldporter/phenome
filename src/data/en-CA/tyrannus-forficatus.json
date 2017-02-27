@@ -1,0 +1,19 @@
+{
+    "commonName": "Scissor-tailed Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus forficatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STFL",
+        "spec6": "TYRFOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Pied-billed Grebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Podilymbus podiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBGR",
+        "spec6": "PODPOD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Thorntail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Discosura conversii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRET",
+        "spec6": "DISCON",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

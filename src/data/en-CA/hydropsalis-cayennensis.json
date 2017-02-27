@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tailed Nightjar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hydropsalis cayennensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTNI",
+        "spec6": "HYDCAY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

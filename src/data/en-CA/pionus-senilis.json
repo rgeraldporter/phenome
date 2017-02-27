@@ -1,0 +1,19 @@
+{
+    "commonName": "White-crowned Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pionus senilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCPA",
+        "spec6": "PIOSEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

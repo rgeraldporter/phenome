@@ -1,0 +1,19 @@
+{
+    "commonName": "Rustic Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberiza rustica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUBU",
+        "spec6": "EMBRUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

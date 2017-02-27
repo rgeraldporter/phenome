@@ -1,0 +1,19 @@
+{
+    "commonName": "McKay's Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Plectrophenax hyperboreus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MKBU",
+        "spec6": "PLEHYP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

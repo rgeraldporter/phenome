@@ -1,0 +1,19 @@
+{
+    "commonName": "Virginia Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rallus limicola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VIRA",
+        "spec6": "RALLIM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

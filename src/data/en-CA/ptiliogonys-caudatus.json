@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-tailed Silky-flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ptiliogonys caudatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LTSF",
+        "spec6": "PTICAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

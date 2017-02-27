@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaii Mamo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Drepanis pacifica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAMA",
+        "spec6": "DREPAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

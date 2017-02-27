@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-fronted Macaw",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ara severus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CFMA",
+        "spec6": "ARASEV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

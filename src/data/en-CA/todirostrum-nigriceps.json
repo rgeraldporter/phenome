@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-headed Tody-Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Todirostrum nigriceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHTF",
+        "spec6": "TODNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

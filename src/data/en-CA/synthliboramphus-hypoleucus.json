@@ -1,0 +1,19 @@
+{
+    "commonName": "Guadalupe Murrelet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Synthliboramphus hypoleucus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GAMU",
+        "spec6": "SYNHYP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

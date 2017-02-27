@@ -1,0 +1,19 @@
+{
+    "commonName": "Veraguan Mango",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthracothorax veraguensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VEMA",
+        "spec6": "ANTVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oxyura jamaicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUDU",
+        "spec6": "OXYJAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

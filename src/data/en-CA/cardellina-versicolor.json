@@ -1,0 +1,19 @@
+{
+    "commonName": "Pink-headed Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cardellina versicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PHWA",
+        "spec6": "CARVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

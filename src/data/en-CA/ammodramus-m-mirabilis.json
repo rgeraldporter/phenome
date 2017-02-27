@@ -1,0 +1,19 @@
+{
+    "commonName": "Cape Sable Seaside-Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ammodramus m. mirabilis",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "CSSS",
+        "spec6": "AMMMMI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

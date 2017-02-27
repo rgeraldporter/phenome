@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-necked Stilt",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Himantopus mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BNST",
+        "spec6": "HIMMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

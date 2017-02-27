@@ -1,0 +1,19 @@
+{
+    "commonName": "Sora",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Porzana carolina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SORA",
+        "spec6": "PORCAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

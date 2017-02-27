@@ -1,0 +1,19 @@
+{
+    "commonName": "Charming Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia decora",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHHU",
+        "spec6": "AMADEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

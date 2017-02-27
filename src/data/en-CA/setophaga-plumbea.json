@@ -1,0 +1,19 @@
+{
+    "commonName": "Plumbeous Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga plumbea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLUW",
+        "spec6": "SETPLU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Socorro Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Troglodytes sissonii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOCW",
+        "spec6": "TROSIS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

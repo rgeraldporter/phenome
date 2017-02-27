@@ -1,0 +1,19 @@
+{
+    "commonName": "Cordilleran Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax occidentalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COFL",
+        "spec6": "EMPOCC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

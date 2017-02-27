@@ -1,0 +1,19 @@
+{
+    "commonName": "Unicolored Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aphelocoma unicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "UNJA",
+        "spec6": "APHUNI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

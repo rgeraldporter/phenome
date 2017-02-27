@@ -1,0 +1,19 @@
+{
+    "commonName": "Sinaloa Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thryophilus sinaloa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SIWR",
+        "spec6": "THRSIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

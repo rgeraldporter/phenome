@@ -1,0 +1,19 @@
+{
+    "commonName": "Louisiana Waterthrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Parkesia motacilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LOWA",
+        "spec6": "PARMOT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

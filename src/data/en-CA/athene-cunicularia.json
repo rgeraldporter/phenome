@@ -1,0 +1,19 @@
+{
+    "commonName": "Burrowing Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Athene cunicularia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BUOW",
+        "spec6": "ATHCUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

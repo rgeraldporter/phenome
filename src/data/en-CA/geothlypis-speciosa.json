@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-polled Yellowthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis speciosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BPYE",
+        "spec6": "GEOSPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

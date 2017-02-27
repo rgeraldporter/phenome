@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Crossbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxia megaplaga",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HICR",
+        "spec6": "LOXMEG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

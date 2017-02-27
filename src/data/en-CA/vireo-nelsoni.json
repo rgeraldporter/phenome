@@ -1,0 +1,19 @@
+{
+    "commonName": "Dwarf Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo nelsoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DWVI",
+        "spec6": "VIRNEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

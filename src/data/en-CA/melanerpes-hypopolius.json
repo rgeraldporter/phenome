@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-breasted Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes hypopolius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBWO",
+        "spec6": "MELHYI",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Hooded Merganser",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lophodytes cucullatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOME",
+        "spec6": "LOPCUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

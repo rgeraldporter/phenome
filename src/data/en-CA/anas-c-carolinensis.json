@@ -1,0 +1,19 @@
+{
+    "commonName": "American Green-winged Teal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas c. carolinensis",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "AGWT",
+        "spec6": "ANACCA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

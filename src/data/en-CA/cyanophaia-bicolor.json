@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-headed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanophaia bicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHHU",
+        "spec6": "CYABIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

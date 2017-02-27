@@ -1,0 +1,19 @@
+{
+    "commonName": "Narrow-billed Tody",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Todus angustirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NBTO",
+        "spec6": "TODANG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

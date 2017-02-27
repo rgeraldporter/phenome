@@ -1,0 +1,19 @@
+{
+    "commonName": "Sage Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreoscoptes montanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SATH",
+        "spec6": "OREMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

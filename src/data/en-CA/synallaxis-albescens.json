@@ -1,0 +1,19 @@
+{
+    "commonName": "Pale-breasted Spinetail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Synallaxis albescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBSP",
+        "spec6": "SYNALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Socorro Mockingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mimus graysoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOMO",
+        "spec6": "MIMGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

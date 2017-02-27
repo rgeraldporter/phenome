@@ -1,0 +1,19 @@
+{
+    "commonName": "Thick-billed Kingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus crassirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TBKI",
+        "spec6": "TYRCRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

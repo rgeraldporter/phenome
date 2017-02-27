@@ -1,0 +1,19 @@
+{
+    "commonName": "Dusky Antbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cercomacra tyrannina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DUAN",
+        "spec6": "CERTYR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

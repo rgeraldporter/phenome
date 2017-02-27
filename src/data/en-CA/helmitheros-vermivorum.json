@@ -1,0 +1,19 @@
+{
+    "commonName": "Worm-eating Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Helmitheros vermivorum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WEWA",
+        "spec6": "HELVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

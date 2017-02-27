@@ -1,0 +1,19 @@
+{
+    "commonName": "Speckled Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara guttata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPTA",
+        "spec6": "TANGUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

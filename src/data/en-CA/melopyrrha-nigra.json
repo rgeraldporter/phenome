@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Bullfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melopyrrha nigra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUBU",
+        "spec6": "MELNIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

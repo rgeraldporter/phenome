@@ -1,0 +1,19 @@
+{
+    "commonName": "Townsend's x Hermit Warbler Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga townsendi x occident",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "THWH",
+        "spec6": "SETTOO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

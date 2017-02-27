@@ -1,0 +1,19 @@
+{
+    "commonName": "House Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passer domesticus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HOSP",
+        "spec6": "PASDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

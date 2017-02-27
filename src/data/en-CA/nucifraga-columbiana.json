@@ -1,0 +1,19 @@
+{
+    "commonName": "Clark's Nutcracker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nucifraga columbiana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CLNU",
+        "spec6": "NUCCOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

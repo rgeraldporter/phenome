@@ -1,0 +1,19 @@
+{
+    "commonName": "Marsh Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa stagnatilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MASA",
+        "spec6": "TRISTA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

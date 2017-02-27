@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Strix occidentalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPOW",
+        "spec6": "STROCC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

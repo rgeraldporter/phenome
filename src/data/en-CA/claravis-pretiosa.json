@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue Ground-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Claravis pretiosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLGD",
+        "spec6": "CLAPRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

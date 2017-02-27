@@ -1,0 +1,19 @@
+{
+    "commonName": "Arctic Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sterna paradisaea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ARTE",
+        "spec6": "STEPAD",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

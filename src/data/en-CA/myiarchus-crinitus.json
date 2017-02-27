@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Crested Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus crinitus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCFL",
+        "spec6": "MYICRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-faced Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Caryothraustes poliogaster",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BFAG",
+        "spec6": "CARPOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

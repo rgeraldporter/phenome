@@ -1,0 +1,19 @@
+{
+    "commonName": "White-thighed Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Neochelidon tibialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTGS",
+        "spec6": "NEOTIB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

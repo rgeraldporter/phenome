@@ -1,0 +1,19 @@
+{
+    "commonName": "Maroon-fronted Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhynchopsitta terrisi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MFPA",
+        "spec6": "RHYTER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

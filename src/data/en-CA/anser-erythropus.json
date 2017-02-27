@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser White-fronted Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anser erythropus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LWFG",
+        "spec6": "ANSERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

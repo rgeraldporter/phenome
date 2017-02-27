@@ -1,0 +1,19 @@
+{
+    "commonName": "Harris's Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Parabuteo unicinctus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HASH",
+        "spec6": "PARUNI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

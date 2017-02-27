@@ -1,0 +1,19 @@
+{
+    "commonName": "Antillean Piculet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nesoctites micromegas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANPI",
+        "spec6": "NESMIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "White-bellied Antbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myrmeciza longipes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBEA",
+        "spec6": "MYRLON",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

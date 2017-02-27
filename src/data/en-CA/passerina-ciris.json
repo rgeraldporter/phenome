@@ -1,0 +1,19 @@
+{
+    "commonName": "Painted Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerina ciris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PABU",
+        "spec6": "PASCIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

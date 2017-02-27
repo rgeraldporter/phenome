@@ -1,0 +1,19 @@
+{
+    "commonName": "American Dipper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cinclus mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMDI",
+        "spec6": "CINMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

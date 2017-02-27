@@ -1,0 +1,19 @@
+{
+    "commonName": "Snowcap",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Microchera albocoronata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNOC",
+        "spec6": "MICALB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-throated Solitaire",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes genibarbis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTSO",
+        "spec6": "MYAGEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

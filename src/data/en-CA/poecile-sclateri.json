@@ -1,0 +1,19 @@
+{
+    "commonName": "Mexican Chickadee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Poecile sclateri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MECH",
+        "spec6": "POESCL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

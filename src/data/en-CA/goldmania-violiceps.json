@@ -1,0 +1,19 @@
+{
+    "commonName": "Violet-capped Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Goldmania violiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VCAH",
+        "spec6": "GOLVIO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

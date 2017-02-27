@@ -1,0 +1,19 @@
+{
+    "commonName": "Common/Hoary Redpoll",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Acanthis flamm./hornemanni",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "CHRE",
+        "spec6": "ACAFLH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

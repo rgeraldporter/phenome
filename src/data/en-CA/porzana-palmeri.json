@@ -1,0 +1,19 @@
+{
+    "commonName": "Laysan Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Porzana palmeri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LARA",
+        "spec6": "PORPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

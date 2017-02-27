@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Curlew",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Numenius arquata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUCU",
+        "spec6": "NUMARQ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

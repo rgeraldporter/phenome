@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-headed Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon melanocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHTR",
+        "spec6": "TROMEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

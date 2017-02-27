@@ -1,0 +1,19 @@
+{
+    "commonName": "Dusky-backed Jacamar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Brachygalba salmoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DBJA",
+        "spec6": "BRASAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

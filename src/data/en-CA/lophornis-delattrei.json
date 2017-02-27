@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-crested Coquette",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lophornis delattrei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCRC",
+        "spec6": "LOPDEL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

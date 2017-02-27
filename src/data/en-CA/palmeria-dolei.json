@@ -1,0 +1,19 @@
+{
+    "commonName": "Akohekohe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Palmeria dolei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AKOH",
+        "spec6": "PALDOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

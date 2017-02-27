@@ -1,0 +1,19 @@
+{
+    "commonName": "Killdeer",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius vociferus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KILL",
+        "spec6": "CHAVOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "European Turtle-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Streptopelia turtur",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUTD",
+        "spec6": "STRTUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Merlin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco columbarius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MERL",
+        "spec6": "FALCOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

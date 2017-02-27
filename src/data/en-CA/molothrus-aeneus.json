@@ -1,0 +1,19 @@
+{
+    "commonName": "Bronzed Cowbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Molothrus aeneus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BROC",
+        "spec6": "MOLAEN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Prairie Falcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRFA",
+        "spec6": "FALMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

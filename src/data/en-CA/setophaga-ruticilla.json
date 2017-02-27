@@ -1,0 +1,19 @@
+{
+    "commonName": "American Redstart",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga ruticilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMRE",
+        "spec6": "SETRUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

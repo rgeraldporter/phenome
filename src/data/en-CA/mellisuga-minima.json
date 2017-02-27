@@ -1,0 +1,19 @@
+{
+    "commonName": "Vervain Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mellisuga minima",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VEHU",
+        "spec6": "MELMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-eyed Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo olivaceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REVI",
+        "spec6": "VIROLI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

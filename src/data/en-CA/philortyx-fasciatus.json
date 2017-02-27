@@ -1,0 +1,19 @@
+{
+    "commonName": "Banded Quail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Philortyx fasciatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAQU",
+        "spec6": "PHIFAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

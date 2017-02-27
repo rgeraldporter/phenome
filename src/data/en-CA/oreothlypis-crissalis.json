@@ -1,0 +1,19 @@
+{
+    "commonName": "Colima Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreothlypis crissalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COLW",
+        "spec6": "ORECRI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

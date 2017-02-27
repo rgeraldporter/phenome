@@ -1,0 +1,19 @@
+{
+    "commonName": "Sky Lark",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Alauda arvensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SKLA",
+        "spec6": "ALAARV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Phainopepla",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phainopepla nitens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PHAI",
+        "spec6": "PHANIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

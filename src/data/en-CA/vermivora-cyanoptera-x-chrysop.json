@@ -1,0 +1,19 @@
+{
+    "commonName": "Lawrence's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vermivora cyanoptera x chrysop",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "LAWA",
+        "spec6": "VERCCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

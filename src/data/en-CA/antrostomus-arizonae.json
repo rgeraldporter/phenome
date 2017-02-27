@@ -1,0 +1,19 @@
+{
+    "commonName": "Mexican Whip-poor-will",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Antrostomus arizonae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MWPW",
+        "spec6": "ANTARI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

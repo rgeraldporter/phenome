@@ -1,0 +1,19 @@
+{
+    "commonName": "Crested Auklet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aethia cristatella",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRAU",
+        "spec6": "AETCRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

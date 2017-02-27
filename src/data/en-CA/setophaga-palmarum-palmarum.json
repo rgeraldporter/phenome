@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Palm Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga palmarum palmarum",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "WPWA",
+        "spec6": "SETPPA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

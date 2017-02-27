@@ -1,0 +1,19 @@
+{
+    "commonName": "Crested Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lophostrix cristata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CROW",
+        "spec6": "LOPCRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

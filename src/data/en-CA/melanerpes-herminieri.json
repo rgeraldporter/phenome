@@ -1,0 +1,19 @@
+{
+    "commonName": "Guadeloupe Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes herminieri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GUWO",
+        "spec6": "MELHER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

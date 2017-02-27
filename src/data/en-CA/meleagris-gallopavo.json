@@ -1,0 +1,19 @@
+{
+    "commonName": "Wild Turkey",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Meleagris gallopavo",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WITU",
+        "spec6": "MELGAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Oropendola",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psarocolius guatimozinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLOR",
+        "spec6": "PSAGUA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-collared Longspur",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calcarius ornatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCLO",
+        "spec6": "CALORN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

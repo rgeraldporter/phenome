@@ -1,0 +1,19 @@
+{
+    "commonName": "Siberian Rubythroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Luscinia calliope",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SIRU",
+        "spec6": "LUSCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

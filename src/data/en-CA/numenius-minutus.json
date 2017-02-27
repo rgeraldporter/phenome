@@ -1,0 +1,19 @@
+{
+    "commonName": "Little Curlew",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Numenius minutus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LICU",
+        "spec6": "NUMMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

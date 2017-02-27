@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Prairie-Chicken",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tympanuchus pallidicinctus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEPC",
+        "spec6": "TYMPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

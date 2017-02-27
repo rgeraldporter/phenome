@@ -1,0 +1,19 @@
+{
+    "commonName": "Eared Quetzal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euptilotis neoxenus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EAQU",
+        "spec6": "EUPNEO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

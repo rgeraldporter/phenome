@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-breasted Chat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icteria virens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBCH",
+        "spec6": "ICTVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

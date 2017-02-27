@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Chat-Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calyptophilus tertius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WECT",
+        "spec6": "CALTER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Short-tailed Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo brachyurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STHA",
+        "spec6": "BUTBRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

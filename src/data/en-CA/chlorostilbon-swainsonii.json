@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorostilbon swainsonii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HIEM",
+        "spec6": "CHLSWA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

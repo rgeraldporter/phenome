@@ -1,0 +1,19 @@
+{
+    "commonName": "Bermuda Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma cahow",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEPE",
+        "spec6": "PTECAH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

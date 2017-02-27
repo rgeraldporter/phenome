@@ -1,0 +1,19 @@
+{
+    "commonName": "Sooty-headed Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phyllomyias griseiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHTY",
+        "spec6": "PHYGRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

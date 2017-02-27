@@ -1,0 +1,19 @@
+{
+    "commonName": "Wandering Tattler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa incana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WATA",
+        "spec6": "TRIINC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

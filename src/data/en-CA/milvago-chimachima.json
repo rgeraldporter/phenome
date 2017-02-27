@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-headed Caracara",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Milvago chimachima",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YHCA",
+        "spec6": "MILCHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

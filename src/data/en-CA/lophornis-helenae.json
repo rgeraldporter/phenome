@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-crested Coquette",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lophornis helenae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCCO",
+        "spec6": "LOPHEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

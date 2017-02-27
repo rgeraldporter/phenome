@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes portoricensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRWO",
+        "spec6": "MELPOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

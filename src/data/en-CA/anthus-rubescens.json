@@ -1,0 +1,19 @@
+{
+    "commonName": "American Pipit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthus rubescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMPI",
+        "spec6": "ANTRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

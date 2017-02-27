@@ -1,0 +1,19 @@
+{
+    "commonName": "Japanese White-eye",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zosterops japonicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAWE",
+        "spec6": "ZOSJAP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "White-winged Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenoligea montana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WWWA",
+        "spec6": "XENMON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Garden Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorostilbon assimilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GAEM",
+        "spec6": "CHLASS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

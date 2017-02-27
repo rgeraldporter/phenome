@@ -1,0 +1,19 @@
+{
+    "commonName": "Western Meadowlark",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sturnella neglecta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WEME",
+        "spec6": "STUNEG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

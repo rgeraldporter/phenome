@@ -1,0 +1,19 @@
+{
+    "commonName": "Sapayoa",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sapayoa aenigma",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SAPA",
+        "spec6": "SAPAEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

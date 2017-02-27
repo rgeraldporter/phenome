@@ -1,0 +1,19 @@
+{
+    "commonName": "Sooty Grouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendragapus fuliginosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOGR",
+        "spec6": "DENFUU",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

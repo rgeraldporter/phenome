@@ -1,0 +1,19 @@
+{
+    "commonName": "Violaceous Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geotrygon violacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VIQD",
+        "spec6": "GEOVIO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

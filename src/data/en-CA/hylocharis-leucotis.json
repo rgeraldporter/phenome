@@ -1,0 +1,19 @@
+{
+    "commonName": "White-eared Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylocharis leucotis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WEHU",
+        "spec6": "HYLLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

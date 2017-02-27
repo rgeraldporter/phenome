@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-capped Brush-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Atlapetes pileatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCBF",
+        "spec6": "ATLPIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

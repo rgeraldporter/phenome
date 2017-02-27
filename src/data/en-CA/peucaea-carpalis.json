@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-winged Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Peucaea carpalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RWSP",
+        "spec6": "PEUCAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

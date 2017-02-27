@@ -1,0 +1,19 @@
+{
+    "commonName": "Reed Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberiza schoeniclus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REBU",
+        "spec6": "EMBSCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

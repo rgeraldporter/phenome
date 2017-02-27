@@ -1,0 +1,19 @@
+{
+    "commonName": "Mexican Sheartail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Doricha eliza",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MESH",
+        "spec6": "DORELI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

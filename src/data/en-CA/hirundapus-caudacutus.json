@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Needletail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hirundapus caudacutus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTNE",
+        "spec6": "HIRCAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

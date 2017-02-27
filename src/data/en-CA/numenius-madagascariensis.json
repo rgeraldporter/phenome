@@ -1,0 +1,19 @@
+{
+    "commonName": "Far Eastern Curlew",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Numenius madagascariensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FECU",
+        "spec6": "NUMMAD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

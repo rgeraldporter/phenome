@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberizidae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNSP",
+        "spec6": "EMBGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Tundra Bean-Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anser serrirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TUBG",
+        "spec6": "ANSSER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-tailed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia tzacatl",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTAH",
+        "spec6": "AMATZA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

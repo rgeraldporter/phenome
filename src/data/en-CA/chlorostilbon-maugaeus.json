@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorostilbon maugaeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PREM",
+        "spec6": "CHLMAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

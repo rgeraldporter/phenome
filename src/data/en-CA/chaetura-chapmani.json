@@ -1,0 +1,19 @@
+{
+    "commonName": "Chapman's Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetura chapmani",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHAS",
+        "spec6": "CHACHA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

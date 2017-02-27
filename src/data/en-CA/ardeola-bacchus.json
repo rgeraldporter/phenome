@@ -1,0 +1,19 @@
+{
+    "commonName": "Chinese Pond-Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ardeola bacchus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHPH",
+        "spec6": "ARDBAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

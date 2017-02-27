@@ -1,0 +1,19 @@
+{
+    "commonName": "Verdin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Auriparus flaviceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VERD",
+        "spec6": "AURFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Oriental Pratincole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glareola maldivarum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ORPR",
+        "spec6": "GLAMAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

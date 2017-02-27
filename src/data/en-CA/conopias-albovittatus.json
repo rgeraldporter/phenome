@@ -1,0 +1,19 @@
+{
+    "commonName": "White-ringed Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Conopias albovittatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WRFL",
+        "spec6": "CONALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

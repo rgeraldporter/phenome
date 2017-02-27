@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Butorides virescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRHE",
+        "spec6": "BUTVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

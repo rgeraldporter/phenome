@@ -1,0 +1,19 @@
+{
+    "commonName": "Kermadec Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma neglecta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KEPE",
+        "spec6": "PTENEG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

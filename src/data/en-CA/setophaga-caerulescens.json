@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-throated Blue Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga caerulescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTBW",
+        "spec6": "SETCAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

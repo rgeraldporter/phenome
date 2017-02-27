@@ -1,0 +1,19 @@
+{
+    "commonName": "Antillean Nighthawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chordeiles gundlachii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANNI",
+        "spec6": "CHOGUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

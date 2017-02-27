@@ -1,0 +1,19 @@
+{
+    "commonName": "Lemon-spectacled Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorothraupis olivacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LSTA",
+        "spec6": "CHLOLI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

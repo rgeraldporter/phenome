@@ -1,0 +1,19 @@
+{
+    "commonName": "Chipping Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spizella passerina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHSP",
+        "spec6": "SPIPAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

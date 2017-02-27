@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Lizard-Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus vieilloti",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRLC",
+        "spec6": "COCVIE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Southern Bentbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oncostoma olivaceum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOBE",
+        "spec6": "ONCOLI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

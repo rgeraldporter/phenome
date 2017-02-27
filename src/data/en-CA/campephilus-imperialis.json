@@ -1,0 +1,19 @@
+{
+    "commonName": "Imperial Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campephilus imperialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "IMWO",
+        "spec6": "CAMIMP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

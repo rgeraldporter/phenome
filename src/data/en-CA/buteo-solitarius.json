@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaiian Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo solitarius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAWH",
+        "spec6": "BUESOL",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

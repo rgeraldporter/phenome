@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Sand-Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius leschenaultii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GSAP",
+        "spec6": "CHALES",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

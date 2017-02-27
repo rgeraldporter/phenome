@@ -1,0 +1,19 @@
+{
+    "commonName": "Inca Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Columbina inca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "INDO",
+        "spec6": "COLINC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

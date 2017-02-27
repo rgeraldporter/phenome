@@ -1,0 +1,19 @@
+{
+    "commonName": "Arrowhead Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga pharetra",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ARRW",
+        "spec6": "SETPHA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma cinereum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAT",
+        "spec6": "TOXCIN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

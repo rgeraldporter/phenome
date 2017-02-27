@@ -1,0 +1,19 @@
+{
+    "commonName": "Oriente Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Teretistris fornsi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ORWA",
+        "spec6": "TERFOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

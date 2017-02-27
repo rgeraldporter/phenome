@@ -1,0 +1,19 @@
+{
+    "commonName": "Crimson-collared Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhodothraupis celaeno",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CCGR",
+        "spec6": "RHOCEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

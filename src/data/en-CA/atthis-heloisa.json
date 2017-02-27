@@ -1,0 +1,19 @@
+{
+    "commonName": "Bumblebee Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Atthis heloisa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BUHU",
+        "spec6": "ATTHEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

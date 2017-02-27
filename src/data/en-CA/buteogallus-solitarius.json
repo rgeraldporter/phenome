@@ -1,0 +1,19 @@
+{
+    "commonName": "Solitary Eagle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteogallus solitarius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOEA",
+        "spec6": "BUGSOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

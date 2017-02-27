@@ -1,0 +1,19 @@
+{
+    "commonName": "Smith's Longspur",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calcarius pictus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SMLO",
+        "spec6": "CALPIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

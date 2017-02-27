@@ -1,0 +1,19 @@
+{
+    "commonName": "Costa Rican Pygmy-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glaucidium costaricanum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRPO",
+        "spec6": "GLACOS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

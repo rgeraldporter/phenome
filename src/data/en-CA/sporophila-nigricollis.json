@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-bellied Seedeater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sporophila nigricollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBSE",
+        "spec6": "SPONIG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

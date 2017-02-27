@@ -1,0 +1,19 @@
+{
+    "commonName": "Razorbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Alca torda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RAZO",
+        "spec6": "ALCTOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

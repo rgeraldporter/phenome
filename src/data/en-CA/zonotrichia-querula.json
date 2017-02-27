@@ -1,0 +1,19 @@
+{
+    "commonName": "Harris's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia querula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HASP",
+        "spec6": "ZONQUE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

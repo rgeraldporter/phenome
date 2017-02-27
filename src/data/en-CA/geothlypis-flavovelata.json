@@ -1,0 +1,19 @@
+{
+    "commonName": "Altamira Yellowthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis flavovelata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ALYE",
+        "spec6": "GEOFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

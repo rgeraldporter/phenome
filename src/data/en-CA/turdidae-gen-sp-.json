@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdidae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNTH",
+        "spec6": "TURGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

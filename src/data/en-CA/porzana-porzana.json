@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Porzana porzana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPCR",
+        "spec6": "PORPOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

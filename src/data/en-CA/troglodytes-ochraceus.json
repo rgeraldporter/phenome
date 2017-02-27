@@ -1,0 +1,19 @@
+{
+    "commonName": "Ochraceous Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Troglodytes ochraceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCWR",
+        "spec6": "TROOCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

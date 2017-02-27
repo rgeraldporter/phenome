@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arremonops rufivirgatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OLSP",
+        "spec6": "ARRRUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Tricolored Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Egretta tricolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TRHE",
+        "spec6": "EGRTRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

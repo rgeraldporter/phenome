@@ -1,0 +1,19 @@
+{
+    "commonName": "Buff-rumped Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiothlypis fulvicauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BURW",
+        "spec6": "MYIFUL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

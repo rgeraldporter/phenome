@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-headed Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chroicocephalus ridibundus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHGU",
+        "spec6": "CHRRID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

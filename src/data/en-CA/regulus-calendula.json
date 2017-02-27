@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruby-crowned Kinglet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Regulus calendula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCKI",
+        "spec6": "REGCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

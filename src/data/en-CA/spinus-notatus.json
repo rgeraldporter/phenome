@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-headed Siskin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spinus notatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHSI",
+        "spec6": "SPINOT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

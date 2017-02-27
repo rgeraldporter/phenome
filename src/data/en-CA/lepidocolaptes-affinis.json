@@ -1,0 +1,19 @@
+{
+    "commonName": "Spot-crowned Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lepidocolaptes affinis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCRW",
+        "spec6": "LEPAFF",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

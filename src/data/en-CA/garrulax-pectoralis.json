@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Necklaced Laughingthrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Garrulax pectoralis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GNLA",
+        "spec6": "GARPEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

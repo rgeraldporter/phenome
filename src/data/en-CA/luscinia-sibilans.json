@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-tailed Robin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Luscinia sibilans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTRO",
+        "spec6": "LUSSIB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

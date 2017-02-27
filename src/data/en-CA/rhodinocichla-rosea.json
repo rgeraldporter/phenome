@@ -1,0 +1,19 @@
+{
+    "commonName": "Rosy Thrush-Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhodinocichla rosea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROTT",
+        "spec6": "RHNROS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

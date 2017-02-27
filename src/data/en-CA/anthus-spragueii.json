@@ -1,0 +1,19 @@
+{
+    "commonName": "Sprague's Pipit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthus spragueii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPPI",
+        "spec6": "ANTSPR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

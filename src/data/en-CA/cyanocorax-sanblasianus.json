@@ -1,0 +1,19 @@
+{
+    "commonName": "San Blas Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocorax sanblasianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBJA",
+        "spec6": "CYASAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

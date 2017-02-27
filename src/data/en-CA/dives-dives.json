@@ -1,0 +1,19 @@
+{
+    "commonName": "Melodious Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dives dives",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MEBL",
+        "spec6": "DIVDIV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

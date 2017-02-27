@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-tipped Cotinga",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Carpodectes hopkei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTCO",
+        "spec6": "CARHOP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

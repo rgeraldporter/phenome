@@ -1,0 +1,19 @@
+{
+    "commonName": "Least Bittern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ixobrychus exilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEBI",
+        "spec6": "IXOEXI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

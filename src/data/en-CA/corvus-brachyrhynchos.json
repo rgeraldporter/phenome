@@ -1,0 +1,19 @@
+{
+    "commonName": "American Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus brachyrhynchos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMCR",
+        "spec6": "CORBRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

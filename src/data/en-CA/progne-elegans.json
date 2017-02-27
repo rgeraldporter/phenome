@@ -1,0 +1,19 @@
+{
+    "commonName": "Southern Martin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Progne elegans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOMA",
+        "spec6": "PROELE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

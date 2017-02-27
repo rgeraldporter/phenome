@@ -1,0 +1,19 @@
+{
+    "commonName": "Semipalmated Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris pusilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SESA",
+        "spec6": "CALPUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

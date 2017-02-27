@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-gray Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thraupis episcopus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BGTA",
+        "spec6": "THREPI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

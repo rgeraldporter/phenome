@@ -1,0 +1,19 @@
+{
+    "commonName": "White-fronted Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona albifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WFPA",
+        "spec6": "AMAALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

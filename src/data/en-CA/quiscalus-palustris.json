@@ -1,0 +1,19 @@
+{
+    "commonName": "Slender-billed Grackle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Quiscalus palustris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBGR",
+        "spec6": "QUIPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

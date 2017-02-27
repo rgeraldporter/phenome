@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-tailed Manakin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chiroxiphia linearis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LOTM",
+        "spec6": "CHILIN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous-backed Robin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus rufopalliatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBRO",
+        "spec6": "TURRUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

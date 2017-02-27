@@ -1,0 +1,19 @@
+{
+    "commonName": "Fiery-billed Aracari",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pteroglossus frantzii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FBAR",
+        "spec6": "PTEFRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Tacarcuna Tapaculo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Scytalopus panamensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TATA",
+        "spec6": "SCYPAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

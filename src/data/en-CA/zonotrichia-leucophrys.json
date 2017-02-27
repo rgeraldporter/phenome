@@ -1,0 +1,19 @@
+{
+    "commonName": "White-crowned Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia leucophrys",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCSP",
+        "spec6": "ZONLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

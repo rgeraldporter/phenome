@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Martin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Progne cryptoleuca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUMA",
+        "spec6": "PROCRY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

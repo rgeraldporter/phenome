@@ -1,0 +1,19 @@
+{
+    "commonName": "White-rumped Shama",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Copsychus malabaricus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WRSH",
+        "spec6": "COPMAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

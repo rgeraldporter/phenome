@@ -1,0 +1,19 @@
+{
+    "commonName": "Tiny Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipiter superciliosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TIHA",
+        "spec6": "ACCSUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Acadian Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax virescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ACFL",
+        "spec6": "EMPVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

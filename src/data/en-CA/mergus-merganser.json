@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Merganser",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mergus merganser",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COME",
+        "spec6": "MERMER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

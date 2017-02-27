@@ -1,0 +1,19 @@
+{
+    "commonName": "Upland Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bartramia longicauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "UPSA",
+        "spec6": "BARLON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

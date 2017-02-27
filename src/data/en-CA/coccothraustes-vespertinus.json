@@ -1,0 +1,19 @@
+{
+    "commonName": "Evening Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccothraustes vespertinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EVGR",
+        "spec6": "COCVES",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

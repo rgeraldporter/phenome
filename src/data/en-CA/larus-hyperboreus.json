@@ -1,0 +1,19 @@
+{
+    "commonName": "Glaucous Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus hyperboreus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GLGU",
+        "spec6": "LARHYP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

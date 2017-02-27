@@ -1,0 +1,19 @@
+{
+    "commonName": "Wood Stork",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mycteria americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WOST",
+        "spec6": "MYCAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

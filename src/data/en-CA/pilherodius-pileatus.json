@@ -1,0 +1,19 @@
+{
+    "commonName": "Capped Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pilherodius pileatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAHE",
+        "spec6": "PILPIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

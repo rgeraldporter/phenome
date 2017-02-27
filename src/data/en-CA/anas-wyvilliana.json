@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaiian Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas wyvilliana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAWD",
+        "spec6": "ANAWYV",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

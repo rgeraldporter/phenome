@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-green Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo flavoviridis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YGVI",
+        "spec6": "VIRFLD",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Harlan's Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo j. harlani",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "HALH",
+        "spec6": "BUTJHA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

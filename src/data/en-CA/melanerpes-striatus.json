@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melanerpes striatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HIWO",
+        "spec6": "MELSTR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

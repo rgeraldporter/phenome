@@ -1,0 +1,19 @@
+{
+    "commonName": "Hairy Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Picoides villosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAWO",
+        "spec6": "PICVIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

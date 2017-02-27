@@ -1,0 +1,19 @@
+{
+    "commonName": "Bullock's x Baltimore Oriole Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus bullockii x galb.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "BBOH",
+        "spec6": "ICTBUG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

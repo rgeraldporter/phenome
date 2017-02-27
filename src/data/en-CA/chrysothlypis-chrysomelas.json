@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-and-yellow Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chrysothlypis chrysomelas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAYT",
+        "spec6": "CHRCHR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

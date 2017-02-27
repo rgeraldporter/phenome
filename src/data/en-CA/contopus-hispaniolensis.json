@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Pewee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Contopus hispaniolensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HIPE",
+        "spec6": "CONHIS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

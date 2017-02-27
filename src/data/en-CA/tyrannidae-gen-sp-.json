@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannidae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNFL",
+        "spec6": "TYRGEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

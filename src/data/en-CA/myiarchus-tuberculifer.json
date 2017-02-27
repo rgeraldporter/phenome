@@ -1,0 +1,19 @@
+{
+    "commonName": "Dusky-capped Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus tuberculifer",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DCFL",
+        "spec6": "MYITUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

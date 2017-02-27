@@ -1,0 +1,19 @@
+{
+    "commonName": "Leach's Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma leucorhoa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LESP",
+        "spec6": "OCELEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

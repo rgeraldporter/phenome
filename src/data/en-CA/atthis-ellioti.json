@@ -1,0 +1,19 @@
+{
+    "commonName": "Wine-throated Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Atthis ellioti",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTHH",
+        "spec6": "ATTELL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

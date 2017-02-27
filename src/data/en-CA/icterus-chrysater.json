@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-backed Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus chrysater",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBOR",
+        "spec6": "ICTCHR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

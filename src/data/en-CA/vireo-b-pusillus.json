@@ -1,0 +1,19 @@
+{
+    "commonName": "Least Bell's Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo b. pusillus",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "LBVI",
+        "spec6": "VIRBPU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

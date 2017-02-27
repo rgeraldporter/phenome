@@ -1,0 +1,19 @@
+{
+    "commonName": "Harlequin Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Histrionicus histrionicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HADU",
+        "spec6": "HISHIS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

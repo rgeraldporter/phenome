@@ -1,0 +1,19 @@
+{
+    "commonName": "Slate-colored Junco",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Junco h. hyemalis",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "SCJU",
+        "spec6": "JUNHHY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

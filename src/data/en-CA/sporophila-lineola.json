@@ -1,0 +1,19 @@
+{
+    "commonName": "Lined Seedeater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sporophila lineola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LISE",
+        "spec6": "SPOLIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

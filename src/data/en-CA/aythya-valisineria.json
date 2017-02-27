@@ -1,0 +1,19 @@
+{
+    "commonName": "Canvasback",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aythya valisineria",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CANV",
+        "spec6": "AYTVAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

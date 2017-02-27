@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-breasted Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Passerina leclancherii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBBU",
+        "spec6": "PASLEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

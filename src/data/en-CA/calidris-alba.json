@@ -1,0 +1,19 @@
+{
+    "commonName": "Sanderling",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris alba",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SAND",
+        "spec6": "CALALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

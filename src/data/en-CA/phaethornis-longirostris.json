@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-billed Hermit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phaethornis longirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBIH",
+        "spec6": "PHALON",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-collared Manakin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Manacus aurantiacus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCMA",
+        "spec6": "MANAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gambel's White-crowned Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia l. gambelii",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "GWCS",
+        "spec6": "ZONLGA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

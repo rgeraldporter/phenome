@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-headed Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona oratrix",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YHPA",
+        "spec6": "AMAORA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

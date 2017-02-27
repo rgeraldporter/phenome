@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Gallinule",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gallinula galeata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COGA",
+        "spec6": "GALGAT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

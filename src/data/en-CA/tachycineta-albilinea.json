@@ -1,0 +1,19 @@
+{
+    "commonName": "Mangrove Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachycineta albilinea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MANS",
+        "spec6": "TACALB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

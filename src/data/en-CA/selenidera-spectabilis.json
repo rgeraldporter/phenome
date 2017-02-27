@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-eared Toucanet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Selenidera spectabilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YETO",
+        "spec6": "SELSPT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

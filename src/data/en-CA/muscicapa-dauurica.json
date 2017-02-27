@@ -1,0 +1,19 @@
+{
+    "commonName": "Asian Brown Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Muscicapa dauurica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ABFL",
+        "spec6": "MUSDAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

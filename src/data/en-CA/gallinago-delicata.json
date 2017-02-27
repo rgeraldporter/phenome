@@ -1,0 +1,19 @@
+{
+    "commonName": "Wilson's Snipe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gallinago delicata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WISN",
+        "spec6": "GALDEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

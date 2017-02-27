@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-headed Chickadee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Poecile cinctus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHCH",
+        "spec6": "POECIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

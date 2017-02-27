@@ -1,0 +1,19 @@
+{
+    "commonName": "Band-rumped Storm-Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oceanodroma castro",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BSTP",
+        "spec6": "OCECAS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

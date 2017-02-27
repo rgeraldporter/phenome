@@ -1,0 +1,19 @@
+{
+    "commonName": "White-fronted Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cypseloides storeri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WFSW",
+        "spec6": "CYPSTO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

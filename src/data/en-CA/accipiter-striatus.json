@@ -1,0 +1,19 @@
+{
+    "commonName": "Sharp-shinned Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Accipiter striatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SSHA",
+        "spec6": "ACCSTR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Coppery-headed Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elvira cupreiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CHEM",
+        "spec6": "ELVCUP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

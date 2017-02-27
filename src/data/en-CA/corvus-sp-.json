@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus (sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNCR",
+        "spec6": "CORSPE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

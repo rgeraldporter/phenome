@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-fronted Lancebill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Doryfera ludovicae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GFRL",
+        "spec6": "DORLUD",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

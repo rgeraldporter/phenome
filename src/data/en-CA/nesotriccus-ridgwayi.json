@@ -1,0 +1,19 @@
+{
+    "commonName": "Cocos Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nesotriccus ridgwayi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COCF",
+        "spec6": "NESRID",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

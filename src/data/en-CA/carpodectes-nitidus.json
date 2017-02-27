@@ -1,0 +1,19 @@
+{
+    "commonName": "Snowy Cotinga",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Carpodectes nitidus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNCO",
+        "spec6": "CARNIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

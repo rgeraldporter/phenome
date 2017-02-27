@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Kingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus dominicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRAK",
+        "spec6": "TYRDOM",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

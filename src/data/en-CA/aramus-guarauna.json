@@ -1,0 +1,19 @@
+{
+    "commonName": "Limpkin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aramus guarauna",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LIMP",
+        "spec6": "ARAGUA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Greenish Puffleg",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haplophaedia aureliae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRPU",
+        "spec6": "HAPAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

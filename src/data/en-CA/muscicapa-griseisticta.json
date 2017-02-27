@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-streaked Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Muscicapa griseisticta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GSFL",
+        "spec6": "MUSGRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

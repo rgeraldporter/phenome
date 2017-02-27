@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaii Oo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Moho nobilis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAOO",
+        "spec6": "MOHNOB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

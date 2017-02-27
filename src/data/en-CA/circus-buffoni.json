@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-winged Harrier",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Circus buffoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LWHA",
+        "spec6": "CIRBUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

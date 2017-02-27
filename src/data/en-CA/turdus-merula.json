@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus merula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUBL",
+        "spec6": "TURMER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

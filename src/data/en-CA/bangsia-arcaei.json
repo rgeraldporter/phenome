@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-and-gold Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bangsia arcaei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAGT",
+        "spec6": "BANARC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

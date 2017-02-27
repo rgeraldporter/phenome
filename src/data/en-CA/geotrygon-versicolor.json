@@ -1,0 +1,19 @@
+{
+    "commonName": "Crested Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geotrygon versicolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRQD",
+        "spec6": "GEOVER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Spectacled Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus nudigenis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPTH",
+        "spec6": "TURNUD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

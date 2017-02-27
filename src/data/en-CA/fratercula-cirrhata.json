@@ -1,0 +1,19 @@
+{
+    "commonName": "Tufted Puffin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fratercula cirrhata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TUPU",
+        "spec6": "FRACIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Belted Kingfisher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megaceryle alcyon",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEKI",
+        "spec6": "MEGALC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

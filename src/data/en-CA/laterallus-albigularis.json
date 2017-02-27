@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Crake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Laterallus albigularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTCR",
+        "spec6": "LATALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

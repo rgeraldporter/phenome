@@ -1,0 +1,19 @@
+{
+    "commonName": "Common House-Martin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Delichon urbicum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COHM",
+        "spec6": "DELURB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

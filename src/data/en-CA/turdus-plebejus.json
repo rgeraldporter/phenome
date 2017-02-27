@@ -1,0 +1,19 @@
+{
+    "commonName": "Mountain Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus plebejus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOTH",
+        "spec6": "TURPLE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

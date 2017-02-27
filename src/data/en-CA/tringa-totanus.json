@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Redshank",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tringa totanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COMR",
+        "spec6": "TRITOT",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

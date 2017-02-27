@@ -1,0 +1,19 @@
+{
+    "commonName": "Pine Grosbeak",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pinicola enucleator",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PIGR",
+        "spec6": "PINENU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Brownish Twistwing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cnipodectes subbrunneus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRTW",
+        "spec6": "CNISUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

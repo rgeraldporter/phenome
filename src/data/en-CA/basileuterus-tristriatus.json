@@ -1,0 +1,19 @@
+{
+    "commonName": "Three-striped Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Basileuterus tristriatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TSWA",
+        "spec6": "BASTRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

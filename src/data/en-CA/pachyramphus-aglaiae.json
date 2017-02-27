@@ -1,0 +1,19 @@
+{
+    "commonName": "Rose-throated Becard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pachyramphus aglaiae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTBE",
+        "spec6": "PACAGL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

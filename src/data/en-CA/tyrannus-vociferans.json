@@ -1,0 +1,19 @@
+{
+    "commonName": "Cassin's Kingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus vociferans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAKI",
+        "spec6": "TYRVOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

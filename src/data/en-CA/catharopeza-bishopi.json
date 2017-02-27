@@ -1,0 +1,19 @@
+{
+    "commonName": "Whistling Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharopeza bishopi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHIW",
+        "spec6": "CATBIS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

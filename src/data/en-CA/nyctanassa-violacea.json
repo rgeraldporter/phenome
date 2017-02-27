@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-crowned Night-Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Nyctanassa violacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YCNH",
+        "spec6": "NYCVIO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

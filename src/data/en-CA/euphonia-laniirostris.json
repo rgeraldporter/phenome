@@ -1,0 +1,19 @@
+{
+    "commonName": "Thick-billed Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia laniirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TBEU",
+        "spec6": "EUPLAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-billed Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arremon aurantiirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OBSP",
+        "spec6": "ARRAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

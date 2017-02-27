@@ -1,0 +1,19 @@
+{
+    "commonName": "Mute Swan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cygnus olor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MUSW",
+        "spec6": "CYGOLO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

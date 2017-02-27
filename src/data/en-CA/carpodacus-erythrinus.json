@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Rosefinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Carpodacus erythrinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CORO",
+        "spec6": "CARERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

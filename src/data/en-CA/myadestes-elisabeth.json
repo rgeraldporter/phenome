@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Solitaire",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myadestes elisabeth",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUSO",
+        "spec6": "MYAELI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

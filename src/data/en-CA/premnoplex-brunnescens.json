@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Barbtail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Premnoplex brunnescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPBA",
+        "spec6": "PREBRU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

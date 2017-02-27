@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-necked Wood-Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aramides cajaneus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GNWR",
+        "spec6": "ARACAJ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

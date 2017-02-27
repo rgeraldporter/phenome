@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-cheeked Waxbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Estrilda melpoda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCHW",
+        "spec6": "ESTMEL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Eared Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zenaida auriculata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EADO",
+        "spec6": "ZENAUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

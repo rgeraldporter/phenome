@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Psilorhinus morio",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRJA",
+        "spec6": "PSIMOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

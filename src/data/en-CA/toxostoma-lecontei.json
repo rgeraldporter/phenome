@@ -1,0 +1,19 @@
+{
+    "commonName": "Le Conte's Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma lecontei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LCTH",
+        "spec6": "TOXLEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

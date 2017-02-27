@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Antillean Pewee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Contopus latirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LAPE",
+        "spec6": "CONLAT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

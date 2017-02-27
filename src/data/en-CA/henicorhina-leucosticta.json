@@ -1,0 +1,19 @@
+{
+    "commonName": "White-breasted Wood-Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Henicorhina leucosticta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBWW",
+        "spec6": "HENLES",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

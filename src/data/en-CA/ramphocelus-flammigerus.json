@@ -1,0 +1,19 @@
+{
+    "commonName": "Flame-rumped Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ramphocelus flammigerus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FRTA",
+        "spec6": "RAMFLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-headed Brush-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Arremon atricapillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHBF",
+        "spec6": "ARRATR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

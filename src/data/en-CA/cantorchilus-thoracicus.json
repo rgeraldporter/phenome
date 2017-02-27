@@ -1,0 +1,19 @@
+{
+    "commonName": "Stripe-breasted Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cantorchilus thoracicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SIBW",
+        "spec6": "CANTHO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

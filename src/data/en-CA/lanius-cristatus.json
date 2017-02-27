@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown Shrike",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lanius cristatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BROS",
+        "spec6": "LANCRI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

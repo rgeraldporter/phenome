@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Black-backed Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus fuscus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBBG",
+        "spec6": "LARFUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

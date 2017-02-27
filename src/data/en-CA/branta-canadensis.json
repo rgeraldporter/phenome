@@ -1,0 +1,19 @@
+{
+    "commonName": "Canada Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta canadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CANG",
+        "spec6": "BRACAN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

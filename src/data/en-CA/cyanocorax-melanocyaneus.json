@@ -1,0 +1,19 @@
+{
+    "commonName": "Bushy-crested Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocorax melanocyaneus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCRJ",
+        "spec6": "CYAMEL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

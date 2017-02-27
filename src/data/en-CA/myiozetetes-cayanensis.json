@@ -1,0 +1,19 @@
+{
+    "commonName": "Rusty-margined Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiozetetes cayanensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RMFL",
+        "spec6": "MYICAY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-green Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piculus chrysochloros",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GGWO",
+        "spec6": "PICCHR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

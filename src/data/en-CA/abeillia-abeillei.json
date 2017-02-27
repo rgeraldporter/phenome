@@ -1,0 +1,19 @@
+{
+    "commonName": "Emerald-chinned Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Abeillia abeillei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ECHU",
+        "spec6": "ABEABE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

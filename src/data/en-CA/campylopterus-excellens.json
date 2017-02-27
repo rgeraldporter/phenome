@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-tailed Sabrewing",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylopterus excellens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LTSA",
+        "spec6": "CAMEXC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

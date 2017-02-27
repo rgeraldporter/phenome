@@ -1,0 +1,19 @@
+{
+    "commonName": "Pelagic Cormorant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalacrocorax pelagicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PECO",
+        "spec6": "PHAPEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

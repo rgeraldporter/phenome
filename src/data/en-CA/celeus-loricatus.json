@@ -1,0 +1,19 @@
+{
+    "commonName": "Cinnamon Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Celeus loricatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CIWO",
+        "spec6": "CELLOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

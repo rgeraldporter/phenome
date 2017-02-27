@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-crowned Antpitta",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pittasoma michleri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCAP",
+        "spec6": "PITMIC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

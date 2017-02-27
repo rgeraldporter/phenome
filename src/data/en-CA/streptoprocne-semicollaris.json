@@ -1,0 +1,19 @@
+{
+    "commonName": "White-naped Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Streptoprocne semicollaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WNSW",
+        "spec6": "STRSEM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

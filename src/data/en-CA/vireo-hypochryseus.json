@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo hypochryseus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GOVI",
+        "spec6": "VIRHYP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

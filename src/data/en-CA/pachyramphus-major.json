@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-collared Becard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pachyramphus major",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCBE",
+        "spec6": "PACMAJ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

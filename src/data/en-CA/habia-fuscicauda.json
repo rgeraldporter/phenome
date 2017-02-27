@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-throated Ant-Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Habia fuscicauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTAT",
+        "spec6": "HABFUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

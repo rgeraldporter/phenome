@@ -1,0 +1,19 @@
+{
+    "commonName": "Bare-necked Umbrellabird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cephalopterus glabricollis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BNUM",
+        "spec6": "CEPGLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Slate-colored Seedeater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sporophila schistacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCSE",
+        "spec6": "SPOSCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

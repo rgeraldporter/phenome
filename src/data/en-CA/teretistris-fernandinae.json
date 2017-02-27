@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-headed Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Teretistris fernandinae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YHWA",
+        "spec6": "TERFER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

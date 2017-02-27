@@ -1,0 +1,19 @@
+{
+    "commonName": "Striped Woodhaunter",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Automolus subulatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STPW",
+        "spec6": "AUTSUB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

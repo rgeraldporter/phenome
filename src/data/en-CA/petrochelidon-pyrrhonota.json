@@ -1,0 +1,19 @@
+{
+    "commonName": "Cliff Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Petrochelidon pyrrhonota",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CLSW",
+        "spec6": "PETPYR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

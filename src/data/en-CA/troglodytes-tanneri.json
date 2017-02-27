@@ -1,0 +1,19 @@
+{
+    "commonName": "Clarion Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Troglodytes tanneri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CLWR",
+        "spec6": "TROTAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

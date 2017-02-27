@@ -1,0 +1,19 @@
+{
+    "commonName": "Parkinson's Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Procellaria parkinsoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAPE",
+        "spec6": "PROPAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

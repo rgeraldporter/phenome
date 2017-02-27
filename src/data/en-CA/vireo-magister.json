@@ -1,0 +1,19 @@
+{
+    "commonName": "Yucatan Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo magister",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YUVI",
+        "spec6": "VIRMAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

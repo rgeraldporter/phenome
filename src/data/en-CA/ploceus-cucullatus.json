@@ -1,0 +1,19 @@
+{
+    "commonName": "Village Weaver",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ploceus cucullatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "VIWE",
+        "spec6": "PLOCUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

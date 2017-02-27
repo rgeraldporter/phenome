@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue Bunting",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocompsa parellina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLBU",
+        "spec6": "CYAPAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

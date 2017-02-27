@@ -1,0 +1,19 @@
+{
+    "commonName": "Bicknell's Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus bicknelli",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BITH",
+        "spec6": "CATBIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

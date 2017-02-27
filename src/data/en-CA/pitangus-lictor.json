@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Kiskadee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pitangus lictor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEKI",
+        "spec6": "PITLIC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

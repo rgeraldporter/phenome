@@ -1,0 +1,19 @@
+{
+    "commonName": "Rufous Piha",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lipaugus unirufus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUFP",
+        "spec6": "LIPUNI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

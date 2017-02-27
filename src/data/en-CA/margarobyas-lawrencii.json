@@ -1,0 +1,19 @@
+{
+    "commonName": "Bare-legged Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Margarobyas lawrencii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLOW",
+        "spec6": "MARLAW",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

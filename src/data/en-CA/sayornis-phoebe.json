@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Phoebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sayornis phoebe",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EAPH",
+        "spec6": "SAYPHO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

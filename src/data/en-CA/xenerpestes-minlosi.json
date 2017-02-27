@@ -1,0 +1,19 @@
+{
+    "commonName": "Double-banded Graytail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xenerpestes minlosi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DBGR",
+        "spec6": "XENMIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

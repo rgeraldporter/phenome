@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruby-topaz Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chrysolampis mosquitus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTOH",
+        "spec6": "CHRMOS",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

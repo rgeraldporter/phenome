@@ -1,0 +1,19 @@
+{
+    "commonName": "Roadside Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo magnirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROHA",
+        "spec6": "BUTMAG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

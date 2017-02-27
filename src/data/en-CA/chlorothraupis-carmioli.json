@@ -1,0 +1,19 @@
+{
+    "commonName": "Carmiol's Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorothraupis carmioli",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CATA",
+        "spec6": "CHLCAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

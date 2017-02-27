@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ardea purpurea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PUHE",
+        "spec6": "ARDPUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-headed Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eucometis penicillata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHET",
+        "spec6": "EUCPEN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

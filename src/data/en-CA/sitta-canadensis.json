@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-breasted Nuthatch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sitta canadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBNU",
+        "spec6": "SITCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Parakeet Auklet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aethia psittacula",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PAAU",
+        "spec6": "AETPSI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

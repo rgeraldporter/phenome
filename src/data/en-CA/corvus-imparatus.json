@@ -1,0 +1,19 @@
+{
+    "commonName": "Tamaulipas Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus imparatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TACR",
+        "spec6": "CORIMP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

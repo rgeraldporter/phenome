@@ -1,0 +1,19 @@
+{
+    "commonName": "Iceland Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Larus glaucoides",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ICGU",
+        "spec6": "LARGLD",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

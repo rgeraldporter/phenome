@@ -1,0 +1,19 @@
+{
+    "commonName": "Ocellated Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma ocellatum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCTH",
+        "spec6": "TOXOCE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

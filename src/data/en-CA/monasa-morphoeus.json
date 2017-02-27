@@ -1,0 +1,19 @@
+{
+    "commonName": "White-fronted Nunbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Monasa morphoeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WFNU",
+        "spec6": "MONMOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

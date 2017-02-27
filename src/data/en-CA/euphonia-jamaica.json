@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Euphonia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphonia jamaica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAEU",
+        "spec6": "EUPJAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

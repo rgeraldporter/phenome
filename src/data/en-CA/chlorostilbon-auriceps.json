@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-crowned Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chlorostilbon auriceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCEM",
+        "spec6": "CHLAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

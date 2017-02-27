@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-capped Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax atriceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCAF",
+        "spec6": "EMPATR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elaenia chiriquensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEEL",
+        "spec6": "ELACHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Crested Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalasseus bergii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GCTE",
+        "spec6": "THABER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

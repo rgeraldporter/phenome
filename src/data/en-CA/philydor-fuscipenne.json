@@ -1,0 +1,19 @@
+{
+    "commonName": "Slaty-winged Foliage-gleaner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Philydor fuscipenne",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SWFG",
+        "spec6": "PHIFUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

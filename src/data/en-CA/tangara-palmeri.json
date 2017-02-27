@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-and-gold Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara palmeri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GAGT",
+        "spec6": "TANPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

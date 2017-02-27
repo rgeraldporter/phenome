@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-crowned Parrot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazona ochrocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YCPA",
+        "spec6": "AMAOCH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

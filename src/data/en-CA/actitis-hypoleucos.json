@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Actitis hypoleucos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COSA",
+        "spec6": "ACTHYP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

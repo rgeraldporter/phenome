@@ -1,0 +1,19 @@
+{
+    "commonName": "Bronze-olive Pygmy-Tyrant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pseudotriccus pelzelni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BOPT",
+        "spec6": "PSEPEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

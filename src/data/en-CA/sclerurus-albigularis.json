@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-throated Leaftosser",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sclerurus albigularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GTLE",
+        "spec6": "SCLALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

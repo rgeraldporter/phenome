@@ -1,0 +1,19 @@
+{
+    "commonName": "Whimbrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Numenius phaeopus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHIM",
+        "spec6": "NUMPHA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

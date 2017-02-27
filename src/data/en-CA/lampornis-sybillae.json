@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-breasted Mountain-gem",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lampornis sybillae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBMG",
+        "spec6": "LAMSYB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

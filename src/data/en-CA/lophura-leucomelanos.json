@@ -1,0 +1,19 @@
+{
+    "commonName": "Kalij Pheasant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lophura leucomelanos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "KAPH",
+        "spec6": "LOPLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

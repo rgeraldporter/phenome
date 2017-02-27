@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Barred-Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocolaptes sanctithomae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOBW",
+        "spec6": "DENSAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

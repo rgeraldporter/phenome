@@ -1,0 +1,19 @@
+{
+    "commonName": "Bridled Quail-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geotrygon mystacea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRQD",
+        "spec6": "GEOMYS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

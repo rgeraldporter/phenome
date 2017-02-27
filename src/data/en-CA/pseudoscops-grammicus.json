@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pseudoscops grammicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAOW",
+        "spec6": "PSEGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

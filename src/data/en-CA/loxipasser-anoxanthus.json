@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-shouldered Grassquit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxipasser anoxanthus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YSGR",
+        "spec6": "LOXANO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

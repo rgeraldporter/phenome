@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Fulmar",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fulmarus glacialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOFU",
+        "spec6": "FULGLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Bendire's Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma bendirei",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BETH",
+        "spec6": "TOXBEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

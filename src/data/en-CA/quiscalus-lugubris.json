@@ -1,0 +1,19 @@
+{
+    "commonName": "Carib Grackle",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Quiscalus lugubris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAGR",
+        "spec6": "QUILUG",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo plagiatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRHA",
+        "spec6": "BUTPLG",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

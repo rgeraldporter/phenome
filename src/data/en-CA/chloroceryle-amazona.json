@@ -1,0 +1,19 @@
+{
+    "commonName": "Amazon Kingfisher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chloroceryle amazona",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMKI",
+        "spec6": "CHLAMA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

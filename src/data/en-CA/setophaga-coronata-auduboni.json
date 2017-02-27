@@ -1,0 +1,19 @@
+{
+    "commonName": "Audubon's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga coronata auduboni",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "AUWA",
+        "spec6": "SETCAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

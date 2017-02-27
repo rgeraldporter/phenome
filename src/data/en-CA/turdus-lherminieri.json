@@ -1,0 +1,19 @@
+{
+    "commonName": "Forest Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus lherminieri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FOTH",
+        "spec6": "TURLHE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

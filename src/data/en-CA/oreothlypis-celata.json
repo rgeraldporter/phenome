@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-crowned Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Oreothlypis celata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OCWA",
+        "spec6": "ORECEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Mamo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Drepanis funerea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLMA",
+        "spec6": "DREFUN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

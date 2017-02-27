@@ -1,0 +1,19 @@
+{
+    "commonName": "Cocoa Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xiphorhynchus susurrans",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COWO",
+        "spec6": "XIPSUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

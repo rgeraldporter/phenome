@@ -1,0 +1,19 @@
+{
+    "commonName": "Snow X Ross's Goose Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chen caerul. x rossii",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "SRGH",
+        "spec6": "CHECAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Green Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanocorax yncas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GREJ",
+        "spec6": "CYAYNC",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

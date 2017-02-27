@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow Palm Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga palmarum hypochrysea",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "YPWA",
+        "spec6": "SETPHY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

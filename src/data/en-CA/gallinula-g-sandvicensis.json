@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawaiian Gallinule",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gallinula g. sandvicensis",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "HAGA",
+        "spec6": "GALGSA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

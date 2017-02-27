@@ -1,0 +1,19 @@
+{
+    "commonName": "Sooty Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Onychoprion fuscatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SOTE",
+        "spec6": "ONYFUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

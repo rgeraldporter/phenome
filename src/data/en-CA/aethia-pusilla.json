@@ -1,0 +1,19 @@
+{
+    "commonName": "Least Auklet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aethia pusilla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEAU",
+        "spec6": "AETPUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

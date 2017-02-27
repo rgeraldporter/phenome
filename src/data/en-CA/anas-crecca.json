@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-winged Teal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas crecca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GWTE",
+        "spec6": "ANACRE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

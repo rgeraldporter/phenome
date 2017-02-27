@@ -1,0 +1,19 @@
+{
+    "commonName": "Snow Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chen caerulescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNGO",
+        "spec6": "CHECAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

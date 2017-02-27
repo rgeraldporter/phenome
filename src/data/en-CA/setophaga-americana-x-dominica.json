@@ -1,0 +1,19 @@
+{
+    "commonName": "Sutton's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga americana x dominica",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "SUWA",
+        "spec6": "SETAMD",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

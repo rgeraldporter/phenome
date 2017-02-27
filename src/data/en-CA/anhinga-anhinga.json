@@ -1,0 +1,19 @@
+{
+    "commonName": "Anhinga",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anhinga anhinga",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANHI",
+        "spec6": "ANHANH",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

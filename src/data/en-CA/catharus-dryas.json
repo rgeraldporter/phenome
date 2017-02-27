@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Nightingale-Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Catharus dryas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPNT",
+        "spec6": "CATDRY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

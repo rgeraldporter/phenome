@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown Creeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Certhia americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRCR",
+        "spec6": "CERAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

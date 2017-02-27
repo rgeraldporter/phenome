@@ -1,0 +1,19 @@
+{
+    "commonName": "Oriental Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cuculus optatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ORCU",
+        "spec6": "CUCOPT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

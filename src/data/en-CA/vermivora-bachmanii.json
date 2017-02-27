@@ -1,0 +1,19 @@
+{
+    "commonName": "Bachman's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vermivora bachmanii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAWA",
+        "spec6": "VERBAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-whiskered Bulbul",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pycnonotus jocosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RWBU",
+        "spec6": "PYCJOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

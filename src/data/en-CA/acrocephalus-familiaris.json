@@ -1,0 +1,19 @@
+{
+    "commonName": "Millerbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Acrocephalus familiaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MILL",
+        "spec6": "ACRFAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

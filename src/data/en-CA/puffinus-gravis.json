@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus gravis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GRSH",
+        "spec6": "PUFGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

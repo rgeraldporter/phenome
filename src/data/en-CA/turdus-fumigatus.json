@@ -1,0 +1,19 @@
+{
+    "commonName": "Cocoa Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus fumigatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COCT",
+        "spec6": "TURFUM",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

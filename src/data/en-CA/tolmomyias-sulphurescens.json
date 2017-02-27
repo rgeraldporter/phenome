@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-olive Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tolmomyias sulphurescens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YOFL",
+        "spec6": "TOLSUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

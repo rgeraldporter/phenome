@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-fronted Parrotlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Touit costaricensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RFPA",
+        "spec6": "TOUCOS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

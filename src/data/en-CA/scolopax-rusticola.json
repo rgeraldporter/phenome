@@ -1,0 +1,19 @@
+{
+    "commonName": "Eurasian Woodcock",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Scolopax rusticola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EUWO",
+        "spec6": "SCORUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

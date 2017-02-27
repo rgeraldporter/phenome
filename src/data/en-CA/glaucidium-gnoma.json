@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Pygmy-Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Glaucidium gnoma",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOPO",
+        "spec6": "GLAGNO",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

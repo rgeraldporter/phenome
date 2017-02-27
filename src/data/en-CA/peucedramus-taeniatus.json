@@ -1,0 +1,19 @@
+{
+    "commonName": "Olive Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Peucedramus taeniatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OLWA",
+        "spec6": "PEUTAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

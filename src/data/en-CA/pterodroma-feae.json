@@ -1,0 +1,19 @@
+{
+    "commonName": "Fea's Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma feae",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FEPE",
+        "spec6": "PTEFEA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

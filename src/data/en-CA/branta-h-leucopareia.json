@@ -1,0 +1,19 @@
+{
+    "commonName": "Aleutian Cackling Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta h. leucopareia",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "ACGO",
+        "spec6": "BRAHLE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

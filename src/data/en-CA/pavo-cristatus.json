@@ -1,0 +1,19 @@
+{
+    "commonName": "Indian Peafowl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pavo cristatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "INPE",
+        "spec6": "PAVCRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

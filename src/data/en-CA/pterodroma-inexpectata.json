@@ -1,0 +1,19 @@
+{
+    "commonName": "Mottled Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma inexpectata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOPE",
+        "spec6": "PTEINE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

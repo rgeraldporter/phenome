@@ -1,0 +1,19 @@
+{
+    "commonName": "Loggerhead Kingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus caudifasciatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LOKI",
+        "spec6": "TYRCAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

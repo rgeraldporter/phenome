@@ -1,0 +1,19 @@
+{
+    "commonName": "Laysan X Black-foot. Albatross Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phoebastria immut. X nigripes",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "LBFH",
+        "spec6": "PHOIMN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

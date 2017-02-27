@@ -1,0 +1,19 @@
+{
+    "commonName": "California Gnatcatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Polioptila californica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CAGN",
+        "spec6": "POLCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

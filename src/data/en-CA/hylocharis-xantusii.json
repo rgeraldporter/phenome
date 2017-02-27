@@ -1,0 +1,19 @@
+{
+    "commonName": "Xantus's Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylocharis xantusii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "XAHU",
+        "spec6": "HYLXAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

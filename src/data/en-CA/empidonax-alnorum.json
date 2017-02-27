@@ -1,0 +1,19 @@
+{
+    "commonName": "Alder Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Empidonax alnorum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ALFL",
+        "spec6": "EMPALN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

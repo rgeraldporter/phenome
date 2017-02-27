@@ -1,0 +1,19 @@
+{
+    "commonName": "Bare-throated Tiger-Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tigrisoma mexicanum",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTTH",
+        "spec6": "TIGMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-breasted Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sturnella militaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RBBL",
+        "spec6": "STUMIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

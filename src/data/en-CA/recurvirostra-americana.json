@@ -1,0 +1,19 @@
+{
+    "commonName": "American Avocet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Recurvirostra americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMAV",
+        "spec6": "RECAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

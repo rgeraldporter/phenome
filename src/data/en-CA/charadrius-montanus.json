@@ -1,0 +1,19 @@
+{
+    "commonName": "Mountain Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius montanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOPL",
+        "spec6": "CHAMOT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

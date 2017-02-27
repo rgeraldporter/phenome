@@ -1,0 +1,19 @@
+{
+    "commonName": "Dot-winged Antwren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Microrhopias quixensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DWAN",
+        "spec6": "MICQUI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

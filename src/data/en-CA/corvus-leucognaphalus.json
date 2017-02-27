@@ -1,0 +1,19 @@
+{
+    "commonName": "White-necked Crow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corvus leucognaphalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WNCR",
+        "spec6": "CORLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

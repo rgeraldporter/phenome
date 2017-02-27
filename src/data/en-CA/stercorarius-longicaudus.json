@@ -1,0 +1,19 @@
+{
+    "commonName": "Long-tailed Jaeger",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Stercorarius longicaudus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LTJA",
+        "spec6": "STELON",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

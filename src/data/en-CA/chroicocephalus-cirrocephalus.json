@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-hooded Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chroicocephalus cirrocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHGU",
+        "spec6": "CHRCIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

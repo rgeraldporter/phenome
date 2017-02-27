@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-bellied Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pluvialis squatarola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBPL",
+        "spec6": "PLUSQU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

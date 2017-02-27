@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-breasted Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tolmomyias flaviventris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBRF",
+        "spec6": "TOLFLA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

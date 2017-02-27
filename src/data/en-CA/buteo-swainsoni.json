@@ -1,0 +1,19 @@
+{
+    "commonName": "Swainson's Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo swainsoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SWHA",
+        "spec6": "BUTSWA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

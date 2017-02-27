@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Bluebird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sialia sialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EABL",
+        "spec6": "SIASIA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

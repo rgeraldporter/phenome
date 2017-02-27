@@ -1,0 +1,19 @@
+{
+    "commonName": "Mangrove Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo pallens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAVI",
+        "spec6": "VIRPAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

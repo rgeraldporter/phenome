@@ -1,0 +1,19 @@
+{
+    "commonName": "Antillean Mango",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthracothorax dominicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ANMA",
+        "spec6": "ANTDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

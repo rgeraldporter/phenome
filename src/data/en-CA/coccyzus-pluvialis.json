@@ -1,0 +1,19 @@
+{
+    "commonName": "Chestnut-bellied Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus pluvialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CBCU",
+        "spec6": "COCPLU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Jabiru",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Jabiru mycteria",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JABI",
+        "spec6": "JABMYC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

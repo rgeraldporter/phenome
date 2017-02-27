@@ -1,0 +1,19 @@
+{
+    "commonName": "Bulwer's Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bulweria bulwerii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BUPE",
+        "spec6": "BULBUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

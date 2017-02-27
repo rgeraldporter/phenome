@@ -1,0 +1,19 @@
+{
+    "commonName": "Lesser Frigatebird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fregata ariel",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LEFR",
+        "spec6": "FREARI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

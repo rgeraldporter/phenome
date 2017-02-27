@@ -1,0 +1,19 @@
+{
+    "commonName": "Forster's Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sterna forsteri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FOTE",
+        "spec6": "STEFOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruby-throated Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Archilochus colubris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RTHU",
+        "spec6": "ARCCOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

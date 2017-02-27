@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-legged Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus plumbeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RLTH",
+        "spec6": "TURPLU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

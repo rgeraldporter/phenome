@@ -1,0 +1,19 @@
+{
+    "commonName": "Band-rumped Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetura spinicaudus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BRSW",
+        "spec6": "CHASPI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

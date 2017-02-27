@@ -1,0 +1,19 @@
+{
+    "commonName": "Sagebrush Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Artemisiospiza nevadensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SABS",
+        "spec6": "ARTNEV",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

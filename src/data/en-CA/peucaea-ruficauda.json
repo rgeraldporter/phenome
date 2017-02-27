@@ -1,0 +1,19 @@
+{
+    "commonName": "Stripe-headed Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Peucaea ruficauda",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHSP",
+        "spec6": "PEURUF",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

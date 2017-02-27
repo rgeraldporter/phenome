@@ -1,0 +1,19 @@
+{
+    "commonName": "Bobolink",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dolichonyx oryzivorus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BOBO",
+        "spec6": "DOLORY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

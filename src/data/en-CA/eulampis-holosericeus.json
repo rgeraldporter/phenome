@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-throated Carib",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eulampis holosericeus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GTCA",
+        "spec6": "EULHOL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

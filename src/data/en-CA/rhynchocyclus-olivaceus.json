@@ -1,0 +1,19 @@
+{
+    "commonName": "Olivaceous Flatbill",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rhynchocyclus olivaceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OLFL",
+        "spec6": "RHYOLI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

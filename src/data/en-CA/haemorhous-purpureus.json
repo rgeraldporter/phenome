@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Haemorhous purpureus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PUFI",
+        "spec6": "HAEPUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

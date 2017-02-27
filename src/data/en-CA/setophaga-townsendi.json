@@ -1,0 +1,19 @@
+{
+    "commonName": "Townsend's Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga townsendi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TOWA",
+        "spec6": "SETTOW",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

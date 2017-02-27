@@ -1,0 +1,19 @@
+{
+    "commonName": "Cape Verde Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calonectris edwardsii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CVSH",
+        "spec6": "CALEDW",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

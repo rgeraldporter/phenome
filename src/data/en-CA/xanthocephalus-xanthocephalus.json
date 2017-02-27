@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-headed Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xanthocephalus xanthocephalus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YHBL",
+        "spec6": "XANXAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-winged Teal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas discors",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BWTE",
+        "spec6": "ANADIS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-legged Kittiwake",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Rissa tridactyla",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLKI",
+        "spec6": "RISTRI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

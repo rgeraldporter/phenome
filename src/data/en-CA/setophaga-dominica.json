@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-throated Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Setophaga dominica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YTWA",
+        "spec6": "SETDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Wing-banded Antbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myrmornis torquata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBAA",
+        "spec6": "MYRTOR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

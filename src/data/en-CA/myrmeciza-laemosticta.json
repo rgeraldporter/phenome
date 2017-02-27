@@ -1,0 +1,19 @@
+{
+    "commonName": "Dull-mantled Antbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myrmeciza laemosticta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DMAN",
+        "spec6": "MYRLAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

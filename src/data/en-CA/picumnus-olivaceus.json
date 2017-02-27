@@ -1,0 +1,19 @@
+{
+    "commonName": "Olivaceous Piculet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Picumnus olivaceus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OLPI",
+        "spec6": "PICOLI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

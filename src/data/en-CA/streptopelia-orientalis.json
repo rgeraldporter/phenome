@@ -1,0 +1,19 @@
+{
+    "commonName": "Oriental Turtle-Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Streptopelia orientalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ORTD",
+        "spec6": "STRORI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

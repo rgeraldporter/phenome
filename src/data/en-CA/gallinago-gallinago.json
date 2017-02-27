@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Snipe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gallinago gallinago",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COSN",
+        "spec6": "GALGAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

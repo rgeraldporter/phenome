@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-headed Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Piranga erythrocephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RHTA",
+        "spec6": "PIRERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

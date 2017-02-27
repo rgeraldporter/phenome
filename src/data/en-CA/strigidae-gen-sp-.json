@@ -1,0 +1,19 @@
+{
+    "commonName": "Unidentified Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Strigidae (gen, sp)",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "UNOW",
+        "spec6": "STRGSP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

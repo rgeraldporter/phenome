@@ -1,0 +1,19 @@
+{
+    "commonName": "Galapagos Shearwater",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Puffinus subalaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GASH",
+        "spec6": "PUFSUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

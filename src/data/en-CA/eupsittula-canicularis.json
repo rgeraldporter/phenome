@@ -1,0 +1,19 @@
+{
+    "commonName": "Orange-fronted Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eupsittula canicularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OFPA",
+        "spec6": "EUPCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

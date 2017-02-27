@@ -1,0 +1,19 @@
+{
+    "commonName": "Belding's Yellowthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis beldingi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BEYE",
+        "spec6": "GEOBEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

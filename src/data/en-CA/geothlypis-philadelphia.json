@@ -1,0 +1,19 @@
+{
+    "commonName": "Mourning Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis philadelphia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MOWA",
+        "spec6": "GEOPHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

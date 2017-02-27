@@ -1,0 +1,19 @@
+{
+    "commonName": "Barred Parakeet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bolborhynchus lineola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAPA",
+        "spec6": "BOLLIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

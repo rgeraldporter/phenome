@@ -1,0 +1,19 @@
+{
+    "commonName": "Blue-throated Motmot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aspatha gularis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTMO",
+        "spec6": "ASPGUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

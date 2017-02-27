@@ -1,0 +1,19 @@
+{
+    "commonName": "Hawfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccothraustes coccothraustes",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HAWF",
+        "spec6": "COCCOT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

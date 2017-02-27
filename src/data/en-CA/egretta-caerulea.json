@@ -1,0 +1,19 @@
+{
+    "commonName": "Little Blue Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Egretta caerulea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LBHE",
+        "spec6": "EGRCAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

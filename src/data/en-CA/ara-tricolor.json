@@ -1,0 +1,19 @@
+{
+    "commonName": "Cuban Macaw",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ara tricolor",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CUBM",
+        "spec6": "ARATRI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

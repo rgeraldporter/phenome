@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern Wood-Pewee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Contopus virens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "EAWP",
+        "spec6": "CONVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

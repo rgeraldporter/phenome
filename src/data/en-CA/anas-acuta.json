@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Pintail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas acuta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NOPI",
+        "spec6": "ANAACU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

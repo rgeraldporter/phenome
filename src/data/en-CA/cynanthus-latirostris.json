@@ -1,0 +1,19 @@
+{
+    "commonName": "Broad-billed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cynanthus latirostris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBIH",
+        "spec6": "CYNLAT",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

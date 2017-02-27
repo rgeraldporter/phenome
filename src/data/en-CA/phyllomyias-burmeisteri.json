@@ -1,0 +1,19 @@
+{
+    "commonName": "Rough-legged Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phyllomyias burmeisteri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RLTY",
+        "spec6": "PHYBUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

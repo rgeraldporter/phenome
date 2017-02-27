@@ -1,0 +1,19 @@
+{
+    "commonName": "Helmeted Guineafowl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Numida meleagris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HELG",
+        "spec6": "NUMMEL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

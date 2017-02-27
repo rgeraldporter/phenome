@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cuculus canorus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COCU",
+        "spec6": "CUCCAN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

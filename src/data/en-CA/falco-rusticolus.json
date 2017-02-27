@@ -1,0 +1,19 @@
+{
+    "commonName": "Gyrfalcon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Falco rusticolus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GYRF",
+        "spec6": "FALRUS",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

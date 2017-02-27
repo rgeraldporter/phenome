@@ -1,0 +1,19 @@
+{
+    "commonName": "White-cr. X Golden-cr. Sparrow Hybrid",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia leuc. x atricap.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "WGSH",
+        "spec6": "ZONLEA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

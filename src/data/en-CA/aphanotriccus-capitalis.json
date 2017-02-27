@@ -1,0 +1,19 @@
+{
+    "commonName": "Tawny-chested Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aphanotriccus capitalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "TCFL",
+        "spec6": "APHCAP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

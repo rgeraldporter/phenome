@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pardirallus maculatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPRA",
+        "spec6": "PARMAS",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

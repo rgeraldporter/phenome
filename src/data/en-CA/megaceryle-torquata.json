@@ -1,0 +1,19 @@
+{
+    "commonName": "Ringed Kingfisher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Megaceryle torquata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RIKI",
+        "spec6": "MEGTOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

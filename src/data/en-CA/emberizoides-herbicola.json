@@ -1,0 +1,19 @@
+{
+    "commonName": "Wedge-tailed Grass-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Emberizoides herbicola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTGF",
+        "spec6": "EMBHER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

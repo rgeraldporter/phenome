@@ -1,0 +1,19 @@
+{
+    "commonName": "Broad-winged Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo platypterus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BWHA",
+        "spec6": "BUTPLT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

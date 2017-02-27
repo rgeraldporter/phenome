@@ -1,0 +1,19 @@
+{
+    "commonName": "White-breasted Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ramphocinclus brachyurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WBTH",
+        "spec6": "RAMBRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple-throated Mountain-gem",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lampornis calolaemus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PTMG",
+        "spec6": "LAMCAL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

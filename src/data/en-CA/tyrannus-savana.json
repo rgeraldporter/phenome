@@ -1,0 +1,19 @@
+{
+    "commonName": "Fork-tailed Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tyrannus savana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "FTFL",
+        "spec6": "TYRSAV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

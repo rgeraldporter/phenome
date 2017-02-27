@@ -1,0 +1,19 @@
+{
+    "commonName": "White-throated Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aeronautes saxatalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTSW",
+        "spec6": "AERSAX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

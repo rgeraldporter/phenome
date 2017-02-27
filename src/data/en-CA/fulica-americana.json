@@ -1,0 +1,19 @@
+{
+    "commonName": "American Coot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Fulica americana",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AMCO",
+        "spec6": "FULAME",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

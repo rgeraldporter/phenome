@@ -1,0 +1,19 @@
+{
+    "commonName": "Double-crested Cormorant",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phalacrocorax auritus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "DCCO",
+        "spec6": "PHAAUT",
+        "conflicts": {
+            "spec": false,
+            "spec6": true
+        }
+    }
+}

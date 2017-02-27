@@ -1,0 +1,19 @@
+{
+    "commonName": "Crimson-backed Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ramphocelus dimidiatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CBTA",
+        "spec6": "RAMDIM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Labrador Duck",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Camptorhynchus labradorius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LABD",
+        "spec6": "CAMLAB",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

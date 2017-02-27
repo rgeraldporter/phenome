@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Xiphorhynchus erythropygius",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPWO",
+        "spec6": "XIPERY",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

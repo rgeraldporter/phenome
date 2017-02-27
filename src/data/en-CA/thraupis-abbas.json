@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-winged Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thraupis abbas",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YWTA",
+        "spec6": "THRABB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

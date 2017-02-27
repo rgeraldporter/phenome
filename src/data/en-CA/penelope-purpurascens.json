@@ -1,0 +1,19 @@
+{
+    "commonName": "Crested Guan",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Penelope purpurascens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRGU",
+        "spec6": "PENPUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

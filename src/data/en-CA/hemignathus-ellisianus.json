@@ -1,0 +1,19 @@
+{
+    "commonName": "Greater Akialoa",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hemignathus ellisianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GAKI",
+        "spec6": "HEMELL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

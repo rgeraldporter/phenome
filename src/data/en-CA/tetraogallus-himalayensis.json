@@ -1,0 +1,19 @@
+{
+    "commonName": "Himalayan Snowcock",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tetraogallus himalayensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HISN",
+        "spec6": "TETHIM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

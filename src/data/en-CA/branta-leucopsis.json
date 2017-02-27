@@ -1,0 +1,19 @@
+{
+    "commonName": "Barnacle Goose",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Branta leucopsis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BARG",
+        "spec6": "BRALEU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

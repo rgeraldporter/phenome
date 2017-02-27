@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Bullfinch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Loxigilla portoricensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRBU",
+        "spec6": "LOXPOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Gray-lined Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteo nitidus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GLHA",
+        "spec6": "BUTNIT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

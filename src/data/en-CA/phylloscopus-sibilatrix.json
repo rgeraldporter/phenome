@@ -1,0 +1,19 @@
+{
+    "commonName": "Wood Warbler",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phylloscopus sibilatrix",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WOWA",
+        "spec6": "PHYSIB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

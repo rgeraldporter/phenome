@@ -1,0 +1,19 @@
+{
+    "commonName": "Grenada Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus nugator",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GFLY",
+        "spec6": "MYINUG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

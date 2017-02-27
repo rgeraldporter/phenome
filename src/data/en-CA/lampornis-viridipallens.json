@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-throated Mountain-gem",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Lampornis viridipallens",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GTMG",
+        "spec6": "LAMVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

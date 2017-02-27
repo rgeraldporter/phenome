@@ -1,0 +1,19 @@
+{
+    "commonName": "Little Gull",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hydrocoloeus minutus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LIGU",
+        "spec6": "HYDMIN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Ruddy Foliage-gleaner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Clibanornis rubiginosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUFG",
+        "spec6": "CLIRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

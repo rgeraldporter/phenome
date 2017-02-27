@@ -1,0 +1,19 @@
+{
+    "commonName": "Rusty Blackbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Euphagus carolinus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RUBL",
+        "spec6": "EUPCAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

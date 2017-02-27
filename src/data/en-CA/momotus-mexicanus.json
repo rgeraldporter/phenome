@@ -1,0 +1,19 @@
+{
+    "commonName": "Russet-crowned Motmot",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Momotus mexicanus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCMO",
+        "spec6": "MOMMEX",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

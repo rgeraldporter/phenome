@@ -1,0 +1,19 @@
+{
+    "commonName": "Zapata Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ferminia cerverai",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ZAWR",
+        "spec6": "FERCER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

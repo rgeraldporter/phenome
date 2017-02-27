@@ -1,0 +1,19 @@
+{
+    "commonName": "Sulphur-rumped Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Heterospingus rubrifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SRTA",
+        "spec6": "HETRUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

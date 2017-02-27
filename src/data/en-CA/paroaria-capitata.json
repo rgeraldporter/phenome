@@ -1,0 +1,19 @@
+{
+    "commonName": "Yellow-billed Cardinal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Paroaria capitata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "YBCA",
+        "spec6": "PARCAP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Azure-hooded Jay",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanolyca cucullata",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "AHJA",
+        "spec6": "CYACUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

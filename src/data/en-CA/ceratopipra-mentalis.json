@@ -1,0 +1,19 @@
+{
+    "commonName": "Red-capped Manakin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ceratopipra mentalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "RCMA",
+        "spec6": "CERMEN",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Canyon Towhee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melozone fusca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CANT",
+        "spec6": "MEZFUS",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

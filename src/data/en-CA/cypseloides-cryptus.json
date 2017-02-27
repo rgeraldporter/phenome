@@ -1,0 +1,19 @@
+{
+    "commonName": "White-chinned Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cypseloides cryptus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCHS",
+        "spec6": "CYPCRY",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

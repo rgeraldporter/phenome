@@ -1,0 +1,19 @@
+{
+    "commonName": "Bufflehead",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bucephala albeola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BUFF",
+        "spec6": "BUCALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

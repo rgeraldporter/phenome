@@ -1,0 +1,19 @@
+{
+    "commonName": "Brown-capped Tyrannulet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ornithion brunneicapillus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BCTY",
+        "spec6": "ORNBRU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

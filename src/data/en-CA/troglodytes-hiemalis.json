@@ -1,0 +1,19 @@
+{
+    "commonName": "Winter Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Troglodytes hiemalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WIWR",
+        "spec6": "TROHIE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Resplendent Quetzal",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pharomachrus mocinno",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "REQU",
+        "spec6": "PHAMOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

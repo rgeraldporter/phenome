@@ -1,0 +1,19 @@
+{
+    "commonName": "Puerto Rican Spindalis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spindalis portoricensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PRSP",
+        "spec6": "SPIPOR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

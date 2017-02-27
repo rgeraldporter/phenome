@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-whiskered Vireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Vireo altiloquus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BWVI",
+        "spec6": "VIRALT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

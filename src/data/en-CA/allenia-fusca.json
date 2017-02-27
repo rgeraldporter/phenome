@@ -1,0 +1,19 @@
+{
+    "commonName": "Scaly-breasted Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Allenia fusca",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBTH",
+        "spec6": "ALLFUC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

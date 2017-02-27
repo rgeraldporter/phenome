@@ -1,0 +1,19 @@
+{
+    "commonName": "Plumbeous Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas plumbea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLUP",
+        "spec6": "PATPLU",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

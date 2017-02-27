@@ -1,0 +1,19 @@
+{
+    "commonName": "Green-breasted Mango",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anthracothorax prevostii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GNBM",
+        "spec6": "ANTPRE",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

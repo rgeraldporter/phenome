@@ -1,0 +1,19 @@
+{
+    "commonName": "Costa Rican Swift",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Chaetura fumosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CRSW",
+        "spec6": "CHAFUM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Streptopelia chinensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPDO",
+        "spec6": "STRCHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

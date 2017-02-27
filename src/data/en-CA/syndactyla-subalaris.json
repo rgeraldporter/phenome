@@ -1,0 +1,19 @@
+{
+    "commonName": "Lineated Foliage-gleaner",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Syndactyla subalaris",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LIFG",
+        "spec6": "SYNSUB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Scaly-naped Pigeon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Patagioenas squamosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNPI",
+        "spec6": "PATSQU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

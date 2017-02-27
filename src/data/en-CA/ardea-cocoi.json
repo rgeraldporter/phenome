@@ -1,0 +1,19 @@
+{
+    "commonName": "Cocoi Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ardea cocoi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COHE",
+        "spec6": "ARDCOC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

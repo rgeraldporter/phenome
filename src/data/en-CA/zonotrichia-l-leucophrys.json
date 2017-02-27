@@ -1,0 +1,19 @@
+{
+    "commonName": "Eastern White-crowned Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zonotrichia l. leucophrys",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "EWCS",
+        "spec6": "ZONLLE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

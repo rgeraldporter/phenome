@@ -1,0 +1,19 @@
+{
+    "commonName": "White-ruffed Manakin",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Corapipo altera",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WRMA",
+        "spec6": "CORALT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Common Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Sterna hirundo",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "COTE",
+        "spec6": "STEHIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

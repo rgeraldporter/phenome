@@ -1,0 +1,19 @@
+{
+    "commonName": "Bay-headed Tanager",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tangara gyrola",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BHTA",
+        "spec6": "TANGYR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

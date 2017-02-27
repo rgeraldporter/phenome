@@ -1,0 +1,19 @@
+{
+    "commonName": "Curve-billed Thrasher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Toxostoma curvirostre",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "CBTH",
+        "spec6": "TOXCUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

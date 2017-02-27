@@ -1,0 +1,19 @@
+{
+    "commonName": "Masked Yellowthroat",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Geothlypis aequinoctialis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MAYE",
+        "spec6": "GEOAEQ",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

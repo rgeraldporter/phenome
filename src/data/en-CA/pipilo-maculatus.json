@@ -1,0 +1,19 @@
+{
+    "commonName": "Spotted Towhee",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pipilo maculatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPTO",
+        "spec6": "PIPMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

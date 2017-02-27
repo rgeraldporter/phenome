@@ -1,0 +1,19 @@
+{
+    "commonName": "Unspotted Saw-whet Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aegolius ridgwayi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "USWO",
+        "spec6": "AEGRID",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

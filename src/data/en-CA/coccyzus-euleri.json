@@ -1,0 +1,19 @@
+{
+    "commonName": "Pearly-breasted Cuckoo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Coccyzus euleri",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBCU",
+        "spec6": "COCEUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

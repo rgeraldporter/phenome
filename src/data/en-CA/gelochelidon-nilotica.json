@@ -1,0 +1,19 @@
+{
+    "commonName": "Gull-billed Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Gelochelidon nilotica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBTE",
+        "spec6": "GELNIL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Black-and-yellow Silky-flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Phainoptila melanoxantha",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAYS",
+        "spec6": "PHAMEL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

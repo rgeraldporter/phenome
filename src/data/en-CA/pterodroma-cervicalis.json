@@ -1,0 +1,19 @@
+{
+    "commonName": "White-necked Petrel",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Pterodroma cervicalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WNPE",
+        "spec6": "PTECER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

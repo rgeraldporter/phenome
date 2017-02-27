@@ -1,0 +1,19 @@
+{
+    "commonName": "Stripe-tailed Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eupherusa eximia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STHM",
+        "spec6": "EUPEXI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

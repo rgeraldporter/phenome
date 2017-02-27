@@ -1,0 +1,19 @@
+{
+    "commonName": "White-crested Elaenia",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elaenia albiceps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCEL",
+        "spec6": "ELAALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

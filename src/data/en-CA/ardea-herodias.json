@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Blue Heron",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ardea herodias",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GBHE",
+        "spec6": "ARDHER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

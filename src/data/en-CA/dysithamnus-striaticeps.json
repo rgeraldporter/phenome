@@ -1,0 +1,19 @@
+{
+    "commonName": "Streak-crowned Antvireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dysithamnus striaticeps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STCA",
+        "spec6": "DYSSTR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

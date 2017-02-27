@@ -1,0 +1,19 @@
+{
+    "commonName": "Purple Honeycreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Cyanerpes caeruleus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PUHO",
+        "spec6": "CYACAE",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "commonName": "Snowy-bellied Hummingbird",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Amazilia edward",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SBEH",
+        "spec6": "AMAEDW",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

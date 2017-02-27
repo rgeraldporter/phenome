@@ -1,0 +1,19 @@
+{
+    "commonName": "Streak-chested Antpitta",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylopezus perspicillatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCHA",
+        "spec6": "HYLPER",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

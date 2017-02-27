@@ -1,0 +1,19 @@
+{
+    "commonName": "South Polar Skua",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Stercorarius maccormicki",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPSK",
+        "spec6": "STEMAC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

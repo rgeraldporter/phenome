@@ -1,0 +1,19 @@
+{
+    "commonName": "White Ibis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Eudocimus albus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHIB",
+        "spec6": "EUDALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

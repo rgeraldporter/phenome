@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tailed Trogon",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Trogon chionurus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTAT",
+        "spec6": "TROCHI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

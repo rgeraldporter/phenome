@@ -1,0 +1,19 @@
+{
+    "commonName": "White Wagtail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Motacilla alba",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WHWA",
+        "spec6": "MOTALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

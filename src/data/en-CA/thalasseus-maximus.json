@@ -1,0 +1,19 @@
+{
+    "commonName": "Royal Tern",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalasseus maximus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ROYT",
+        "spec6": "THAMAX",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

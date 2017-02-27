@@ -1,0 +1,19 @@
+{
+    "commonName": "Bar-tailed Godwit",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Limosa lapponica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BTGO",
+        "spec6": "LIMLAP",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

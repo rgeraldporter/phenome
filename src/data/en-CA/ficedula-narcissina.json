@@ -1,0 +1,19 @@
+{
+    "commonName": "Narcissus Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ficedula narcissina",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NAFL",
+        "spec6": "FICNAR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

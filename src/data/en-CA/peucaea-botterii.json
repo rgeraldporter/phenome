@@ -1,0 +1,19 @@
+{
+    "commonName": "Botteri's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Peucaea botterii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BOSP",
+        "spec6": "PEUBOT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

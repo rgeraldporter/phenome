@@ -1,0 +1,19 @@
+{
+    "commonName": "Sharp-tailed Grouse",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tympanuchus phasianellus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STGR",
+        "spec6": "TYMPHA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

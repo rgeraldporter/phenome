@@ -1,0 +1,19 @@
+{
+    "commonName": "Oaxaca Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aimophila notosticta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "OASP",
+        "spec6": "AIMNOT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

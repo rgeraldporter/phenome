@@ -1,0 +1,19 @@
+{
+    "commonName": "La Selle Thrush",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Turdus swalesi",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "LSTH",
+        "spec6": "TURSWA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

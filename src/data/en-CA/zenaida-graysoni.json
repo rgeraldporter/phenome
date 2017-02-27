@@ -1,0 +1,19 @@
+{
+    "commonName": "Socorro Dove",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Zenaida graysoni",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SODO",
+        "spec6": "ZENGRA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

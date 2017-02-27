@@ -1,0 +1,19 @@
+{
+    "commonName": "Black Rail",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Laterallus jamaicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BLRA",
+        "spec6": "LATJAM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

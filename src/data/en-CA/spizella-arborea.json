@@ -1,0 +1,19 @@
+{
+    "commonName": "American Tree Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spizella arborea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "ATSP",
+        "spec6": "SPIARB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

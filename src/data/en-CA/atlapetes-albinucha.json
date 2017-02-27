@@ -1,0 +1,19 @@
+{
+    "commonName": "White-naped Brush-Finch",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Atlapetes albinucha",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WNBF",
+        "spec6": "ATLALB",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

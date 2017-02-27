@@ -1,0 +1,19 @@
+{
+    "commonName": "Bahama Swallow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Tachycineta cyaneoviridis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAHS",
+        "spec6": "TACCYA",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

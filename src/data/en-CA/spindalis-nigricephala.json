@@ -1,0 +1,19 @@
+{
+    "commonName": "Jamaican Spindalis",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Spindalis nigricephala",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "JAMS",
+        "spec6": "SPINIG",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

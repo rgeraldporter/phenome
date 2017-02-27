@@ -1,0 +1,19 @@
+{
+    "commonName": "Broad-billed Sandpiper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Calidris falcinellus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BBIS",
+        "spec6": "CALFAL",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

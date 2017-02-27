@@ -1,0 +1,19 @@
+{
+    "commonName": "Mallard",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Anas platyrhynchos",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "MALL",
+        "spec6": "ANAPLA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

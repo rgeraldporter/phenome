@@ -1,0 +1,19 @@
+{
+    "commonName": "Baird's Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ammodramus bairdii",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BAIS",
+        "spec6": "AMMBAI",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

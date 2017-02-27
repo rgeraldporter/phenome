@@ -1,0 +1,19 @@
+{
+    "commonName": "Scaly-breasted Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Microcerculus marginatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SCBW",
+        "spec6": "MICMAR",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

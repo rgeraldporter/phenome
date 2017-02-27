@@ -1,0 +1,19 @@
+{
+    "commonName": "Plumbeous Kite",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ictinia plumbea",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PLKI",
+        "spec6": "ICTPLU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

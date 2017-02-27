@@ -1,0 +1,19 @@
+{
+    "commonName": "Sungrebe",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Heliornis fulica",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SUNG",
+        "spec6": "HELFUL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

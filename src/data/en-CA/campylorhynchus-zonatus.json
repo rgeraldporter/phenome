@@ -1,0 +1,19 @@
+{
+    "commonName": "Band-backed Wren",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Campylorhynchus zonatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "BABW",
+        "spec6": "CAMZON",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

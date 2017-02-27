@@ -1,0 +1,19 @@
+{
+    "commonName": "White-capped Albatross",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Thalassarche cauta",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WCAL",
+        "spec6": "THACAU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

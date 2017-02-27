@@ -1,0 +1,19 @@
+{
+    "commonName": "Intermediate Egret",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Mesophoyx intermedia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "INEG",
+        "spec6": "MESINT",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

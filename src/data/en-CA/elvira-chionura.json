@@ -1,0 +1,19 @@
+{
+    "commonName": "White-tailed Emerald",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Elvira chionura",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WTEM",
+        "spec6": "ELVCHI",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

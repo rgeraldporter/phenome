@@ -1,0 +1,19 @@
+{
+    "commonName": "Slate-headed Tody-Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Poecilotriccus sylvia",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SHTF",
+        "spec6": "POESYL",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

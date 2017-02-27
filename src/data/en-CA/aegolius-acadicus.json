@@ -1,0 +1,19 @@
+{
+    "commonName": "Northern Saw-whet Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Aegolius acadicus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "NSWO",
+        "spec6": "AEGACA",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

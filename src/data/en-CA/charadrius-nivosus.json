@@ -1,0 +1,19 @@
+{
+    "commonName": "Snowy Plover",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Charadrius nivosus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SNPL",
+        "spec6": "CHANIV",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

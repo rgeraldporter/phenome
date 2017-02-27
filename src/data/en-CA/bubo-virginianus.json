@@ -1,0 +1,19 @@
+{
+    "commonName": "Great Horned Owl",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Bubo virginianus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GHOW",
+        "spec6": "BUBVIR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

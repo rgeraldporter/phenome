@@ -1,0 +1,19 @@
+{
+    "commonName": "Savanna Hawk",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Buteogallus meridionalis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SAHA",
+        "spec6": "BUTMER",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

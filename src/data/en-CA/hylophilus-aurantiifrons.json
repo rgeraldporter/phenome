@@ -1,0 +1,19 @@
+{
+    "commonName": "Golden-fronted Greenlet",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Hylophilus aurantiifrons",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "GFGR",
+        "spec6": "HYLAUR",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

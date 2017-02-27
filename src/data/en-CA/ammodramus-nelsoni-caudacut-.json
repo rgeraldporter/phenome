@@ -1,0 +1,19 @@
+{
+    "commonName": "Sharp-tailed Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Ammodramus nelsoni/caudacut.",
+    "nonSpeciesTaxon": true,
+    "codes": {
+        "spec": "STSP",
+        "spec6": "AMMNEC",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

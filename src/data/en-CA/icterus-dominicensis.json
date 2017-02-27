@@ -1,0 +1,19 @@
+{
+    "commonName": "Hispaniolan Oriole",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Icterus dominicensis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "HIOR",
+        "spec6": "ICTDOM",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

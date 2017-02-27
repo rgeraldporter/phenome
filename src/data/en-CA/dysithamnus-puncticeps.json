@@ -1,0 +1,19 @@
+{
+    "commonName": "Spot-crowned Antvireo",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dysithamnus puncticeps",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SPCA",
+        "spec6": "DYSPUN",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

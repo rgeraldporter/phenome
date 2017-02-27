@@ -1,0 +1,19 @@
+{
+    "commonName": "Stolid Flycatcher",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Myiarchus stolidus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "STOF",
+        "spec6": "MYISTO",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}

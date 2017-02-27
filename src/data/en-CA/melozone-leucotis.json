@@ -1,0 +1,19 @@
+{
+    "commonName": "White-eared Ground-Sparrow",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Melozone leucotis",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "WEGS",
+        "spec6": "MELLEU",
+        "conflicts": {
+            "spec": false,
+            "spec6": false
+        }
+    }
+}

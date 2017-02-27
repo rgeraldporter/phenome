@@ -1,0 +1,19 @@
+{
+    "commonName": "Plain-brown Woodcreeper",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Dendrocincla fuliginosa",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "PBRW",
+        "spec6": "DENFUA",
+        "conflicts": {
+            "spec": true,
+            "spec6": true
+        }
+    }
+}

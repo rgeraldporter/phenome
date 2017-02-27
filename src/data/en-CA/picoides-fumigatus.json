@@ -1,0 +1,19 @@
+{
+    "commonName": "Smoky-brown Woodpecker",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "clade": "Ornithurae",
+        "class": "Aves"
+    },
+    "scientificName": "Picoides fumigatus",
+    "nonSpeciesTaxon": false,
+    "codes": {
+        "spec": "SMBW",
+        "spec6": "PICFUM",
+        "conflicts": {
+            "spec": true,
+            "spec6": false
+        }
+    }
+}
